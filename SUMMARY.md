@@ -12,6 +12,7 @@
   * [2019.02.12 \(수\) 업데이트 안내](update/2019.02.13.md)
   * [2018.12.19 \(수\) 업데이트 안내](update/2018-12-19.md)
 * [FAQ - 자주 묻는 질문](audit-lobby-faq/README.md)
+  * ["온라인 조서 수정 시 저장이 되지 않고 소속 법인 목록으로 이동합니다."](audit-lobby-faq/dev-express-issue-2019-dec.md)
   * ["프로젝트를 삭제하고 싶습니다."](audit-lobby-faq/project_delete.md)
   * ["프로젝트에서 파일 다운로드는 어떻게 하나요?"](audit-lobby-faq/undefined-3.md)
   * ["프로젝트 정보는 어떻게 수정하나요?"](audit-lobby-faq/project-info-update.md)
