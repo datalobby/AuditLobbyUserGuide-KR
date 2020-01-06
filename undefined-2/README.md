@@ -31,7 +31,7 @@
 
 ### E. 아카이빙 
 
-1. [아카이브 준비 진단](guide-by-scenario/6./4-1..md) 
-2. [아카이브 하기](guide-by-scenario/6./4-2..md) 
+1. [아카이브 준비 진단](guide-by-scenario/6./4-1.archive-diagnosis.md) 
+2. [아카이브 하기](guide-by-scenario/6./4-2.archive.md) 
 3. [아카이브 된 프로젝트 보기 및 관리](guide-by-scenario/5./)
 

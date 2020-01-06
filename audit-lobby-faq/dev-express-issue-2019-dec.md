@@ -27,7 +27,7 @@
 
 1-1-1. 수정하고자 하는 조서를 목록에서 **우클릭** 하여 '**다운로드**'를 선택합니다. 
 
-![](../.gitbook/assets/image%20%2840%29.png)
+![](../.gitbook/assets/image%20%2843%29.png)
 
 1-1-2. 또는, 수정하고자 하는 조서를 더블 클릭하여 온라인에서 연 다음, '**다운로드**' 버튼을 누릅니다.
 
@@ -43,7 +43,7 @@
 
 > 기존 조서를 우클릭 하여 **교체**\(Replace\) 기능을 이용하실 수 있습니다.
 
-![](../.gitbook/assets/image%20%2881%29.png)
+![](../.gitbook/assets/image%20%2885%29.png)
 
 보다 자세한 조서 교체 방법을 [파일교체하기](file-replace.md) \([https://userguide.auditlobby.com/audit-lobby-faq/file-replace](https://userguide.auditlobby.com/audit-lobby-faq/file-replace)\) 항목을 통해 확인하실 수 있습니다. 
 
@@ -51,11 +51,11 @@
 
 조서 화면에서 Actions &gt; Opened Workpaper List 메뉴를 선택합니다. 
 
-![](../.gitbook/assets/image%20%28114%29.png)
+![](../.gitbook/assets/image%20%28119%29.png)
 
 아래와 같이 열려있는 조서 항목이 나타나 '닫기' 또는 '모두 닫기' 버튼을 눌러 열려있는 문서를 닫습니다.
 
-![](../.gitbook/assets/image%20%2870%29.png)
+![](../.gitbook/assets/image%20%2873%29.png)
 
 {% hint style="warning" %}
 반드시 Opened By Others 탭 역시 확인하여 주십시오.
@@ -70,5 +70,9 @@
 어딧로비 온라인 에디터에서는 X 버튼을 눌러 창을 닫는 경우 파일이 닫힌 것으로 간주하지 않습니다. 화면 우측 상단의 '닫기' 버튼을 눌러 닫아주시기 바랍니다. 
 {% endhint %}
 
-![](../.gitbook/assets/image%20%2884%29.png)
+![](../.gitbook/assets/image%20%2888%29.png)
+
+
+
+2. 열려있는 파일 목록 확인하여 중복 작업을 피하시는 경우, 예상치 못한 오류가 발생할 수 있습니다. 중요하고 긴급한 작업을 하시는 경우 1. 파일 교체를 이용한 조서작업을 추천드립니다. 
 
