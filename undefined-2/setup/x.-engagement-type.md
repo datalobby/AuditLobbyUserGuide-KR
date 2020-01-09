@@ -2,9 +2,9 @@
 description: 업무유형(Engagement Type) 등록하기
 ---
 
-# 6. 업무유형 등록/수정/삭제\(Engagement Type\)
+# \(ENG\)6. 업무유형 등록/수정/삭제\(Engagement Type\)
 
-## 업무유형 등록하기  
+## 업무유형 등록하기
 
 1. Organization View 화면의 왼쪽 메뉴 목록에서 '설정\(Set Up\)'을 선택합니다. 
 2. '설정\(Set Up\)' 화면에서 '업무유형\(Engagement Type\)' 탭을 선택합니다. 
@@ -18,7 +18,7 @@ description: 업무유형(Engagement Type) 등록하기
 
 ![](../../.gitbook/assets/a_6_3.jpg)
 
-## 업무유형 수정하기  
+## 업무유형 수정하기
 
 1. Organization View 화면의 왼쪽 메뉴 목록에서 '설정\(Set Up\)'을 선택합니다. 
 2. '설정\(Set Up\)' 화면에서 '업무유형\(Engagement Type\)유' 탭을 선택합니다. 
@@ -32,7 +32,7 @@ description: 업무유형(Engagement Type) 등록하기
 
 ![](../../.gitbook/assets/a_6_6.jpg)
 
-## 업무유형 삭제하기  
+## 업무유형 삭제하기
 
 1. Organization View 화면의 왼쪽 메뉴 목록에서 '설정\(Set Up\)'을 선택합니다.
 2. '설정\(Set Up\)' 화면에서 '업무유형\(Engagement Type\)유' 탭을 선택합니다.
