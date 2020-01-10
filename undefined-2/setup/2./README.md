@@ -1,19 +1,19 @@
 ---
-description: 감사 프로젝트를 진행할 팀을 구성하고 감사 대상 고객을 설정합니다.
+description: How to organize a project team and setting the client access
 ---
 
-# 10. 감사팀 구성 및 고객 설정
+# \(ENG\)10. Project Team Administration and Client Access
 
-### 감사 팀을 구성합니다. \([10-1. 팀 구성 방법 자세히 보기](organize-audit-team.md)\)
+## Organize a project team \([10-1. How to Organize an Inspection Team](organize-audit-team.md)\)
 
-1. 팀원을 추가합니다.
-2. 팀원의 권한을 설정합니다.
+1. Assign team members to the team from the users in the organization
+2. Change the permission of each member in the team
 
-### 품질관리 담당자를 프로젝트에 등록합니다. \([10-3. QC 설정 자세히 보기](2-2.-qc.md)\)
+## Assign a QC manager to the project \([10-3. How to Assign a QC Manager](2-2.-qc.md)\)
 
-> 품질관리 담당자가 등록된 프로젝트의 경우, 프로젝트를 아카이브 하기 위해서는 품질관리 대상으로 지정된 문서가 반드시 품질관리 담당자의 검토를 거쳐야 합니다.
+> If a QC manager is assigned to a project, documents that are assigned to QC must get reviews from the QC manager to archive the project.
 
-### 감사 프로젝트 대상 고객을 설정합니다. \([10-4. 고객 설정 자세히 보기](2-4..md)\)
+## Assign client users to the project. \([10-4. How to Change Clients Setting](2-4..md)\)
 
 
 

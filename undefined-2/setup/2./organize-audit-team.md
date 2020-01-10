@@ -1,45 +1,47 @@
 ---
-description: 감사 프로젝트에 팀원을 추가하고 팀원 개개인의 권한을 설정합니다.
+description: >-
+  How to assign users to the  project team and to change the permission of each
+  team member
 ---
 
-# 10-1. 팀 구성
+# \(ENG\)10-1. Organizing a Project Team
 
 {% hint style="info" %}
-사용자가 같은 본부\(그룹, Group\)에 배정되어 있지 않으면 프로젝트 내부의 사용자 추가하기 창에 나타나지 않습니다. 추가하려는 팀원이 같은 그룹에 배정되어 있는지 법인용 메뉴의 설정 화면에서 먼저 확인하여 주십시오. 
+You cannot find the users who are not assigned to the group on the 'Assign User' window for the project. Check if the user is assigned to the group on the Organization View &gt; 'Set Up' page.  
 {% endhint %}
 
-## 1. 사용자 추가하기  
+## 1. Assign a New User
 
-1. 프로젝트용 메뉴 목록에서 '관리\(Administration\)' 를 선택합니다. 
-2. '관리' 메뉴의 하위 항목인 '사용자'를 선택합니다. 
-3. '관리 &gt; 사용자' 화면의 오른쪽 아래에서 '사용자 생성 및 권한 부여' 버튼을 누릅니다. 
+1. Click the 'Administration' button from the left menu column of the Project View
+2. Click the 'Users' button under 'Administration'
+3. Click the 'Assign User' button at the bottom right of the page
 
 ![](../../../.gitbook/assets/a_9_2-1_2.jpg)
 
-## 2. 사용자 이메일 선택  
+## 2. Select the User Email  
 
-1.  내부 사용자 / 외부 사용자 여부를 선택합니다. 
+1.  Select whether the user is an 'Internal User' or an 'External User'
 
-   > 법인 소속 회계사인 경우 내부 사용자 입니다. 외부 사용자는 고객사의 PBC 담당자, 감리 담당자 등을 위해 사용됩니다.
+   > Accountants who work for the firm are internal users. The people from client companies who are in charge of PBC or inspection are external users.
 
-2. 이메일 항목을 눌러 추가하려는 사용자의 이메일을 선택합니다. 
+2. Click 'Email' field and click the email address of the user that you want to assign
 
-   > 이메일 목록에 추가하려는 사용자가 없는 경우 다음 사항을 확인하여 주십시오. 
+   > If the user's email address is not on the list, please check the followings.
    >
-   > 1. 추가하려는 사용자가 법인에 등록되어 있습니까?
-   > 2. 추가하려는 사용자가 같은 본부\(그룹\)에 배정되어 있습니까? 
+   > 1. Is the user assigned to the firm?
+   > 2. Is the user assigned to the same group?
    >
-   > 위 사항은 법인용 메뉴의 설정\(Setup\) 화면에서 확인하실 수 있습니다.
+   > You can check that on the Organization View &gt; 'Set Up' page
 
-3. 이름, 사용자 ID, Organization Title 은 선택한 이메일에 따라 자동으로 입력됩니다. 
+3. The name, user ID, and the title would be entered automatically according to the email address
 
 ![](../../../.gitbook/assets/a_9_2-1_3.jpg)
 
-## 3. 프로젝트 내부 직책 설정 
+## 3. Select the Role in the Project
 
 ![](../../../.gitbook/assets/a_9_2-1_4.jpg)
 
-프로젝트 내부에서 부여된 직책에 대해 설정하는 부분입니다. 총 8가지 직책을 설정할 수 있습니다. 
+Project Role field is about selecting the role\(position\) of the user in the project. There are 8 different options.
 
 * Staff
 * Senior
@@ -50,52 +52,58 @@ description: 감사 프로젝트에 팀원을 추가하고 팀원 개개인의 �
 * Concurring Partner
 * Quality Control
 
-Staff, Senior, Manager, Director, Partner 는 모두 직책의 명칭일 뿐입니다. 어딧로비 프로젝트 내부의 실질적인 권한 차이는 액세스 권한 설정에서 정해집니다. 
+Staff, Senior, Manager, Director, and Partner are just names of different positions. The actual differences in level of authority in the project on Audit LOBBY would be assigned in the Project Access Type field. 
 
-Engagement Partner, Concurring Partner, Quality Control 은 설정에 따라 권한 또는 아카이브 조건에 영향을 줄 수 있습니다. 선택 시 주의하여 주십시오. 
+By assigning someone as Engagement Partner, Concurring Partner, or Quality Control can affect the permissions or archive conditions. Please be aware when selecting them.
 
-## 4. 읽기 전용 Read Only 여부 설정 
+## 4. Select the Read Only Option
 
 ![](../../../.gitbook/assets/a_9_2-1_4_assign-user-readonly.jpg)
 
-* Read Only 를 Yes로 설정하는 경우 프로젝트 내 모든 문서의 수정 등이 불가능해 집니다. 
-* 일반 팀원인 경우  Read Only를 No 로 설정하여 주십시오. \(기본적으로 No 가 선택되어 있습니다.\) 
-* 프로젝트 내부 내용을 볼 수 있어야 하지만 수정하는 일을 막고 싶은 경우 Read Only를 Yes 로 설정합니다.  
+* The users with Read Only option set to Yes cannot edit any document in the project
+* For general members of the team please set Read Only option to No
+* If you want to let a user to see the contents in the project but do not want the user to edit, set the Read Only option to Yes
 
-## 5. 프로젝트 내부 권한 설정
+## 5. Select the Project Access Type
 
 ![](../../../.gitbook/assets/a_9_2-1_4_assign-user-access.jpg)
 
-프로젝트 내부의 실질적인 권한을 조정하는 부분입니다.  
+
+
+The Project Access Type field is where you set the level of authority in the project.
 
 #### 5-1. Project & Archive Admin 
 
-* 프로젝트 관리자인 동시에 아카이브 권한을 가지게 됩니다. 
-* 프로젝트 관리자의 권한을 가집니다. 
-* 아카이브를 하거나 아카이브를 해제할 수 있습니다. 
+* The user becomes a project manager and gets authority to archive
+* The user gets the project manager authority
+* The user can archive and unarchive
 
 #### 5-2. Project Admin
 
-* 프로젝트 관리자의 권한을 가집니다. 
-  * 사용자를 프로젝트에 추가하거나 배제할 수 있습니다. \(assign / unassign\) 
-* 프로젝트를 아카이브 할 수 없습니다. 
+* The user gets the project manager authority
+  * The user can assign and unassign users to the project
+* The user cannot archive the project
 
 #### 5-3. Project User 
 
-* 프로젝트 참여자입니다. 
-  * 조서를 생성하거나 수정할 수 있습니다. 
-  * 조서를 사인오프 할 수 있습니다. 
-* 프로젝트를 아카이브 할 수 없습니다.   
+* The user becomes a project user
+  * The user can create and edit a workpaper
+  * The user can sign off a workpaper
+* The user cannot archive the project
 
-## 6.  프로젝트 롤 포워드\(Roll-forward, 프로젝트 복제기능\) 권한 설정 
+  
+
+## 6. Select the Project Roll Forward Permission Option
 
 ![](../../../.gitbook/assets/a_9_2-1_4_assign-user-rf-permission.jpg)
 
-새로운 프로젝트를 생성할 경우, 이 프로젝트를 복사하여 사용할 수 있는지 여부를 설정하는 부분입니다.  Yes로 설정할 경우 해당 사용자가 새로운 프로젝트를 생성할 때 롤 포워드가 가능한 목록에 이 프로젝트가 나타납니다. 
 
-No 로 선택할 경우 해당 사용자는 프로젝트 생성시 이 프로젝트를 롤 포워드 가능한 목록에서 볼 수 없습니다. 
+
+Roll Forward Permission field is about giving the permission to copy the project and paste it when creating a new project. When users with Roll Forward Permission set to Yes create a new project, this project will show up in the list of projects that they can roll forward.
+
+Users with Roll Forward Permission set to No cannot see this project on the list of projects that they can roll forward.
 
 {% hint style="info" %}
-법인 단계의 권한이 User Access 인 경우 프로젝트를 생성할 수 없으므로, Roll-forward 권한을 허용하더라도 프로젝트를 만들 수 없습니다.  
+Since users with only User Access right cannot create a project, though you set their Foll Forward Permission to Yes, they still cannot create a new project nor forward this project.
 {% endhint %}
 
