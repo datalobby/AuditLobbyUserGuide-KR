@@ -62,7 +62,7 @@
     * [\(ENG\)7. Cabinet Creation](undefined-2/setup/1-2..md)
     * [\(ENG\)8. Template Creation](undefined-2/setup/x.-2/README.md)
       * [\(ENG\)8-1. Creating a Project Template](undefined-2/setup/x.-2/x-1..md)
-      * [\(ENG\)8-2. 감사조서 라이브러리](undefined-2/setup/x.-2/x-2..md)
+      * [\(ENG\)8-2. Workpaper Library](undefined-2/setup/x.-2/x-2..md)
     * [\(ENG\)9. 프로젝트 생성](undefined-2/setup/1-3..md)
     * [\(ENG\)10. 감사팀 구성 및 고객 설정](undefined-2/setup/2./README.md)
       * [\(ENG\)10-1. 팀 구성](undefined-2/setup/2./organize-audit-team.md)
