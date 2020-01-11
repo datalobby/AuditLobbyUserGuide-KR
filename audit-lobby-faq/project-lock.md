@@ -2,25 +2,25 @@
 description: 프로젝트 잠금 방법을 알려드립니다.
 ---
 
-# "Project Lock은 어떻게 하나요?"
+# \(ENG\)"How can I lock the project"
 
-* 아카이브 준비 진단의 필수 조건을 모두 만족하면 '아카이브 하기' 버튼이 나타납니다.
-* 프로젝트 잠금 처리\(Lock\) 해야 아카이브를 진행할 수 있습니다.
-* 아카이브 준비 진단 페이지 하단의 ‘아카이브 하기’ 버튼을 클릭합니다.
+* Prepare the archive When all of the diagnostic requirements are met, the 'Archive' button appears.
+* The project must be locked to archive the project.
+* Ready to archive Click the 'Archive' button at the bottom of the Diagnostics page.
 
-![Project Home &amp;gt; &#xC544;&#xCE74;&#xC774;&#xBE0C; &#xD558;&#xAE30; &amp;gt; &#xC544;&#xCE74;&#xC774;&#xBE0C; &#xC900;&#xBE44; &#xC9C4;&#xB2E8; &amp;gt; &#xC544;&#xCE74;&#xC774;&#xBE0C; &#xD558;&#xAE30;](../.gitbook/assets/4-2-01.jpg)
+![Project Home &amp;gt; Archive &amp;gt; Archive Diagnosis &amp;gt; Archive](../.gitbook/assets/4-2-01.jpg)
 
-![&#xC544;&#xCE74;&#xC774;&#xBE0C; &#xD558;&#xAE30; &amp;gt; &#xD504;&#xB85C;&#xC81D;&#xD2B8; &#xC7A0;&#xAE08; \(Lock\)](../.gitbook/assets/23.jpg)
+![Archive &amp;gt; Lock the project](../.gitbook/assets/23.jpg)
 
-* 아카이브 하기 버튼을 누르면  본인 확인을 위해 이메일 주소 입력창이 나타납니다.  
-* 본인의 이메일 주소를 입력한 뒤 ‘ARCHIVE’ 버튼을 클릭합니다.
-* 아카이브 하기 버튼을 누르면 프로젝트 잠금 요청창이 나타납니다.
-* 프로젝트 잠금\(Lock\)버튼을 클릭합니다.  
+* When you click the archive button, an email address input window appears to confirm your identity.
+* Enter your email address and click the 'Archive' button. 
+* If you click the 'Archive' button project lock window will appear.
+* Click the Lock this Project button.
 
-![Project Home &amp;gt; &#xC544;&#xCE74;&#xC774;&#xBE0C; &#xD558;&#xAE30; &amp;gt; &#xC544;&#xCE74;&#xC774;&#xBE0C; &#xC900;&#xBE44; &#xC9C4;&#xB2E8; &amp;gt; &#xD504;&#xB85C;&#xC81D;&#xD2B8; &#xC7A0;&#xAE08;\(Lock\)/&#xD574;&#xC81C;\(Unlock\)](../.gitbook/assets/12.png)
+![Project Home &amp;gt; Archive &amp;gt; Archive Diagnosis &amp;gt; Lock this project](../.gitbook/assets/12.png)
 
-* 프로젝트 잠금은 아카이브 준비 진단 화면에 있는 프로젝트 잠금\(Lock\) / 잠금 해제\(Unlock\) 버튼으로 가능합니다. 이 버튼은 프로젝트 관리자 \(project admin\) 또는 프로젝트 아카이브 관리자\(project & archive admin\)인 경우 나타납니다. 
-* 프로젝트를 잠그면 조서의 내용을 수정할 수 없습니다.
-* 프로젝트를 잠그면 프로젝트 제목 옆에 주황색 자물쇠 아이콘이 나타납니다.
-* 아카이브에 성공하면 '마이페이지' 화면으로 전환되며 성공 알림 메시지가 나타납니다. 
+* You can lock the project with the Lock this project button on the Archive Diagnosis screen. This button appears if you are a project administrator \(project admin\) or project & archive admin. 
+* If you lock the project, you cannot change the contents of the workpaper file. 
+* When you lock the project, an orange lock icon appears next to the project title. 
+* If the archive is successful, screen will be switched to the My Page screen and a success notification message will appear.
 

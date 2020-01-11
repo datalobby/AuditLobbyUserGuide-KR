@@ -1,26 +1,26 @@
 ---
-description: 파일 업로드를 시도하면 웹 브라우저가 강제종료 될 때
+description: When you try to upload a file and the web browser is forcibly terminated
 ---
 
-# "파일 업로드 시 웹 브라우저가 강제종료됩니다."
+# \(ENG\)"Web browser is abruptly closed when uploading the file."
 
-### "파일을 업로드 하려고 하는데 업로드 버튼을 누르자 인터넷 창이 갑자기 꺼집니다."
+## "I want to upload a file, but when I click the Upload button, the Internet window suddenly goes out."
 
-> * 윈도우 컴퓨터 사용자의 경우에 해당합니다. 
-> * 크롬 브라우저 전체에 나타나는 현상입니다.
+> * This is for Windows computer users
+> * This is what happens throughout the Chrome browser
 
-### 한글과 컴퓨터 2010~2014 이용 시, 크롬 브라우저에서 파일 업로드를 시도하면 웹 브라우저가 강제종료되는 현상이 간혹 나타납니다. 
+## The web browser is forcibly terminated while uploading a HWP \(2010~2014 version\) file from the Chrome browser.
 
-다음 안내를 따라 조치하여 주십시오. 
+Please take the following guidance. 
 
-1. Window 탐색기를 실행합니다. 
-2. C 드라이브로 들어갑니다. 
-3. Program Files \(x86\) 폴더로 들어갑니다. 
-4. Hnc 폴더로 들어갑니다. 
-5. Hwp80 \(또는 HOffice9\) 폴더로  들어갑니다. 
-6. 윈도우 탐색시 우측 상단 검색창에 HncShellExt64.dll 파일을 검색하여 찾습니다. 
-7. 해당 파일의 이름을 HncShellExt64.dll.old 로 변경합니다. \(기존 이름 뒤에 .old 라는 단어를 붙여줍니다. \)  
-8. 모든 크롬 웹 브라우저를 종료한 후 다시 열어 파일 업로드\(첨부\) 기능이 작동하는지 확인합니다.  
+1. Run Window Explorer
+2. Enter drive C
+3. Enter the Program Files \(x86\) folder
+4. Enter the Hnc folder
+5. Enter Hwp80 \(or HOffice9\) folder
+6. When searching for the window, search for HncShellExt64.dll file in the upper right search box and find it
+7. Rename the file to HncShellExt64.dll.old \(Append the old name followed by the word .old.\) 
+8. Quit all Chrome Web browsers and reopen them to see if the file upload \(attach\) feature works
 
-> 문제가 지속되는 경우 support@datalobby.co.kr로 연락 부탁드립니다.
+> If the problem persists, please contact support@datalobby.co.kr.
 

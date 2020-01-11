@@ -1,40 +1,38 @@
 ---
-description: 정확한 아이디와 비밀번호로 로그인해도 싱크로비에 로그인할 수 없는 경우 임시조치
+description: >-
+  If you can not log in to the sync lobby when you log in with the correct
+  username and password, take action.
 ---
 
-# "싱크로비에 로그인이 안 돼요."
+# \(ENG\)"I cannot log into the Sync Lobby."
 
-## 싱크로비 버전이 업데이트 됨에 따라 로그인 할 수 없는 경우  
+## 싱크로비 버전이 업데이트 됨에 따라 로그인 할 수 없는 경우
 
-싱크로비의 버전이 업데이트 되면서 새로운 버전의 싱크로비가 이전 버전의 데이터 때문에 정상적으로 로그인 할 수 없는 문제가 발생할 수 있습니다.  따라서 싱크로비를 정상적으로 삭제하거나 작동시키기 위하여 이전 버전의 데이터를 수동으로 삭제해야합니다.
+## I can not log in Sync Lobby after version is updated.
 
+As the version of Sync Lobby is updated, a new version of Sync Lobby may not be able to log in normally due to previous versions of data. Therefore, to properly delete or operate the Sync lobby, you must manually delete the old version of the data.
 
+In this case, please take the following measures. 
 
-이 경우 아래와 같은 조치를 취해주시기 바랍니다.
+### 1.In Windows Explorer, navigate to your folder
 
-1. 윈도우의 탐색기에서 사용자의 폴더로 이동합니다. 
+**C drive \(main drive\) &gt;  Users &gt;  Account \(Windows login account\)**
 
-     **C드라이브** \(메인 드라이브\) &gt; **사용자** \(Users\) &gt; **계정** \(윈도우 로그인 시 계정\)
+![C Drive](../.gitbook/assets/1-2.png)
 
-![C&#xB4DC;&#xB77C;&#xC774;&#xBE0C;](../.gitbook/assets/1%20%282%29.png)
+![User Account \(Folder\)](../.gitbook/assets/2.png)
 
-![&#xBCF8;&#xC778;&#xACC4;&#xC815; &#xD3F4;&#xB354;](../.gitbook/assets/2.png)
+### 2. Navigate to the AppData folder \(If the file is hidden, check Show hidden in the View tab\)
 
+![AppData Folder](../.gitbook/assets/3-2.png)
 
+### **3.   Delete sync\_lobby folder in Roaming folder**
 
-  2. **AppData** 폴더로 이동합니다. \(파일이 숨겨져있을 경우 **보기** 탭에서 **숨김 항목 표시**를 체크하시기 바랍니다\)
+![Roaming Folder](../.gitbook/assets/4-1.png)
 
-![AppData &#xD3F4;&#xB354;](../.gitbook/assets/3%20%282%29.png)
+![sync\_lobby Folder](../.gitbook/assets/5-2.png)
 
-  3. Roaming  폴더 안의 sync\_lobby 폴더 삭제합니다.
+Note: If the program is running, it will not be smoothly deleted.
 
-![Roaming &#xD3F4;&#xB354;](../.gitbook/assets/4%20%281%29.png)
-
-![sync\_lobby &#xD3F4;&#xB354;](../.gitbook/assets/5%20%282%29.png)
-
-주의: 프로그램이 실행중인 경우 삭제가 원활하게 되지 않으니 프로그램을 종료하고 진행하시기 바랍니다.
-
-
-
-별도의 조치 없이 업데이트가 적용될 수 있는 방안을 준비하고 있습니다. 
+We are working on ways to apply the update without any action.
 

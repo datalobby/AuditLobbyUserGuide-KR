@@ -1,26 +1,28 @@
 ---
-description: 프로젝트를 다른 폴더로 옮기고 싶은 경우
+description: How to move the project to another location in the cabinet.
 ---
 
-# "프로젝트를 옮기고 싶습니다."
+# \(ENG\)"I want to move the project.."
 
-## 1. 이동시키려는 프로젝트를 선택합니다. 
+## 1. Select the project you want to move.
 
-## 2. 화면상단의 '이동' 버튼을 클릭합니다. 
+## 2. Click the "Move" button at the top of the screen.
 
-![](../.gitbook/assets/image%20%2842%29.png)
+![](../.gitbook/assets/image-42.png)
 
-## 3. 경고문을 확인하고 OK를 누릅니다. 
+## 3. Confirm the warning and press OK.
 
-![](../.gitbook/assets/image%20%28162%29.png)
+![](../.gitbook/assets/image-162.png)
 
-## 4. 프로젝트를 옮길 폴더를 더블 클릭하여 선택합니다. 
+## 4. Double-click the folder to move the project.
 
-폴더 구조에 따라 폴더를 선택하면 화면에 아무것도 나타나지 않을 수 있습니다. 프로젝트 이동은 정상적으로 작동합니다.  
+If you select a folder according to the folder structure, nothing may appear on the screen. Project movement works normally.
 
-## 5. Move 버튼을 클릭한 후  화면 상단의 붉은색 로딩바가 완료되는 것을 기다립니다. 
 
-![](../.gitbook/assets/image%20%28161%29.png)
 
-Move 버튼을 여러 번 누르면 명령이 중복요청되어 오히려 시간이 많이 소요될 수 있습니다. 화면 상단의 붉은 로딩바가 다 진행될 때까지 잠시 기다려 주십시오. 
+## 5. Click the Move button and wait for the red loading bar at the top of the screen to finish.
+
+![](../.gitbook/assets/image-161.png)
+
+If you press the Move button several times, the command may be duplicated and it may take more time. Please wait for the red loading bar at the top of the screen to proceed.
 

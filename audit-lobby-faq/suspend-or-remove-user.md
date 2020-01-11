@@ -1,94 +1,94 @@
 ---
-description: 어딧로비에서 사용자를 차단(Suspend) 하거나 삭제(Remove) 하는 방법을 알려드립니다.
+description: How to Suspend or remove users from the Audit lobby.
 ---
 
-# "퇴사자는 어떻게 처리하나요?" - 사용자 차단 / 삭제하기
+# \(ENG\)"How can I suspend or remove a user?" - Suspend / Remove User
 
-사용자가 퇴사하였거나 다른 이유로 인해 어딧로비 이용을 제한해야 할 경우, 사용자를 차단하거나 계정을 삭제할 수 있습니다. 단, 계정을 삭제하는 경우 동일한 이메일로 재등록할 수 없습니다. 
+If the user has left the company or needs to restrict access to the app for other reasons, you can block the user or delete the account. However, if you delete an account, you will not be able to re-enroll with the same email.
 
-## 이 글의 목차 
+## Summary 
 
-1. 사용자 차단/삭제 요약보기 
-2. 사용자 차단하기   
-3. 사용자 삭제하기  
-4. 차단한 사용자 복구하기   
+1. Summary about how to suspend/remove the user
+2. Suspend the user
+3. Remove the user
+4. Restore suspended user account
 
-## 1. 사용자 차단/삭제 요약 보기 
+## 1. Summary about how to suspend/remove the user.
 
-1. 법인용 화면\(Organization View\)에서 '**설정**\(Setup\)' 메뉴를 선택합니다.  
-2. 설정 메뉴 화면에서 '**사용자**\(User\)' 탭을 선택합니다. 
-3. 차단 또는 삭제할 사용자를 검색합니다.  
-4. 사용자 정보 오른쪽 끝의 메뉴 버튼\(3개의 점으로 된 버튼\)을 눌러 **차단**\(Suspend\)을 클릭합니다. 
-5. 화면 오른쪽 위에 사용자를 **차단**하였다는 메시지가 나타나며 해당 사용자가 회색으로 변합니다. 
+1. Click the 'Set Up' button from the left menu column of the Organization View
+2. Click the 'User' tab from the setup menu screen
+3. Search for the name of the user who wants to remove or delete
+4. Click the menu button \(three point button\) at the right end of the user information and click Suspend
+5. A message appears on the upper right of the screen saying that the user has been blocked and the user is greyed out
 
-   > 이후 사용자는 어딧로비에 로그인 할 수 없으며, 모든 소속 프로젝트에서 비활성화 처리됩니다. 사용자의 사인오프 및 활동 내역은 어딧로비 내에 보존됩니다. 사용자를 복구하는 경우 동일한 사용자로 다시 활동할 수 있습니다. 단, 사용자를 복구하더라도 개별 프로젝트 내에는 비활성화 처리되어 있으므로, 접근을 허가하고자 하는 프로젝트에서 별도로 사용자를 활성화 하여야 합니다.
+   > Users will no longer be able to log in to auditlobby and will be deactivated in all their projects. The user's sign-off and activity are preserved in auditlobby. If you recover a user, you can reactivate as the same user. However, even if the user is restored, the individual project is deactivated. Therefore, the user must be activated separately in the project to which access is granted.
 
-6. 사용자를 삭제해야 하는 경우, 차단된 사용자의 오른쪽 끝 메뉴 버튼을 눌러 **삭제**\(Remove\)를 클릭합니다. 
+6. If you need to delete a user, click the right-click menu button of the blocked user and click Remove
 
-   > 삭제된 사용자는 사용자 목록에서 사라지며 사인오프 및 활동 내역은 어딧로비 내에 보존됩니다. 삭제 시 동일한 계정을 다시 생성할 수 없으며, 예전의 기록을 이어서 작업할 수 없습니다. 사용자 삭제시 주의하여 주십시오.
+   > Deleted users disappear from the user list, sign-offs and activity history are preserved in the lobby. You will not be able to regenerate the same account when you delete it, and you will not be able to continue working on your old record. Be careful when deleting users.
 
-## 2. 사용자 차단하기 
+## 2. Suspend the user.
 
 {% hint style="info" %}
-* 차단된 사용자는 어딧로비에 로그인 할 수 없습니다. 
-* 차단된 사용자는 프로젝트 내에서 비활성화 처리됩니다. 
-* 차단된 사용자의 사인오프 및 활동은 그대로 보존됩니다. 
-* 차단된 사용자는 다시 복구할 수 있습니다. 
+* Blocked users will not be able to log in to the audit lobby
+* Blocked users are deactivated within the project
+* The sign-off and activity of the blocked user is preserved
+* Blocked users can be recovered again
 {% endhint %}
 
-![1. &#xBC95;&#xC778;&#xC6A9; &#xBA54;&#xB274; &amp;gt; &#xC124;&#xC815; &amp;gt; &#xC0AC;&#xC6A9;&#xC790; &#xD654;&#xBA74;&#xC73C;&#xB85C; &#xB4E4;&#xC5B4;&#xAC11;&#xB2C8;&#xB2E4;. ](../.gitbook/assets/remove_user_01.jpg)
 
-1. 법인용 화면의 메뉴에서 '설정\(Setup\)' 을 선택합니다. 
-2. 화면 상단에서  '사용자' 탭을 선택합니다. 
-3. 차단하고자 하는 사용자의  오른쪽 끝에서 점 세 개로 이루어진 버튼을 클릭합니다. 
 
-![2. &#xCC28;&#xB2E8;&#xD558;&#xACE0;&#xC790; &#xD558;&#xB294; &#xC0AC;&#xC6A9;&#xC790;&#xC758; &#xC624;&#xB978;&#xCABD; &#xB05D;&#xC5D0;&#xC11C; &#xCC28;&#xB2E8; \(Suspend\) &#xC744; &#xB204;&#xB985;&#xB2C8;&#xB2E4;. ](../.gitbook/assets/remove_user_02.jpg)
+![1. Organization Menu &amp;gt; Set Up &amp;gt; User ](../.gitbook/assets/remove_user_01.jpg)
 
-* 버튼을 누르면 'Edit' 과 'Suspend' 메뉴가 나타납니다.  
-* 'Suspend' 를 선택합니다. 
+1. From the menu of corporation screen, select 'Setup'
+2. At the top of the screen, select the "Users" tab
+3. Click the button with the three dots at the right end of the user you want to block
 
-![3. &#xC0AC;&#xC6A9;&#xC790;&#xAC00; &#xD504;&#xB85C;&#xC81D;&#xD2B8;&#xC5D0; &#xBC30;&#xC815;&#xB418;&#xC5B4; &#xC788;&#xB294; &#xACBD;&#xC6B0; &#xACBD;&#xACE0;&#xBB38;&#xC774; &#xB098;&#xD0C0;&#xB0A9;&#xB2C8;&#xB2E4;. ](../.gitbook/assets/remove_user_03.jpg)
+![2. Click Right Side of the User and select Suspend button. ](../.gitbook/assets/remove_user_02.jpg)
 
-1. '이 사용자를 정말 차단하시겠습니까?' 라는 경고창이 나타나면 'Suspend' 를 누릅니다. 
-2. 사용자가 프로젝트에 배정되어 있는 경우 배정된 프로젝트 목록이 나타납니다. 계속 진행할 경우 'Suspend'를 누릅니다. 
+* When you click the button, 'Edit' and 'Suspend' will be displayed
+* 'Select 'Suspend'
 
-   > * 배정된 프로젝트가 있더라도 사용자를 차단할 수 있습니다. 차단된 사용자는 배정된 프로젝트 내부에서 비활성화 됩니다. 
-   > * 차단된 사용자의 사인오프 및 활동 내역은 어딧로비에 그대로 남아있습니다. 
-   > * 차단된 사용자가 있는 프로젝트가 아카이브 될 경우, 해당 사용자는 차단된 상태로 기록됩니다.
+![3. List of projects that the user is assigned in the warning message](../.gitbook/assets/remove_user_03.jpg)
 
-![&#xD654;&#xBA74; &#xC624;&#xB978;&#xCABD; &#xC0C1;&#xB2E8;&#xC5D0; &#xC131;&#xACF5; &#xC54C;&#xB9BC;&#xC774; &#xB098;&#xD0C0;&#xB098;&#xACE0; &#xC0AC;&#xC6A9;&#xC790;&#xAC00; &#xD68C;&#xC0C9;&#xC73C;&#xB85C; &#xBCC0;&#xD569;&#xB2C8;&#xB2E4;. ](../.gitbook/assets/remove_user_04.jpg)
+1. When the 'Are you sure you want to block this user?' warning appears, press 'Suspend'
+2. If the user is assigned to a project, a list of assigned projects appears. Press 'Suspend' to continue
 
-## 3. 사용자 삭제하기 
+   > * You can block users even if they have an assigned project. Blocked users are deactivated inside assigned projects
+   > * Signed-offs and activity history for blocked users remain in Audit Lobby
+   > * If a project with blocked users is archived, the user is logged as blocked
+
+![Grayed-Out User with the success message \(Green\) ](../.gitbook/assets/remove_user_04.jpg)
+
+## 3. Remove the user.
 
 {% hint style="danger" %}
-* 사용자를 먼저 '차단'해야 '삭제'할 수 있습니다. 삭제할 사용자를 먼저 '차단' 하여 주십시오. 
-* 삭제한 사용자는 복구할 수 없습니다. 삭제 시 주의하여 주십시오. 
-* 삭제된 사용자가 있는 프로젝트가 아카이브 될 경우, 해당 사용자는 삭제된 상태로 기록됩니다. 
+* You must "block" users before you can "delete" them. Please first "block" the user to be deleted
+* Deleted users can not be recovered. Be careful when erasing
+* If a project with a deleted user is archived, the user is recorded as deleted
 {% endhint %}
 
 {% hint style="info" %}
-* 삭제된 사용자의 사인오프 및 활동내역은 그대로 보존됩니다. 
+* The sign-off and activity history of the deleted user is retained
 {% endhint %}
 
-![1. &#xCC28;&#xB2E8;&#xD55C; &#xC0AC;&#xC6A9;&#xC790;&#xC758; &#xC624;&#xB978;&#xCABD; &#xB05D;&#xC5D0;&#xC11C; &#xC0AD;&#xC81C;\(Remove\)&#xB97C; &#xD074;&#xB9AD;&#xD569;&#xB2C8;&#xB2E4;. ](../.gitbook/assets/remove_user_05.jpg)
+![1. Select the user to remove and Click Remove button. ](../.gitbook/assets/remove_user_05.jpg)
 
-![2. Remove User &#xB97C; &#xD074;&#xB9AD;&#xD569;&#xB2C8;&#xB2E4;. ](../.gitbook/assets/remove_user_06.jpg)
+![2. Click Remove User to proceed. ](../.gitbook/assets/remove_user_06.jpg)
 
-![3. &#xD654;&#xBA74; &#xC624;&#xB978;&#xCABD; &#xC0C1;&#xB2E8;&#xC5D0; &#xC131;&#xACF5;&#xBA54;&#xC2DC;&#xC9C0;&#xAC00; &#xB098;&#xD0C0;&#xB098;&#xACE0; &#xC0AC;&#xC6A9;&#xC790;&#xAC00; &#xBAA9;&#xB85D;&#xC5D0;&#xC11C; &#xC0AC;&#xB77C;&#xC9D1;&#xB2C8;&#xB2E4;.   ](../.gitbook/assets/remove_user_07.jpg)
+![3. The user will be removed with the success message \(Green\). ](../.gitbook/assets/remove_user_07.jpg)
 
-## 4.  차단한 사용자 복구하기 
+## Restore suspended user account.
 
 {% hint style="danger" %}
-* 삭제한 사용자는 복구할 수 없습니다. 
+* Deleted user can not be restored
 {% endhint %}
 
 {% hint style="info" %}
-* 복구된 사용자는 어딧로비에 로그인 할 수 있지만, **개별 프로젝트 내에서는 여전히 비활성화 상태**입니다. 사용자를 복구한 이후 접근을 허가하고자 하는 프로젝트 내에서 사용자를 활성화하여 주십시오. 
+* Recovered users can log in to the Idlo lobby, but are still disabled within individual projects. After restoring the user, activate the user within the project that you want to grant access to
 {% endhint %}
 
-![&#xCC28;&#xB2E8;&#xB41C; &#xC0AC;&#xC6A9;&#xC790;&#xC758; &#xC624;&#xB978;&#xCABD; &#xB05D;&#xC5D0;&#xC11C; &#xBCF5;&#xAD6C;\(Restore\)&#xB97C; &#xD074;&#xB9AD;&#xD569;&#xB2C8;&#xB2E4;. ](../.gitbook/assets/restore_user_01.jpg)
+![Click Restore of the deactivated user. ](../.gitbook/assets/restore_user_01.jpg)
 
-![&#xACBD;&#xACE0;&#xCC3D;&#xC774; &#xB098;&#xD0C0;&#xB098;&#xBA74; &apos;&#xC0AC;&#xC6A9;&#xC790; &#xCC28;&#xB2E8; &#xD574;&#xC81C;&apos;&#xB97C; &#xD074;&#xB9AD;&#xD569;&#xB2C8;&#xB2E4;. ](../.gitbook/assets/restore_user_02.jpg)
-
-
+![Click Restore the user. ](../.gitbook/assets/restore_user_02.jpg)
 

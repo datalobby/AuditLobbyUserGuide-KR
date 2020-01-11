@@ -1,36 +1,34 @@
 ---
-description: 화면이 나타나지 않는 상황의 대처방안을 알려드립니다.
+description: How to resolve the situation where the screen does not appear.
 ---
 
-# "화면이 나타나지 않아요."
+# \(ENG\)"The screen does not appear."
 
-어딧로비 화면이 나타나지 않는 상황은 크게 두가지 입니다. 
+There are two major situations where the Lobby screen does not appear. 
 
-1. 인터넷 익스플로러 등 크롬이 아닌 웹 브라우저로 어딧로비에 접속한 경우    
-2. 시스템 업데이트로 인해 캐시 삭제가 필요한 경우    
+1. If you are using an Internet Explorer browser and not a Chrome browser
+2. If the cache update requires a system update
 
-## 1.  인터넷  익스플로러 등 크롬이 아닌 웹 브라우저로 어딧로비에 접속한 경우 
+## 1.  You are accessing Audit Lobby using a web browser other than Chrome, such as Internet Explorer
 
-어딧로비는 구글이 제공하는 '크롬'  웹 브라우저에 최적화 되어있습니다. 크롬 브라우저를 통해 어딧로비에 접속해주시기 바랍니다. 
+It is optimized for the 'Chrome' web browser provided by Google. Please access the Donation Lobby via the Chrome browser.
 
-[크롬 브라우저 설치 방법 안내 ](../undefined-2/setup/0.-2/)
+[Guidance of Install Google Chrome](../undefined-2/setup/0.-2/)
 
-## 2. 시스템 업데이트 이후 화면이 나타나지 않는 경우 
+## 2. The screen does not appear after system update
 
-어딧로비에 사용자 피드백을 반영하는 작업이 지속적으로 진행되고 있습니다. 업데이트가 적용된 이후 사용자의 컴퓨터 환경에 따라 간혹 화면이 나타나지 않는 경우가 발생하는 것으로 보입니다. 
+We are constantly working to reflect user feedback in Audit Lobby. It seems that sometimes the screen does not appear depending on your computer environment since the update was applied.
 
-이 경우 아래와 같은 조치를 취해주시기 바랍니다.
+In this case, please take the following measures. 
 
-1. 로그아웃 후 다시 로그인 하여 주십시오.
-2. 로그아웃 후 로그인을 다시 했는데도 문제가 해결되지 않는 경우  
-   1. **윈도우** OS 사용자: 키보드의 **control + shift + r** 키를 함께 누릅니다. 크롬 웹사이트가 '**강력 새로고침**' 되며 업데이트가 정상적으로 반영됩니다. 
-   2. **맥** OS 사용자: 키보드의 **command + shift +  r** 키를 함께 누릅니다. 크롬 웹사이트가 '**강력 새로고침**' 되며 업데이트가 정상적으로 반영됩니다. 
+1. Log out and log back in
+2. If you try to sign in again after signing out and the problem persists
+   1. **Windows** OS users: Press **control + shift + r** on your keyboard. The Chrome Web site will be **"Strongly Refreshed"** and the update will be reflected normally
+   2. **Mac** OS users: Press **Command + Shift + r** on your keyboard. The Chrome Web site will be **"Strongly Refreshed"** and the update will be reflected normally
 
-별도의 조치 없이 업데이트가 적용될 수 있는 방안을 준비하고 있습니다. 
+We are working on ways to apply the update without any action.
 
-## 3. 기타 상황에서 화면이 나타나지 않는 경우  
+## 3. Screen does not appear in other situations
 
-support@datalobby.co.kr 또는 소속 회계법인에 제공된 문의용 메일 주소로 문의 부탁드립니다. 
-
-
+Please contact support@datalobby.co.kr or the email address provided to your accounting firm.
 

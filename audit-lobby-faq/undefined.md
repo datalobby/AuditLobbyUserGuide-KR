@@ -1,19 +1,21 @@
 ---
-description: 어딧로비를 웹 브라우저에 즐겨찾기로 등록했는데 작동에 문제가 있는 경우
+description: >-
+  I have registered Audit Lobby as a favorite on my web browser, but I have
+  trouble working.
 ---
 
-# "즐겨찾기가 동작하지 않아요."
+# \(ENG\)"Favorites does not work."
 
-\*어딧로비 내부의 favorite 설정은 다른 안내문서를 참고하여 주시기 바랍니다. 
+\*Please refer to other guidance documents for the favorite setting in the lobby.
 
-\*이 문서는 어딧로비 자체를 웹 브라우저에서 즐겨찾기로 등록한 경우에 대한 안내문서 입니다. 
+\*This document is a guide to the case where you register your favorite Lobby lobby as a favorite in a web browser.
 
-## 가장 단순한 해결 방법
+## The Most Simple Solution
 
-1. 로그인 화면 또는 소속법인목록\(Oragnization List\)를 즐겨찾기로 등록하지 마시고, 소속 법인을 선택한 후 나타나는 **Home 화면을 즐겨찾기로 설정**하여 주십시오. 
-2. kr.auditlobby.com 이라는 주소를 직접 즐겨찾기로 등록합니다. \(즐겨찾기 주소가 kr.auditlobby.com/auditlobby/\#/login 으로 설정된 경우 즐겨찾기가 제대로 동작하지 않습니다.\)
+1. Do not register your login screen or your organization's list \(Organization List\) as a favorite, select your corporation, and set the Home screen that appears as a favorite
+2. Register your address directly as kr.auditlobby.com \(Favorites will not work properly if your favorite address is set to kr.auditlobby.com/auditlobby/\#/login\)
 
-## 어딧로비를 웹 브라우저에 즐겨찾기로 등록하는 방법  
+## How to register Audit lobby as a favorite on your web browser  
 
-상세한 안내문서를 작성하는 중입니다. 
+We are writing a detailed guide document.
 

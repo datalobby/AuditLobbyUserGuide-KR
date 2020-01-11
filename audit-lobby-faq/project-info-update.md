@@ -1,31 +1,29 @@
 ---
-description: '프로젝트 정보 (최종 감사보고서 발행일, 클라이언트, 프로젝트 ID 등) 수정방법을 알려드립니다.'
+description: >-
+  프로젝트 정보 (최종 감사보고서 발행일, 클라이언트, 프로젝트 ID 등) 수정방법을 알려드립니다. How to change the
+  project information (project name/project id/client/final issuance date, etc.)
+  in Project Information screen.
 ---
 
-# "프로젝트 정보는 어떻게 수정하나요?"
+# \(ENG\)"How can I edit the project information?"
 
-## 요약보기 
+## Summary
 
-1. 프로젝트 정보를 수정할 프로젝트를 선택합니다. 
-2. 프로젝트 정보 메뉴를 선택합니다. 
-3. 화면 우측 상단에서 수정버튼을 클릭합니다.
-4. 원하는 정보를 수정한 후 저장합니다.
+1. Select the project to edit
+2. Click the menu of project information
+3. Click the edit button on the right side of the screen
 
 {% hint style="info" %}
-프로젝트 내부에서 Admin 권한을 가지고 있는 사용자만 프로젝트 정보를 수정할 수 있습니다.  
+Only the user who has admin authority can edit the project information.
 {% endhint %}
 
-![Project View &amp;gt; &#xD504;&#xB85C;&#xC81D;&#xD2B8; &#xC815;&#xBCF4; &amp;gt; &#xC218;&#xC815;](../.gitbook/assets/2-copy-6.jpg)
+![Project View &amp;gt; Project Information &amp;gt; Edit](../.gitbook/assets/2-copy-6.jpg)
 
-1. 수정하고자 하는 프로젝트에 들어가서 프로젝트 정보에 들어갑니다.
-2. 우측 상단의 수정 버튼을 클릭합니다.
+1. Go to Project Information.
+2. Click Edit on the right side of the  project information screen.
 
 ![](../.gitbook/assets/15-copy-25.jpg)
 
-1. 클라이언트, 프로젝트 이름, 인게이지먼트 유형, 주소, 보수, 프로젝트 ID, 사업연도, 감사보고서 발행 예정일, 최종 감사보고서 발행일, 아카이브 완료 기한에 대한 세부 정보를 수정할 수 있습니다.
-2. 업데이트 버튼을 눌러 수정한 사항을 적용합니다.  
-
-
-
-
+1. You can change the information of client, project name, engagement type, address, fee, project ID, period of report, final issuance date, archive deadline date
+2. Click update button to save the edited information
 
