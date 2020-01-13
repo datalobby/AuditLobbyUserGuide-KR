@@ -1,15 +1,15 @@
 ---
-description: '감사 조서(workpaper)를 온라인에서 직접 작성하는 방법, 또는 개인 컴퓨터에서 작업 후 업로드 하는 방법'
+description: How to edit workpaper online & to upload a workpaper file from PC
 ---
 
-# 2. 조서 작성 및 업로드
+# \(ENG\)2. Working on Workpapers / Uploading Workpapers
 
-어딧로비에서 4가지 방법으로 감사 조서를 작성하실 수 있습니다.  
+There are four ways to fill out workpaper on Audit LOBBY.
 
-1. \*\*\*\*[**온라인**에서 실시간 감사조서 작성  ](2-1/4-1..md)
-2. **싱크로비**를 통해 [개인 컴퓨터의 MS Office로 실시간 감사조서 작성](2-1/4-2..md)  
-3. \*\*\*\*[**템플릿 라이브러리**를 활용](2-1/4-3..md)하여 감사조서 작성
-4. 개인 컴퓨터의 ****[**파일을 업로드**](2-2/4-4..md)하여 감사조서 작성
+1. \*\*\*\*[**Fill out workpaper online**](2-1/4-1..md)\*\*\*\*
+2. Use [**Sync LOBBY & MS Office**](2-1/4-2..md) to fill out workpaper on PC
+3. Use [**Template Library**](2-1/4-3..md) ****to fill out workpaper
+4. \*\*\*\*[**Upload workpaper file from PC**](2-2/4-4..md)\*\*\*\*
 
 
 
