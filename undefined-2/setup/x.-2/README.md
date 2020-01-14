@@ -1,13 +1,17 @@
 ---
-description: How to create a template
+description: 템플릿을 생성합니다.
 ---
 
-# \(ENG\)8. Template Creation
+# 8. 템플릿 생성
 
-You can work with templates in the 'Templates' menu from the Organization View.
+템플릿은 다음 화면에서 진행 하실 수 있습니다. 
 
-![Organization View &amp;gt; &apos;Templates&apos; &amp;gt; &apos;Project Templates&apos; tab ](../../../.gitbook/assets/a_7-1_0.jpg)
+![](../../../.gitbook/assets/a_7-1_0.jpg)
 
-* [8-1. Create Project Template](x-1..md)
-* [8-2. Workpaper Library](x-2..md)  
+* [8-1. 프로젝트 템플릿 생성](x-1..md)
+* [8-2. 감사조서 라이브러리  ](x-2..md)
+
+### 
+
+
 

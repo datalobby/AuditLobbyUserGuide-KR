@@ -1,10 +1,10 @@
 ---
-description: How to assign / unassign users or clients to a group
+description: 본부(Group)에 사용자/클라이언트(고객사)를 추가/제외하는 방법
 ---
 
-# \(ENG\)5. Assigning / Unassigning User or Client to a Group
+# 5. 본부\(Group\)에 사용자와 클라이언트\(고객사\) 추가/제외하기
 
-Assigning and unassigning users or clients can be done in the 'Set Up' page from the Organization View menu. 
+본부\(Group\) 에 사용자\(User\)와 클라이언트\(고객사, Client\)를 추가 또는 제외하는 작업은 법인용 '설정' 메뉴에서 이루어집니다. 
 
 ![](../../../.gitbook/assets/a_4_0.jpg)
 

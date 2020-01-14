@@ -2,7 +2,7 @@
 description: How do I troubleshoot login problems?
 ---
 
-# "Suddenly, I cannot log in."
+# \(Venu\)"Suddenly, I cannot log in."
 
 > ## "What should I do if I can’t log in to the application?"
 
@@ -16,8 +16,8 @@ description: How do I troubleshoot login problems?
 
 > If your accounting firm doesn't have a dedicated instance, then use
 >
-> 1. us.auditlobby.com if you are a USA user
-> 2. ind.auditlobby.com if you are an Indian user.
+> 1. us.auditlobby.com, if you are a USA user
+> 2. ind.auditlobby.com, if you are an Indian user.
 
 ## 2. If the address is correct, check the email address and password one more time.
 

@@ -1,9 +1,8 @@
 ---
 description: >-
-  You will learn about the overall settings of account creation, user
-  registration, customer registration, headquarters settings, business type
-  settings, cabinet creation, template creation, project cre
+  아이디 발급, 사용자 등록,  고객 등록, 본부 설정, 업무유형 설정, 캐비넷 생성, 템플릿 생성, 프로젝트 생성, 감사팀 구성 등 전반적인
+  설정에 대해 알려드립니다.
 ---
 
-# \(ENG\)A. Getting Started with Audit LOBBY
+# A. 어딧로비 시작하기
 

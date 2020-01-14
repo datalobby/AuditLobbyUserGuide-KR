@@ -4,21 +4,27 @@ description: 어딧로비의 대시보드를 이용하여 프로젝트를 보다
 
 # \(+\) 대시보드 사용하기
 
-어딧로비는 세 가지의 대시보드를 제공합니다.
+어딧로비는 세 가지의 대시보드를 제공합니다. 
 
-## **전체 프로젝트 대시보드 - Projects Dashboard** \(Overall Projects Dashboard\)
+### **전체 프로젝트 대시보드 - Projects Dashboard** \(Overall Projects Dashboard\)
 
 * 회계법인내에서 현재 접속한 사용자가 관련된 모든 프로젝트를 요약하여 보여줍니다. 
 * 업무책임자는 **&lt;전체 프로젝트 대시보드&gt;**를 통해 손쉽게 전반적인 프로젝트 진행상황과 자원 배분 등을 확인할 수 있습니다. 
 * 프로젝트의 제목을 클릭하여 해당 프로젝트의 &lt;개별 프로젝트 대시보드&gt;로 이동할 수 있습니다. 
 
-## **개별 프로젝트 대시보드 - a Project Dashboard** \(Specific Project Dashboard\)
+
+
+### **개별 프로젝트 대시보드 - a Project Dashboard** \(Specific Project Dashboard\)
 
 * 사용자가 선택한 특정 프로젝트에 관한 정보를 보여줍니다. 
 * 해당 프로젝트의 진행률, 코멘트 요약 정보, 팀원 별 진행상황등을 알 수 있습니다. 
 * 계정항목을 클릭하여 해당 항목으로 이동할 수 있습니다. 
 
-## **Q.C. Dashboard**
+### **Q.C. Dashboard**
 
 * 품질관리팀에 배정된 프로젝트들의 정보를 보여줍니다.  
+
+
+
+
 

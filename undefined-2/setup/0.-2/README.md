@@ -2,13 +2,15 @@
 description: 구글(Google)의 크롬(Chrome) 브라우저를 설치합니다.
 ---
 
-# \(ENG\)0. Installing the Chrome Browser
+# 0. 크롬 브라우저 설치
 
-AUDIT LOBBY is optimized for 'Chrome' among Internet browsers. To ensure safe use of the Audit LOBBY, proceed to install the Chrome browser.
+어딧로비는 인터넷 브라우저 중에서 '크롬\(Chrome\)'에 최적화되어 있습니다. 
 
-Proceed with the Chrome browser installation so that you can safely use AUDIT LOBBY.
+어딧로비를 안전하게 사용하실 수 있도록 크롬 브라우저 설치를 진행합니다. 
 
-* [Are you using a Windows computer?](0-1..md)
-* [Are you using a Mac computer?](0-2..md)
-* [Are you using a Linux computer?](0-3..md)
+* [윈도우 컴퓨터를 사용하고 계신가요? ](0-1..md)
+* [맥 컴퓨터를 사용하고 계신가요?](0-2..md)
+* [리눅스 컴퓨터를 사용하고 계신가요? ](0-3..md)
+
+
 
