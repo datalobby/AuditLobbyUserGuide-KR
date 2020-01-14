@@ -1,103 +1,105 @@
 ---
-description: 어딧로비에 사용자를 등록하는 방법
+description: How to register / edit / delete users on Audit LOBBY
 ---
 
-# 2. 사용자 등록/수정/삭제하기
+# \(ENG\)2. User Registration / Edit / Delete
 
-## 요약보기 
+## Summary 
 
-법인용 메뉴의 설정\(Setup\) &gt;  사용자\(User\) 를 선택한 후 화면 오른쪽 아래에서 '사용자 생성' 버튼을 눌러 사용자를 등록할 수 있습니다. 
+You can register a user by clicking Set Up &gt; Users in the Organization Menu and clicking the 'Add User' button in the lower right corner of the screen.
 
-![&#xBC95;&#xC778;&#xC6A9; &#xBA54;&#xB274; &amp;gt; &#xC124;&#xC815; &amp;gt; &#xC0AC;&#xC6A9;&#xC790; &#xD654;&#xBA74; &amp;gt; &apos;&#xC0AC;&#xC6A9;&#xC790; &#xC0DD;&#xC131;&apos; &#xBC84;&#xD2BC; &#xD074;&#xB9AD;  ](../../.gitbook/assets/add_user.jpg)
+![Organization Menu &amp;gt; Set Up &amp;gt; Users &amp;gt; Add User](../../.gitbook/assets/add_user.jpg)
 
 ![](../../.gitbook/assets/add_user_basic_dialog.jpg)
 
-1. 내부 사용자 / 외부 사용자를 선택합니다. 
-2. 추가할 사용자의 Email을 입력합니다. 
-3. 추가할 사용자의 이름을 입력합니다.  
-4. 추가할 사용자의 아이디를 입력합니다.  
-5. 추가할 사용자의 법인 접근 권한을 선택합니다.
-6. Title 란에 사용자의 부가정보를 입력합니다. \(선택사항입니다.\) 
-7. '사용자 생성'을 누르고 화면 상단에 붉은색 로딩바가 완료될 때까지 기다립니다.
+1. Select Internal User or External User
+2. Enter the email address of the new user
+3. Enter the name of the new user
+4. Enter the user ID of the new user
+5. Select the access right of the new user
+6. Enter additional information about the new user in the Title field \(Optional\) 
+7. Click 'Add User'' and wait until the red progress bar at the top of the screen is done
 
-### 법인 접근 권한\(Access Right\)이란?  
+### What is 'Access Right'?
 
-어딧로비 시스템은 크게 법인용 기능과 프로젝트용 기능으로 나눌 수 있습니다. 법인의 전반적인 관리와 관련된 메뉴를 법인용 메뉴\(Organization Menu 또는 Organization View\)라고 부르며, 여기서 어딧로비 사용자는 크게 세 유형으로 분류됩니다. 
+The Audit LOBBY system can be divided into two parts: Organization and Project functions. The menu associated with the overall management of a firm is called the Organization Menu or Organization View, and here the Audit LOBBY users are classified into three types. 
 
-> 이 세가지 유형은 법인 전체의 어딧로비 시스템에 적용되는 권한이며, 프로젝트 내부에서의 직무\(Role\)와는 다릅니다.
+> These three types apply to the Audit LOBBY system for the firm but differ from the roles within each project.
 
 1. Super Admin
 2. Group Admin
 3. User Access
 
+
+
 {% page-ref page="../guide-by-function/organization-access-right.md" %}
 
-## 상세보기  
+## View Details  
 
-## 1. Super Admin 등록하기
+## 1. Super Admin User Registration
 
-> 주의: Super Admin만 사용자를 등록할 수 있습니다. Group Admin과 User Access는 사용자를 등록할 수 없습니다.
+> Notice:  Only Super Admin users can add users. Group Admin users and User Access users can not add users.
 
-### 1-1. 기본 정보 입력  
+### 1-1. Enter the basic personal information.  
 
-사용자 이름, 별칭\(ID\), 이메일을 입력합니다. 별칭은 차후 사용자를 보다 편하게 구분하는데 사용됩니다. 알파벳 약자를 추천합니다. 
+Enter the name, user ID, email address. User ID will later be used to distinguish users more easily. Alphabet initials are recommended.
 
 ![](../../.gitbook/assets/add_user_sa.jpg)
 
-### 1-2. 사용자의 법인 접근 권한을 'Super Admin'으로 선택합니다. 
+### 1-2. Select the Access Right as 'Super Admin'.
 
-### 1-3. 사용자에게 아카이브 관리자 권한이 있는지 여부를 선택합니다. 
+### 1-3. Select whether the user has the right to be an Archive Manager or not.
 
-* 아카이브 관리자\(Archive Manager\) 권한이 Yes로 설정된 Super Admin 만이 법인의 아카이브 조건을 설정하거나 아카이브 된 프로젝트를 관리할 수 있습니다. 
-* Super Admin 이지만 아카이브 관리자 권한이 No로 설정된 경우 법인의 아카이브 조건을 설정하거나 아카이브 된 프로젝트를 관리할 수 없습니다. 
-* Group Admin 이나 User Access 에는 아카이브 관리자 권한을 부여할 수 없습니다. 
+* Only the Super Admin users with Archive Manager permission set to Yes can set the archive conditions for the firm or manage archived projects
+* Super Admin users with Archive Manager permission set to No cannot set the archive conditions nor manage archived projects
+* You cannot assign Archive Manager permission to Group Admin users or User Access users
 
-### 1-4. '생성' 버튼을 누른 후 화면 상단의 붉은색 로딩바가 완료되기를 기다립니다. 
+### 1-4. Click the 'Add User' button and wait for the red progress bar at the top of the screen to be done. 
 
-> 수정이 필요한 경우 항목의 오른쪽 끝에 있는 연필 모양 버튼을 눌러 수정할 수 있습니다.
+> You can make changes by clicking the pencil-shaped button at the far right of each item.
 
-## 2. Group Admin 등록하기
+## 2. Group Admin User Registration
 
-> 주의: Super Admin만 사용자를 등록할 수 있습니다. Group Admin과 User Access는 사용자를 등록할 수 없습니다.
+> Notice: only the Super Admin users can add users. Group Admin users and User Access users cannot add users.
 
-### 2-1. 기본 정보 입력  
+### 2-1. Enter the basic personal information.  
 
-사용자 이름, 별칭\(ID\), 이메일을 입력합니다. 별칭은 차후 사용자를 보다 편하게 구분하는데 사용됩니다. 알파벳 약자를 추천합니다. 
+Enter the name, user ID, email address. User ID will later be used to distinguish users more easily. Alphabet initials are recommended.
 
 ![](../../.gitbook/assets/add_user_ga.jpg)
 
-### 2-2. 사용자의 법인 접근 권한을 'Group Admin'으로 선택합니다.  
+### 2-2. Select the Access Right as 'Group Admin'.
 
-### 2-3. '생성' 버튼을 누른 후 화면 상단의 붉은색 로딩바가 완료되기를 기다립니다.  
+### 2-3. Click the 'Add User' button and wait for the red progress bar at the top of the screen to be done.  
 
-> 수정이 필요한 경우 항목의 오른쪽 끝에 있는 연필 모양 버튼을 눌러 수정할 수 있습니다.
+> You can make changes by clicking the pencil-shaped button at the far right of each item.
 
-## 3. User Access 등록하기
+## 3. User Access User Registration
 
-> 주의: Super Admin만 사용자를 등록할 수 있습니다. Group Admin과 User Access는 사용자를 등록할 수 없습니다.
+> Notice: only the Super Admin users can add users. Group Admin users and User Access users cannot add users.
 
-### 3-1. 기본 정보 입력  
-
-사용자 이름, 별칭\(ID\), 이메일을 입력합니다. 별칭은 차후 사용자를 보다 편하게 구분하는데 사용됩니다. 알파벳 약자를 추천합니다. 
+### 3-1.  Enter the basic personal information.  
 
 ![](../../.gitbook/assets/add_user_ua.jpg)
 
-### 3-2. 사용자의 법인 접근 권한을 'User Access'로 설정합니다.  
+Enter the name, user ID, email address. User ID will later be used to distinguish users more easily. Alphabet initials are recommended.
 
-### 3-3. '생성' 버튼을 누른후 화면 상단의 붉은색 로딩바가 완료되기를 기다립니다. 
+### 3-2. Select the Access Right as 'User Access'.
 
-> 수정이 필요한 경우 항목의 오른쪽 끝에 있는 연필 모양 버튼을 눌러 수정할 수 있습니다.
+### 3-3. Click the 'Add User' button and wait for the red progress bar at the top of the screen to be done.  
 
-## + 사용자 생성 후 사용자를 본부\(Group\)에 추가해야 합니다.    
+> You can make changes by clicking the pencil-shaped button at the far right of each item.
 
-새로 생성된 **사용자를 본부에 추가하여 주십시오**. 사용자를 본부에 추가하는 방법은 ['사용자 추가/제외하기' ](5.-group/5-1..md)에서 보실 수 있습니다. 
+## + Users must be assigned to the group after the registration.  
+
+Please **assign the newly registered user to the group**. You can find out how to add users to the Group at '[Assign/Unassign Users](5.-group/5-1..md)'. 
 
 {% hint style="info" %}
-본부에 추가되지 않은 사용자는 프로젝트 생성 시 배정가능한 사용자 목록에 나타나지 않습니다. 
+Users who are not assigned to the group will not appear in the list of users who can be assigned when you create a project.
 {% endhint %}
 
 {% hint style="info" %}
- 본부에 추가되지 않은 사용자는 본부 내부 프로젝트의 목록과 내용을 볼 수 없습니다. 
+Users who are not assigned to the group will not be able to view the list and contents of projects of the group. 
 {% endhint %}
 
 

@@ -2,77 +2,79 @@
 description: 클라이언트(고객사)를 어딧로비에 등록하는 방법에 대한 안내문서
 ---
 
-# 3. 클라이언트\(고객사\) 등록/수정/삭제하기
+# \(ENG\)3. Client Registration / Edit / Delete
 
-## 법인용 메뉴 \(Organization View\) 에서 클라이언트\(고객사\) 등록/수정/삭제 하기  
+## Client Registration / Edit / Delete in the Organization View
 
-## 요약보기  
+## Summary  
 
-### 1. 클라이언트를 생성합니다. 
+### 1. Create a client
 
-1. 법인용 화면의 왼쪽 메뉴 목록에서 '설정\(Set Up\)'을 선택합니다.
-2. '설정\(Set Up\)' 화면의 상단에서 '고객\(Client\)' 탭을 선택합니다.
-3. 화면 우측 상단의 '클라이언트 생성' 버튼을 클릭합니다.
-4. 클라이언트 이름과 아이디를 입력합니다. 
-5. '생성' 버튼을 누릅니다. 
-6. 화면 상단에 붉은색 로딩바가 나타나며 고객 생성이 진행됩니다. 로딩바가 다 채워질 때까지 잠시 기다려 주십시오.  
+1. Click the 'Set Up' button from the left menu column of the Organization View
+2. Click the 'Clients' tab at the top of the 'Set Up' page
+3. Click the 'Create Client' button at the top right of the page
+4. Enter the client name and ID
+5. Click the 'Create' button
+6. Client registration will get started and a red progress bar will show at the top of the screen. Wait for it to be done
 
-### 2. 클라이언트를 본부에 등록합니다. 
+### 2. Assign the client to the Group
 
-1. 클라이언트\(고객사\)를 어딧로비에 생성해도, 등록된 클라이언트를 본부\(그룹\)에 추가하지 않으면 프로젝트 생성시 클라이언트가 나타나지 않습니다. 반드시 클라이언트를 적절한 본부에 배정하여 주십시오. 
+1. If you do not assign the registered client to the group, the client will not be on the list when you create a project. Make sure that the client is assigned to the appropriate group
 
-## 상세보기  
+## View Details
 
-## 1. 클라이언트를 생성합니다. 
+## 1. Create a Client
 
-1. 법인용 메뉴에서 설정\(setup\)을 선택합니다. 
-2. 화면 위쪽 탭에서 Clients 를 선택합니다. 
-3. 화면 오른쪽에서 클라이언트 생성 버튼을 누릅니다. 
+1. Click the 'Set Up' button from the left menu column of the Organization View
+2. Click the 'Clients' tab at the top of the 'Set Up' page
+3. Click the 'Create Client' button at the top right of the page
 
 ![](../../../.gitbook/assets/add_client_1.jpg)
 
-1. 클라이언트 아이디를 입력합니다. 
-2. 클라이언트 이름을 입력합니다. 
+1. Enter the Client ID
+2. Enter the Client name
 
-> 클라이언트 아이디는 법인 내부에서 정한 규칙을 따르시되, 없는 경우 임의로 작성하실 수 있습니다.
+> Enter a Client ID that follows the naming rules of the firm, but if there is no rule just enter a random ID.
 
 ![](../../../.gitbook/assets/add_client_2.jpg)
 
-![&#xD654;&#xBA74; &#xC624;&#xB978;&#xCABD; &#xC704;&#xC5D0; &#xC131;&#xACF5; &#xC54C;&#xB78C;&#xC774; &#xB098;&#xD0C0;&#xB0A9;&#xB2C8;&#xB2E4;. ](../../../.gitbook/assets/a_3_3.jpg)
+![You will see a success message in the upper right corner of the screen.](../../../.gitbook/assets/a_3_3.jpg)
 
-## 2. 클라이언트를 본부에 등록합니다. 
+## 2. Assign the client to the group
 
-![&#xBC95;&#xC778;&#xC6A9; &#xBA54;&#xB274; &amp;gt; &#xBCF8;&#xBD80; &#xBAA9;&#xB85D;](../../../.gitbook/assets/add_client_3.jpg)
+![Organization View &amp;gt; &apos;Set up&apos; &amp;gt; &apos;Groups&apos; tab ](../../../.gitbook/assets/add_client_3.jpg)
 
-프로젝트 생성 시 생성자가 소속된 본부에 속한 클라이언트만 목록에 나타납니다. 따라서 반드시 클라이언트를 적절한 본부에 배정해야 합니다.  
+When you create a project, only clients that are assigned to the group to you are assigned appear in the list. Therefore, clients must be assigned to appropriate groups.
 
-1. 법인용 메뉴에서 설정\(Setup\)을 선택합니다. 
-2. 본부 목록 탭을 선택합니다. 
-3. 클라이언트를 등록할 본부를 선택한 후 오른쪽 끝의 + 모양 아이콘을 누릅니다. 
+1. Click the 'Set Up' button from the left menu column of the Organization View
+2. Click the 'Groups' tab at the top of the 'Set Up' page
+3. Click the group that you want to assign the client to and click the '+' icon on the right
 
-![&#xC0AC;&#xC6A9;&#xC790; &#xBC0F; &#xD074;&#xB77C;&#xC774;&#xC5B8;&#xD2B8; &#xC9C0;&#xC815; &#xCC3D;&#xC774; &#xB098;&#xD0C0;&#xB0A9;&#xB2C8;&#xB2E4;. ](../../../.gitbook/assets/add_client_4.jpg)
+![Assign Users / Clients window shows up. ](../../../.gitbook/assets/add_client_4.jpg)
 
-1. 위와 같은 창이 나타나면, 창의 상단에서 '본부에 클라이언트 지정'을 선택합니다. 
+1. If the above window shows, click 'Assign Clients to Group' at the top
 
-![&#xAC80;&#xC0C9;&#xCC3D;&#xC5D0; &#xC55E;&#xC5D0;&#xC11C; &#xB4F1;&#xB85D;&#xD55C; &#xD074;&#xB77C;&#xC774;&#xC5B8;&#xD2B8;&#xC758; &#xC774;&#xB984;&#xC744; &#xAC80;&#xC0C9;&#xD558;&#xC5EC; &#xBCF8;&#xBD80;&#xC5D0; &#xBC30;&#xC815;&#xD569;&#xB2C8;&#xB2E4;.  ](../../../.gitbook/assets/add_client_7.jpg)
+![Search for the name of the client you registered in the search box and assign it to the group.t](../../../.gitbook/assets/add_client_7.jpg)
 
-1. '클라이언트 목록' 아래 쪽의 검색창에 앞에서 생성한 클라이언트의 이름을 검색합니다. 
-2. 검색결과에 나타난 클라이언트의 이름을 클릭하여 선택합니다.
-3. 오른쪽 방향 화살표를 누릅니다.  
+1. Search for the name of the registered client in the search box under the client list 
+2. Click the name of the client in the search results
+3. Click the right arrow
 
-![&#xD074;&#xB77C;&#xC774;&#xC5B8;&#xD2B8;&#xAC00; &#xBCF8;&#xBD80;&#xC5D0; &#xB4F1;&#xB85D;&#xB41C; &#xAC83;&#xC744; &#xD655;&#xC778;&#xD560; &#xC218; &#xC788;&#xC2B5;&#xB2C8;&#xB2E4;. ](../../../.gitbook/assets/add_client_8.jpg)
+![You can see that the client is assigned to the group. ](../../../.gitbook/assets/add_client_8.jpg)
 
-1. 클라이언트가 본부에 등록되면 화면 오른쪽 부분에 클라이언트 이름이 나타납니다. 
-2. 화면 우측 상단에도 성공 메시지가 표시됩니다. 
+1. When the client is assigned, you will see the name of the client on the right side of the window
+2. You will see a success message in the upper right corner of the screen
 
-## 3. 클라이언트 수정 / 삭제  
+## 3. Edit / Delete Client 
 
-등록한 클라이언트의 아이디와 이름을 수정하거나 클라이언트를 삭제할 수 있습니다. 
+You can edit the ID and name of the registered client or delete the client. 
 
-1. 법인용 메뉴에서 설정\(Setup\) 을 선택합니다. 
-2. 설정 화면의 상단 탭에서 Clients 를 선택합니다. 
-3. 수정하려는 클라이언트의 오른쪽에서 연필 모양 버튼을 눌러 아이디와 이름을 수정합니다.  
-4. 삭제하려는 클라이언트의 오른쪽에서 휴지통 모양 버튼을 눌러 클라이언트를 삭제합니다.  
+1. Click the 'Set Up' button from the left menu column of the Organization View
+2. Click the 'Clients' tab at the top of the 'Set Up' page
+3. Click the pencil icon on the right side of the client and edit the ID and name
+4. Click the trash bin icon on the right side of the client to delete the client
 
 ![](../../../.gitbook/assets/add_client_9.jpg)
+
+
 
