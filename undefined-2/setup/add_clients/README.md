@@ -1,5 +1,5 @@
 ---
-description: 클라이언트(고객사)를 어딧로비에 등록하는 방법에 대한 안내문서
+description: Instruction on how to register your client with adobe
 ---
 
 # \(ENG\)3. Client Registration / Edit / Delete

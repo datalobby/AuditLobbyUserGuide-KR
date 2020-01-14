@@ -1,8 +1,8 @@
 ---
-description: Install Google's Chrome browser
+description: 구글(Google)의 크롬(Chrome) 브라우저를 설치합니다.
 ---
 
-# \(Razia\)0. Installing the Chrome Browser
+# \(ENG\)0. Installing the Chrome Browser
 
 AUDIT LOBBY is optimized for 'Chrome' among Internet browsers. To ensure safe use of the Audit LOBBY, proceed to install the Chrome browser.
 
