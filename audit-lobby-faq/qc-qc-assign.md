@@ -1,4 +1,4 @@
-# \(Venu\)"If I have two QCs, do both QC assigned documents require a QC signature?"
+# \(ENG\)"QC가 두 명인 경우 QC assign 된 문서는 둘 다 서명이 필요한가요?"
 
-No, the assignment is completed even if only one QC is signed off.
+아니요, 한 명의 QC만 서명을 해도 assign이 완료됩니다.
 
