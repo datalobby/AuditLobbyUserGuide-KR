@@ -2,11 +2,11 @@
 description: Audit LOBBY FAQ
 ---
 
-# \(ENG\)FAQ - Frequently Asked Questions
+# FAQ - Frequently Asked Questions
 
-## "갑자기 로그인이 안됩니다."
+## "Unable to Login suddenly"
 
-로그인 오류가 발생하는 경우 대처 방법 [바로가기](login-error-01.md)
+What to do if you encounter a login error [Shortcuts](login-error-01.md)
 
 ## "QC가 두 명인 경우 QC assign 된 문서는 둘 다 서명이 필요한가요?"
 

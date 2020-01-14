@@ -1,36 +1,35 @@
 ---
-description: 로그인 오류가 발생하는 경우 대처 방법
+description: How do I troubleshoot login problems?
 ---
 
-# "갑자기 로그인이 안됩니다."
+# "Suddenly, I cannot log in."
 
-> ## "평소 로그인이 잘 되었는데, 갑자기 로그인이 되지 않습니다. 어떻게 해야 하나요?"
+> ## "What should I do if I can’t log in to the application?"
 
-## 1. 어딧로비 주소가 정확한지 확인합니다. 
+## 1. Check that the address of the adobe is correct.
 
 ![](../.gitbook/assets/login-error-01.jpg)
 
-> 예를 들어, `가나다` 회계법인인 경우 주소가\` ganada.auditlobby.com 입니다.
+> For example, if you belong to Ganada accounting firm and have a dedicated instance, your address is ganada.auditlobby.com.
 
-![](../.gitbook/assets/image%20%28165%29.png)
+![](../.gitbook/assets/image-165.png)
 
-{% hint style="danger" %}
-kr.auditlobby.com 은 한국 데이터로비에서 운영하고 있는 서비스입니다. 개별 인스턴스를 사용하는 회계법인 사용자 분들이 로그인을 시도할 경우 계정이 등록되어 있지 않기 때문에 오류가 발생합니다. 
-{% endhint %}
+> If your accounting firm doesn't have a dedicated instance, then use
+>
+> 1. us.auditlobby.com if you are a USA user
+> 2. ind.auditlobby.com if you are an Indian user.
 
-## 2. 주소가 정확한 경우 이메일 주소와 비밀번호를 한 번 더 확인합니다. 
+## 2. If the address is correct, check the email address and password one more time.
 
-## 3. 비밀번호가 기억나지 않는 경우 비밀번호 찾기를 시도합니다. 
+## 3. If you forgot your password, then you can reset it.
 
 {% page-ref page=".-4.md" %}
 
-## 4. 서포트 메일로 문의 
+## 4. 서포트 메일로 문의
 
 {% hint style="info" %}
-1~3을 시도하였는데도 오류가 지속되는 경우 서포트 메일로 연락 부탁드립니다. 
+1~3을 시도하였는데도 오류가 지속되는 경우 서포트 메일로 연락 부탁드립니다.
 
-공용 서포트 이메일 주소 support@datalobby.co.kr 또는 각 회계법인 별 서포트 이메일 주소를 통해 문의하실 수 있습니다. 
+공용 서포트 이메일 주소 support@datalobby.co.kr 또는 각 회계법인 별 서포트 이메일 주소를 통해 문의하실 수 있습니다.
 {% endhint %}
-
- 
 
