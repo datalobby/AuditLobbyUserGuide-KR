@@ -2,7 +2,7 @@
 description: 감사가 진행되는 흐름에 따라 어딧로비 사용법을 알려드립니다.
 ---
 
-# \(ENG\)B. Guides by Audit Process Steps
+# \(Razia\)B. Guides by Audit Process Steps
 
 어딧로비를 이용한 외부감사는 크게 다음과 같은 순서로 진행됩니다.
 

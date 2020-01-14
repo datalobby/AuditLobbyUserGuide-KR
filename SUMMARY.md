@@ -70,7 +70,7 @@
       * [\(ENG\)10-3. Assigning a QC Manager](undefined-2/setup/2./2-2.-qc.md)
       * [\(ENG\)10-4. Assigning an External User to a Project](undefined-2/setup/2./2-4..md)
       * [\(ENG\)10-5. Editing an Engagement Partner](undefined-2/setup/2./2-5..md)
-  * [\(ENG\)B. Guides by Audit Process Steps](undefined-2/guide-by-scenario/README.md)
+  * [\(Razia\)B. Guides by Audit Process Steps](undefined-2/guide-by-scenario/README.md)
     * [1. 재무제표 준비](undefined-2/guide-by-scenario/3.-.../README.md)
       * [1-1. 시산표 작성](undefined-2/guide-by-scenario/3.-.../3-1..md)
       * [1-2. 총괄표 설정](undefined-2/guide-by-scenario/3.-.../3-2..md)
