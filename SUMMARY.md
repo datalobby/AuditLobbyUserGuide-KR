@@ -44,7 +44,7 @@
 * [\(Razia\) Audit LOBBY User Guide](undefined-2/README.md)
   * [\(Razia\)How to use the Adobe User Guide](undefined-2/contents.md)
   * [\(ENG\)A. Getting Started with Audit LOBBY](undefined-2/setup/README.md)
-    * [\(ENG\)0. Installing the Chrome Browser](undefined-2/setup/0.-2/README.md)
+    * [\(Razia\)0. Installing the Chrome Browser](undefined-2/setup/0.-2/README.md)
       * [\(ENG\)0-1. Installing Chrome on a Windows computer](undefined-2/setup/0.-2/0-1..md)
       * [\(ENG\)0-2. Installing Chrome on a Mac OS](undefined-2/setup/0.-2/0-2..md)
       * [\(ENG\)0-3. Installing Chrome on a Linux computer](undefined-2/setup/0.-2/0-3..md)
