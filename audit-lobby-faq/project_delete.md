@@ -10,7 +10,7 @@ description: Follow the process below to delete a project.
 2. Delete a project from the Project screen. 
 
 {% hint style="info" %}
-법인의 최고관리자\(Super Admin\) 또는 프로젝트를 생성한 당사자 만 프로젝트를 삭제할 수 있습니다.
+Only the Super Admin of the organization or the user who created the project can delete the project.
 {% endhint %}
 
 ## 1. Delete a project from the Groups screen.
