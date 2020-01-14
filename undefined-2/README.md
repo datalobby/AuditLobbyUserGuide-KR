@@ -1,10 +1,10 @@
 # \(ENG\) Audit LOBBY User Guide
 
-## Audit LOBBY 기본 사용법 모음
+## Audit LOBBY [Collection of basics](https://app.gitbook.com/@datalobby/s/english-user-guide-by-india-team/~/drafts/-LyYXlhEfV_KgQw7MZ6h/undefined-2)
 
-{% file src="../.gitbook/assets/1.-\_-a-e-1-1-compressed.pdf" caption="Audit LOBBY 기본 매뉴얼 합본" %}
+{% file src="../.gitbook/assets/1.-\_-a-e-1-1-compressed.pdf" caption="Audit LOBBY Basic Manual" %}
 
-어딧로비의 기본 사용법을 모아놓은 PDF 파일입니다.
+This is a PDF file of the basic usage of adobe.
 
 ### A. 프로젝트 생성
 
