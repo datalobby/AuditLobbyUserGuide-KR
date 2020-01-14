@@ -1,16 +1,16 @@
 ---
-description: 감사가 진행되는 흐름에 따라 어딧로비 사용법을 알려드립니다.
+description: 'As the audit progresses, we will tell you how to use adobe.'
 ---
 
 # \(Razia\)B. Guides by Audit Process Steps
 
 어딧로비를 이용한 외부감사는 크게 다음과 같은 순서로 진행됩니다.
 
-> 1. [시산표 / 총괄표 / 수정분개 ](https://github.com/datalobby/AuditLobbyUserGuide-KR/tree/993aca7456df12f5bd23917686f32391dcbd42b4/undefined-2/guide-by-scenario/3.-...) 작성
+> 1. [Trial Balance/Balance Sheet/Revision Journal ](https://github.com/datalobby/AuditLobbyUserGuide-KR/tree/993aca7456df12f5bd23917686f32391dcbd42b4/undefined-2/guide-by-scenario/3.-...) write
 >
->    시산표, 총괄표, 수정분개, 미반영 수정분개 등을 설정합니다.
+>    Set the trial balance, balance sheet, corrected journal entry, unreflected modified journal, and so on
 >
-> 2. [조서 작성](https://github.com/datalobby/AuditLobbyUserGuide-KR/tree/993aca7456df12f5bd23917686f32391dcbd42b4/undefined-2/guide-by-scenario/4.)
+> 2. [Create Reference](https://github.com/datalobby/AuditLobbyUserGuide-KR/tree/993aca7456df12f5bd23917686f32391dcbd42b4/undefined-2/guide-by-scenario/4.)
 >
 >    여러가지 방법으로 조서를 작성할 수 있습니다.
 >
