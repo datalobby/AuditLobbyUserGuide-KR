@@ -1,18 +1,18 @@
 ---
-description: 감사 프로젝트를 아카이브하는 방법에 대해 알려드립니다.
+description: How to archive the project file to comply with the data retention policy
 ---
 
-# \(ENG\)4. 조서취합완료 \(아카이브하기 Archive\)
+# \(ENG\)4. Archive Process \(Data retention\)
 
-## 목차
+## Table of Contents
 
-### 4-1. 아카이브 준비 진단
+### 4-1. Archive Diagnosis
 
-### 4-2. 아카이브 하기
+### 4-2. Archive
 
-### 4-3. 아카이브 해제하기
+### 4-3. Unarchive
 
-### 4-4. 다시 아카이브 하기 \(Re-archive\)
+### 4-4. Re-archive
 
-### 4-5. 아카이브 된 프로젝트 찾기
+### 4-5. Find the archived project
 

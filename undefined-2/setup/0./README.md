@@ -1,65 +1,63 @@
 ---
-description: 어딧로비 초기 계정 등록 방법 안내문서
+description: How to create an Audit LOBBY Initial Account
 ---
 
-# 1. 계정 등록하기
+# \(ENG\)1. Account Creation
 
-## 요약보기   
+## Summary   
 
-1. &lt;access@auditlobby.com&gt;의 메일 주소로 '**Verification code**'와 '**임시 비밀번호**' 메일이 사용자의 메일로 도착합니다.  \(총 2개의 메일이 도착합니다. \) 
-2. **어딧로비**에 접속합니다. 
-   1. **반드시 크롬 브라우저로 접속하여주십시오.** 
-   2. **엔터프라이즈 어딧로비 이용자**의 경우 ****회계법인 별도로 설정된 어딧로비 주소를 통해 접속하여 주십시오. \(ex. ganada 회계법인의 경우 ganada.auditlobby.com\)  
-   3. **어딧로비 프로버전 이용자**의 경우 kr.auditlobby.com으로 접속하여 주십시오.  
-3. 화면 중앙 팝업창 우측 하단에 있는 '**Confirm Signup**' 을 누릅니다.
-4. **이메일 주소**와 **verification code**를 입력합니다. \(임시 비밀번호가 아닌 'verification code'를 입력하여 주십시오.\)  'Verify' 버튼을 누르면 인증과정을 거쳐 로그인 화면으로 전환됩니다. 
-5. 인증과정이 완료되면 ****이메일 주소와 **임시 비밀번호**를 사용하여 ****로그인합니다.
-6. 화면 우측 상단의 사용자 명을 선택한 후 하위 메뉴에서 '**비밀번호 변경**' 을 클릭합니다.
-7. 현재 비밀번호에 임시 비밀번호를 입력한 후, 새로운 비밀번호를 설정합니다. \(비밀번호는 대문자, 소문자, 특수문자, 숫자 등을 모두 포함한 8글자 이상이어야 합니다.\)
+1. **'Verification Code'** and **'Temporary Password'** e-mail will arrive in your mail address at access@auditlobby.com \(Total of 2 e-mails will arrive\)
+2. Access **Audit LOBBY**
+   1. **Please be sure to access the Chrome browser**
+   2. For **enterprise Audit LOBBY users**, please access the accounting firm's separately established Audit LOBBY address \(ex. ABC accounting firm -&gt; abc.auditlobby.com\)
+   3. If you are using the Audit LOBBY Pro version, please access kr.auditlobby.com
+3. Press **'Confirm Signup'** in the bottom right of the center-screen pop-up window
+4. Enter **the email address** and **the verification code** \(Please enter the verification code instead of the temporary password\) Press the **'Verify'** button to switch to the login page after the authentication process
+5. Log in using your email address and **the temporary password** when the verification process is complete
+6. Select the user name in the upper right corner of the screen and click **'Change Password'** in the submenu
+7. After entering the temporary password in the current password, set a new password \(the password must be at least 8 characters long, including all uppercase, lowercase, special characters, numbers, etc\)
 
-## 1. '인증코드' 와 '임시 비밀번호' 메일을 확인합니다.  
+## 1. Check the 'Verification Code' and 'Temporary Password' mail
 
-어딧로비 관리자가 새로운 사용자를 등록하면, &lt;access@auditlobby.com&gt;라는 메일 주소에서 '**Verification code**'와 '**임시 비밀번호**' 메일이 사용자의 메일로 전송됩니다. \(총 2개의 메일이 도착합니다. \) 
+When an Audit LOBBY administrator registers a new user, **'Verification Code'** and **'Temporary Password'** mail will be sent to the user's mail \(a total of 2 emails will arrive\)\)
 
-![&#xC778;&#xC99D;&#xCF54;&#xB4DC;&#xAC00; &#xCCA8;&#xBD80;&#xB41C; &#xBA54;&#xC77C; &#xD654;&#xBA74; \(&#xC81C;&#xBAA9;: Audit Lobby - User Verification Code\)](../../../.gitbook/assets/1%20%282%29.jpg)
+![&#xC778;&#xC99D;&#xCF54;&#xB4DC;&#xAC00; &#xCCA8;&#xBD80;&#xB41C; &#xBA54;&#xC77C; &#xD654;&#xBA74; \(&#xC81C;&#xBAA9;: Audit Lobby - User Verification Code\)](../../../.gitbook/assets/1-2.jpg)
 
 ![&#xC784;&#xC2DC; &#xBE44;&#xBC00;&#xBC88;&#xD638;&#xAC00; &#xCCA8;&#xBD80;&#xB41C; &#xBA54;&#xC77C; &#xD654;&#xBA74; \(&#xC81C;&#xBAA9;: Invitation for Audit Lobby\) ](../../../.gitbook/assets/1-1.jpg)
 
+## 2. Access Audit LOBBY
 
+### Notice
 
-## 2. 어딧로비에 접속합니다. 
+* Please access using **the Chrome browser**
+* For enterprise Audit LOBBY users, please access the accounting firm's separately established Audit LOBBY address which is **\(the firm's name\).auditlobby.com** \(ex. ABC accounting firm -&gt; abc.auditlobby.com\)
+* If you are using Audit LOBBY Korea, please access kr.auditlobby.com
 
-### 주의사항  
+![&#xC18C;&#xC18D; &#xC5D4;&#xD130;&#xD504;&#xB77C;&#xC774;&#xC988; &#xC5B4;&#xB527;&#xB85C;&#xBE44; &#xB610;&#xB294; &#xD55C;&#xAD6D; &#xC5B4;&#xB527;&#xB85C;&#xBE44;&#xB85C; &#xC811;&#xC18D;&#xD569;&#xB2C8;&#xB2E4;. \(&#xD06C;&#xB86C; &#xBE0C;&#xB77C;&#xC6B0;&#xC800; &#xC774;&#xC6A9; &#xD544;&#xC218;\) ](../../../.gitbook/assets/screen-shot-2019-04-13-at-9.55.46-am.jpg)
 
-* **크롬 브라우저**를 이용하여 접속하여 주십시오. 
-* 엔터프라이즈 서비스를 이용하는 회계법인 소속 사용자는 **\(회계법인이름\).auditlobby.com** 으로 접속하여 주십시오. \(예시: 가나다 회계법인인 경우, ganada.auditlobby.com\)
-* 한국 어딧로비 서비스를 이용하는 사용자는 kr.auditlobby.com으로 접속하여 주십시오. 
+## 3. Press Confirm Signup in the bottom right of the pop-up
 
-![&#xC18C;&#xC18D; &#xC5D4;&#xD130;&#xD504;&#xB77C;&#xC774;&#xC988; &#xC5B4;&#xB527;&#xB85C;&#xBE44; &#xB610;&#xB294; &#xD55C;&#xAD6D; &#xC5B4;&#xB527;&#xB85C;&#xBE44;&#xB85C; &#xC811;&#xC18D;&#xD569;&#xB2C8;&#xB2E4;. \(&#xD06C;&#xB86C; &#xBE0C;&#xB77C;&#xC6B0;&#xC800; &#xC774;&#xC6A9; &#xD544;&#xC218;\)  ](../../../.gitbook/assets/screen-shot-2019-04-13-at-9.55.46-am.jpg)
+![](../../../.gitbook/assets/artboard-1%20%281%29.jpg)
 
-## 3. 화면 중앙 팝업창 우측 하단의 Confirm Signup을 누릅니다.   
-
-![](../../../.gitbook/assets/artboard%20%281%29.jpg)
-
-## 4. 초대받은 이메일 주소와, 인증코드를 입력합니다. 
+## 4. Enter the email address and the verification code
 
 ![](../../../.gitbook/assets/authentication_3_input_information.jpg)
 
-이메일 주소와 인증코드를 입력하고 Verify 버튼을 누르면 다시 로그인 화면으로 전환됩니다.  
+Enter the email address and the verification code and press the Verify button to switch back to the login page. 
 
-## 5. 로그인 화면에서 임시 비밀번호를 입력하고 로그인 합니다. 
+## 5. On the login page, enter the temporary password and log in
 
 ![](../../../.gitbook/assets/screen-shot-2019-04-13-at-10.00.39-am.jpg)
 
-## 6. 로그인 이후 화면 우측 상단의 사용자 이름을 눌러 '비밀번호 변경' 을 클릭합니다.  
+## 6. After logging in, click on the user name in the upper right corner of the screen to click on 'Change Password'
 
 ![](../../../.gitbook/assets/artboard-2.jpg)
 
-## 7. '현재 비밀번호' 에 임시 비밀번호를 입력한 후, 새로운 비밀번호를 설정하고 '확인' 버튼을 누릅니다.  
+## 7. Enter the temporary password in 'Current Password', set a new password and press 'Submit' button
 
-### 주의사항
-
-비밀번호는 대문자, 소문자, 특수문자, 숫자 등을 모두 포함하여 8글자 이상이어야 합니다. 
+{% hint style="danger" %}
+The password must be at least 8 characters long, including all uppercase, lowercase, special characters, numbers.
+{% endhint %}
 
 ![](../../../.gitbook/assets/screen-shot-2019-04-13-at-10.00.04-am.jpg)
 
