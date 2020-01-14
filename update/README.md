@@ -4,14 +4,14 @@ description: '2019년 10월 업데이트되는 기간(Period) 정보 추가, 역
 
 # 10월 업데이트
 
-## 10월 업데이트 항목
+## 10월 업데이트 항목 
 
 * 프로젝트 기간\(period\) 정보 추가 
 * 조서 담당 역할\(Assign To Role\) 기능 추가 
 
 ## **1. 기간\(Period\) 정보 추가**
 
-![&#xD504;&#xB85C;&#xC81D;&#xD2B8; &#xC815;&#xBCF4; -&amp;gt; &#xAE30;&#xAC04;](../.gitbook/assets/image-58.png)
+![&#xD504;&#xB85C;&#xC81D;&#xD2B8; &#xC815;&#xBCF4; -&amp;gt; &#xAE30;&#xAC04;](../.gitbook/assets/image%20%2858%29.png)
 
 * 프로젝트 정보 화면에 기간\(Period\) 정보가 추가되었습니다.
   * 연간 \(Full year\) / 반기\(Half year\) / 분기\(Quarter\) / 월별 \(Month\) 단위로 기간을 선택할 수 있습니다.
@@ -19,12 +19,12 @@ description: '2019년 10월 업데이트되는 기간(Period) 정보 추가, 역
 
 > 기존에 제공된 결산일 정보와 더불어 별도의 기간 정보를 통해 프로젝트의 목적을 보다 명확하게 할 수 있다는 많은 사용자의 요청이 있었습니다. 기간 정보 입력을 통해 감사 프로젝트의 분/반기 검토 또는 연말 감사 해당 여부를 명확하게 구분할 수 있습니다.
 
-![&#xD504;&#xB85C;&#xC81D;&#xD2B8; &#xAE30;&#xAC04; &#xC5F4; / &#xD544;&#xD130;](../.gitbook/assets/image-25.png)
+![&#xD504;&#xB85C;&#xC81D;&#xD2B8; &#xAE30;&#xAC04; &#xC5F4; / &#xD544;&#xD130;](../.gitbook/assets/image%20%2825%29.png)
 
 * 프로젝트\(Projects\), 아카이브 관리\(Archive Management\), 마이페이지 - 배정된 프로젝트 \(My page - Assigned project\), 품질 관리 상태 보고서\(QC status report\) 페이지에 기간\(Period\) 항목이 추가되었습니다.
 * 프로젝트, 아카이브 관리 페이지에서 기간\(Period\) 필터를 사용할 수 있습니다. 
 * 업데이트 이전에 만들어진 기존 프로젝트의 기간은 모두 Full year 로 설정됩니다.
-* 이미 아카이브 된 프로젝트는 아카이브된 프로젝트의 기간을 변경할 수 없습니다.
+* 이미 아카이브 된 프로젝트는 아카이브된 프로젝트의 기간을 변경할 수 없습니다. 
 
   > 아카이브 관리자 또는 프로젝트 관리자인 경우에도 변경할 수 없습니다.
 
@@ -33,7 +33,7 @@ description: '2019년 10월 업데이트되는 기간(Period) 정보 추가, 역
 
 ## **2. 역할 지정\(Assign Role\) 기능 추가**
 
-![&#xD504;&#xB85C;&#xC81D;&#xD2B8; &amp;gt; &#xB2F9;&#xAE30;&#xAC10;&#xC0AC;&#xC870;&#xC11C;&#xD30C;&#xC77C; &amp;gt; &#xC6B0;&#xCE21; &#xD074;&#xB9AD; &amp;gt; Assign to Role](../.gitbook/assets/image-98.png)
+![&#xD504;&#xB85C;&#xC81D;&#xD2B8; &amp;gt; &#xB2F9;&#xAE30;&#xAC10;&#xC0AC;&#xC870;&#xC11C;&#xD30C;&#xC77C; &amp;gt; &#xC6B0;&#xCE21; &#xD074;&#xB9AD; &amp;gt; Assign to Role](../.gitbook/assets/image%20%2898%29.png)
 
 1. 우측 메뉴의 Assign to Role\(역할 지정\) 기능을 사용하여 프로젝트의 모든 역할에 당기 감사 조서 파일을 지정 할 수 있습니다.
 2. 역할 지정 기능은 법인용 메뉴의 '프로젝트 템플릿' 과 프로젝트 메뉴의 '당기감사조서 파일' 화면 및 '영구조서' 화면에서 사용할 수 있습니다.
@@ -49,13 +49,17 @@ description: '2019년 10월 업데이트되는 기간(Period) 정보 추가, 역
    * '담당 역할이 지정 된 파일'이 아카이브 정책의 아카이브 조건 중 하나로 표시됩니다.
    * 법인의 아카이브 관리자가 아카이브 시 필수 또는 선택 조건으로 지정할 수 있습니다.
 
-![&#xD504;&#xB85C;&#xC81D;&#xD2B8; &#xBA54;&#xB274; &amp;gt; &#xC544;&#xCE74;&#xC774;&#xBE0C; &#xC9C4;&#xB2E8; &amp;gt; &#xB2F4;&#xB2F9; &#xC5ED;&#xD560;\(Role\)&#xC774; &#xC9C0;&#xC815;&#xB41C; &#xD30C;&#xC77C; &amp;gt; &#xC790;&#xC138;&#xD788; &#xBCF4;&#xAE30;](../.gitbook/assets/image-19.png)
+![&#xD504;&#xB85C;&#xC81D;&#xD2B8; &#xBA54;&#xB274; &amp;gt; &#xC544;&#xCE74;&#xC774;&#xBE0C; &#xC9C4;&#xB2E8; &amp;gt; &#xB2F4;&#xB2F9; &#xC5ED;&#xD560;\(Role\)&#xC774; &#xC9C0;&#xC815;&#xB41C; &#xD30C;&#xC77C; &amp;gt; &#xC790;&#xC138;&#xD788; &#xBCF4;&#xAE30;](../.gitbook/assets/image%20%2819%29.png)
 
-## **기타 업데이트**
+## **기타 업데이트** 
 
-### **1. 한글 제목 파일을 마우스 우클릭으로 내려받기**
+#### **1. 한글 제목 파일을 마우스 우클릭으로 내려받기** 
 
-![&#xB2F9;&#xAE30; &#xAC10;&#xC0AC; &#xC870;&#xC11C; &#xD30C;&#xC77C; &amp;gt; &#xC81C;&#xBAA9; &#xD55C;&#xAE00; &#xD30C;&#xC77C; &amp;gt; &#xC6B0;&#xCE21; &#xBA54;&#xB274; &amp;gt; &#xB2E4;&#xC6B4;&#xB85C;&#xB4DC;](../.gitbook/assets/image-139.png)
+![&#xB2F9;&#xAE30; &#xAC10;&#xC0AC; &#xC870;&#xC11C; &#xD30C;&#xC77C; &amp;gt; &#xC81C;&#xBAA9; &#xD55C;&#xAE00; &#xD30C;&#xC77C; &amp;gt; &#xC6B0;&#xCE21; &#xBA54;&#xB274; &amp;gt; &#xB2E4;&#xC6B4;&#xB85C;&#xB4DC;](../.gitbook/assets/image%20%28139%29.png)
 
 * 한글로 제목이 입력된 당기감사조서/영구조서 파일을 마우스 우클릭을 통해 내려받을 수 있습니다. 
+
+
+
+
 
