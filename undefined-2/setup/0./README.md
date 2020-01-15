@@ -23,7 +23,7 @@ When an Audit LOBBY administrator registers a new user, **'Verification Code'** 
 
 ![&#xC778;&#xC99D;&#xCF54;&#xB4DC;&#xAC00; &#xCCA8;&#xBD80;&#xB41C; &#xBA54;&#xC77C; &#xD654;&#xBA74; \(&#xC81C;&#xBAA9;: Audit Lobby - User Verification Code\)](../../../.gitbook/assets/1-2.jpg)
 
-![Message screen with temporary password attached \(Subject: Invitation for Audit Lobby\)](../../../.gitbook/assets/1-1.jpg)
+![&#xC784;&#xC2DC; &#xBE44;&#xBC00;&#xBC88;&#xD638;&#xAC00; &#xCCA8;&#xBD80;&#xB41C; &#xBA54;&#xC77C; &#xD654;&#xBA74; \(&#xC81C;&#xBAA9;: Invitation for Audit Lobby\) ](../../../.gitbook/assets/1-1.jpg)
 
 ## 2. Access Audit LOBBY
 
@@ -32,10 +32,8 @@ When an Audit LOBBY administrator registers a new user, **'Verification Code'** 
 * Please access using **the Chrome browser**
 * For enterprise Audit LOBBY users, please access the accounting firm's separately established Audit LOBBY address which is **\(the firm's name\).auditlobby.com** \(ex. ABC accounting firm -&gt; abc.auditlobby.com\)
 * If you are using Audit LOBBY Korea, please access kr.auditlobby.com
-* If you are using Audit LOBBY US, please access us.auditlobby.com
-* If you are using Audit LOBBY India, please access ind.auditlobby.com
 
-![ You are connected to your own Enterprise Adobe or US/Korea/Indis Adobe. \(Requires Chrome browser\)](../../../.gitbook/assets/screen-shot-2019-04-13-at-9.55.46-am.jpg)
+![&#xC18C;&#xC18D; &#xC5D4;&#xD130;&#xD504;&#xB77C;&#xC774;&#xC988; &#xC5B4;&#xB527;&#xB85C;&#xBE44; &#xB610;&#xB294; &#xD55C;&#xAD6D; &#xC5B4;&#xB527;&#xB85C;&#xBE44;&#xB85C; &#xC811;&#xC18D;&#xD569;&#xB2C8;&#xB2E4;. \(&#xD06C;&#xB86C; &#xBE0C;&#xB77C;&#xC6B0;&#xC800; &#xC774;&#xC6A9; &#xD544;&#xC218;\) ](../../../.gitbook/assets/screen-shot-2019-04-13-at-9.55.46-am.jpg)
 
 ## 3. Press Confirm Signup in the bottom right of the pop-up
 

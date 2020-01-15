@@ -10,8 +10,8 @@ This is a PDF file of the basic usage of adobe.
 
 ### A. Create a project
 
-1. [계정등록](setup/0./) 
-2. [프로젝트 생성](setup/1-3..md)
+1. [Account Registration](setup/0./) 
+2. [Create Project](setup/1-3..md)
 
 ### B. Audit Team
 
