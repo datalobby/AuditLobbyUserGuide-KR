@@ -17,7 +17,7 @@
   * [\(ENG\)"온라인 조서 수정 시 저장이 되지 않고 소속 법인 목록으로 이동합니다."](audit-lobby-faq/dev-express-issue-2019-dec.md)
   * [\(Venu\)"How can I delete a project?"](audit-lobby-faq/project_delete.md)
   * [\(Venu\)"How can I download files from a project?"](audit-lobby-faq/undefined-3.md)
-  * [\(ENG\)"How can I edit the project information?"](audit-lobby-faq/project-info-update.md)
+  * [\(Venu\)"How can I edit the project information?"](audit-lobby-faq/project-info-update.md)
   * [\(ENG\)"How can I change the final issuance date?"](audit-lobby-faq/undefined-4.md)
   * [\(ENG\)"How can I lock the project"](audit-lobby-faq/project-lock.md)
   * [\(ENG\)"How can I assign users to archive admin in my project?"](audit-lobby-faq/undefined-5.md)

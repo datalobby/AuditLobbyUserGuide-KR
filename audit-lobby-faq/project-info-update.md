@@ -1,11 +1,10 @@
 ---
 description: >-
-  프로젝트 정보 (최종 감사보고서 발행일, 클라이언트, 프로젝트 ID 등) 수정방법을 알려드립니다. How to change the
-  project information (project name/project id/client/final issuance date, etc.)
-  in Project Information screen.
+  How to revise the details of a project (Project Name/ Project Id/ Client /
+  Final Completion Date, etc.) in the Project Information screen?
 ---
 
-# \(ENG\)"How can I edit the project information?"
+# \(Venu\)"How can I edit the project information?"
 
 ## Summary
 
