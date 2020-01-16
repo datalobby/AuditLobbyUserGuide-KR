@@ -2,33 +2,33 @@
 description: Audit LOBBY Guide Book Contents List
 ---
 
-# \(ENG\)어딧로비 사용자 가이드 이용법
+# \(Razia\)How to use the Adobe User Guide
 
-> 어딧로비를 처음 사용하시는 사용자분께는 A와 B 가이드 이용을 추천드립니다.
+> If you are new to adobe, we recommend using the A and B guides
 >
-> 현재 FAQ, C, D, E 항목은 가이드 작성이 진행되는 중입니다.
+> The FAQ, C, D, and  E topics are currently in progress
 
-## [FAQ - 자주 묻는 질문 ](../audit-lobby-faq/)
+## [FAQ - Frequently Asked Questions](../audit-lobby-faq/)
 
-## [유투브 영상 가이드](https://www.youtube.com/channel/UCWBSEXcL8zGCrOhRF-xatug)
+## [Youtube Video Guide](https://www.youtube.com/channel/UCWBSEXcL8zGCrOhRF-xatug)
 
-## [A. 어딧로비 기본 설정 가이드](setup/)
+## [A. Audit LOBBY Preferences Guide](setup/)
 
-> 어딧로비 이용에 필요한 기본 설정 가이드
+> Basic setup guide for using adobe
 
-## [B. 감사 흐름별 가이드](guide-by-scenario/)
+## [B. Audit Flow Guide](guide-by-scenario/)
 
-> 감사 흐름에 따라 작성된 어딧로비 이용 가이드
+> Adobe usage guide written according to the audit flow
 
-## [C. 기능별 가이드](guide-by-function/)
+## [C. Functional Guide](guide-by-function/)
 
-> 어딧로비의 개별 기능에 대한 가이드
+> Guide to Individual features of adobe
 
-## [D. 화면 구성별 가이드](contents.md)
+## [D. Screen-specific configuration guide](contents.md)
 
-> 어딧로비 화면 구성별 가이드
+> Adobe screen configuration guide
 
-## [E. 역할별 가이드 ](contents.md)
+## [E. Role-specific Guides](contents.md)
 
-> 감사 프로젝트에서 담당하는 역할에 따른 어딧로비 이용 가이드
+> Advise User Guide based on your role in the audit project
 

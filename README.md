@@ -4,13 +4,13 @@ description: Audit LOBBY User Guide
 
 # Audit LOBBY
 
-## 8월 어딧로비 업데이트 
+## 8월 어딧로비 업데이트
 
 {% page-ref page="update/" %}
 
 ## [어딧로비 동영상 가이드 ](youtube.md)
 
-## 어딧로비 사용자 가이드 항목  
+## 어딧로비 사용자 가이드 항목
 
 ### [A. Audit LOBBY 시작하기 ​](undefined-2/setup/)
 
@@ -27,8 +27,6 @@ description: Audit LOBBY User Guide
 ## 사용자 가이드 주요 항목
 
 * [업데이트 안내](update/)
-
-## 
 
 {% file src=".gitbook/assets/\_-\_.pdf" caption="어딧로비 기본 사용법 모음 " %}
 

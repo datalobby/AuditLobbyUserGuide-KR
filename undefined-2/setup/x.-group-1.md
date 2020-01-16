@@ -16,7 +16,7 @@ You can **create a group in the 'Set Up' menu** from the left menu column of the
 
 
 
-![&#xBC95;&#xC778;&#xC6A9; &#xBA54;&#xB274; &amp;gt; &#xBCF8;&#xBD80; &amp;gt; &#xBCF8;&#xBD80; &#xC0DD;&#xC131; &#xBC84;&#xD2BC; &#xB204;&#xB974;&#xAE30; ](../../.gitbook/assets/a_4_1.jpg)
+![Press the Create Group button](../../.gitbook/assets/a_4_1.jpg)
 
 3. Click the 'Create Group' button at the top right of the page
 
