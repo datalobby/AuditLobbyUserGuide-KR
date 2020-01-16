@@ -34,7 +34,7 @@
   * [\(ENG\)"I cannot log into the Sync Lobby."](audit-lobby-faq/synclobby.md)
   * [\(ENG\)"Web browser is abruptly closed when uploading the file."](audit-lobby-faq/undefined-2.md)
   * [\(Venu\)"How can I replace a file?"](audit-lobby-faq/file-replace.md)
-  * [\(ENG\)"감사 조서 파일이 온라인 에디터에서 사용되고 있어서 교체가 되지 않아요."](audit-lobby-faq/undefined-7.md)
+  * [\(Venu\)"The audit file is being used in an online editor and cannot be replaced."](audit-lobby-faq/undefined-7.md)
   * [\(ENG\)"롤 포워드 하려고 하는데 프로젝트가 안 보여요"\(관리자용\)](audit-lobby-faq/undefined-6.md)
   * [\(ENG\)"프로젝트 생성 시 클라이언트와 인게이지먼트 파트너 입력하였는데 다음 단계로 넘어가지 않습니다."](audit-lobby-faq/1..md)
   * [감사조서 관련 FAQ](audit-lobby-faq/faq-1.md)
