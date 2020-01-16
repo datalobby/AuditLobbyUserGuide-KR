@@ -1,60 +1,72 @@
 ---
-description: 감사 조서 우클릭 메뉴를 통해 파일 교체하기
+description: Replace audit files via the right-click menu
 ---
 
-# \(ENG\)"파일 교체\(Replace\)를 쉽게 할 수 있는 방법은 없나요?"
+# \(Venu\)"How can I replace a file?"
 
-## 감사조서 우클릭 메뉴를 통해 온라인 에디터를 이용하지 않고 조서를 교체할 수 있습니다.
+## Audit files can be replaced with the right-clicking menu without using the online editor.
 
-### 1. 감사조서를 선택하고 우클릭 합니다. 가장 아래쪽의 Replace 를 클릭합니다.
+### 1. Select and right-click on the audit file. Click the 'Replace' at the bottom of the list.
 
-1. 교체하고자 하는 감사조서를 선택합니다. 
-2. 감사조서를 선택하면 해당 감사조서가 노란색으로 표시됩니다. 
-3. 선택한 감사조서 위에서 마우스 오른쪽 버튼을 누릅니다. 
-4. 나타난 메뉴 중 가장 아래쪽의 **Replace** 를 클릭합니다. 
+* Select the audit file that you want to replace, it gets highlighted in yellow.
+* Right-clicking the file presents the list of options where you can see the 'Replace' option.
 
-![](../.gitbook/assets/image-134.png)
+![](../.gitbook/assets/replace-file-1.png)
 
-### 2. 파일 선택창이 나타납니다.
+### 2. The file selection window appears.
 
-1. 1에서 Replace를 클릭하면 파일 선택창이 나타납니다. 
-2. '**Choose File**' 을 누릅니다. 
+* Clicking the 'Replace' on \#1 opens the 'Replace File' pop-up.
+* You can observe the details of selected file \(Ref Num, File Type, File Size, Workpaper Name, Prepared, Reviewed\) under the 'Current File' section.
 
-> 주의: 선택한 기존 파일과 동일한 형식의 파일로만 교체할 수 있습니다. \(예를 들어, 선택한 파일이 .xlsx 인 경우 .xlsx 형식의 파일로만 교체할 수 있습니다.\)
+> Note: You can replace a file with any other file type. \(For example, if the selected file is .xlsx, you can replace it with a file of .pdf format.\)
 
-![&#xC911;&#xAC04; &#xBD80;&#xBD84;&#xC758; &apos;Choose File&apos; &#xBC84;&#xD2BC;&#xC744; &#xB204;&#xB985;&#xB2C8;&#xB2E4;. &#xC120;&#xD0DD;&#xD55C; &#xC870;&#xC11C;&#xAC00; .xlsx &#xD615;&#xC2DD; &#xD30C;&#xC77C;&#xC774;&#xC5C8;&#xAE30; &#xB54C;&#xBB38;&#xC5D0; &#xAD50;&#xCCB4;&#xD558;&#xB294; &#xD30C;&#xC77C; &#xC5ED;&#xC2DC; .xlsx&#xB85C;&#xB9CC; &#xAC00;&#xB2A5;&#xD558;&#xB2E4;&#xB294; &#xC548;&#xB0B4;&#xBB38;&#xC774; &#xD558;&#xB2E8;&#xC5D0; &#xB098;&#xD0C0;&#xB0A9;&#xB2C8;&#xB2E4;. ](../.gitbook/assets/replace_fileupload_dialog.jpg)
+![](../.gitbook/assets/replace-file-2.png)
 
-### 3. 교체할 파일을 선택합니다.
+### 3. Select the file for the replacement
 
-1. 2에서 'Choose File' 버튼을 누르면 파일 선택창이 나타납니다. 
-2. 교체할 파일을 선택합니다. 
+1. Click the 'Choose File' button on \#2 opens the file selection window.
+2. Select the file to replace.
+3. Click the 'Open' button.
 
-> 주의: 선택한 파일과 동일한 형식의 파일로만 교체할 수 있습니다.
+> Note: You can replace a file with any other file type.
 
-![](../.gitbook/assets/replace_file_select.jpg)
+![](../.gitbook/assets/replace-file-3.png)
 
-### 4. 교체될 파일의 이름을 확인합니다.
+### 4. Verify the file, and Prepare/ Review the file
 
-1. 3에서 교체할 파일을 선택하고 확인 또는 열기 버튼을 누르면 다시 다음과 같은 화면으로 돌아옵니다. 
-2. 'Choose File' 버튼 오른쪽에 선택한 파일의 이름이 나타나는지, 적절한 파일을 선택했는지 확인합니다. 
-3. '**Replace**' 버튼을 클릭합니다.  
+1. The details \(File Type, File Size\) of selected file on \#3 are displayed in the 'New File' section. 
+2. Select the Prepare/ Review check-boxes to Prepare/ Review the file.
+3. Click the '**Replace**' button.  
 
-![](../.gitbook/assets/replace_filename_check.jpg)
+![](../.gitbook/assets/replace-file-4.png)
 
-### 5. 화면 상단의 붉은색 로딩바가 완료되기를 기다립니다. 화면 우측 상단에 교체 완료 메시지가 나타납니다.
+> The default preference is check for the Prepare checkbox and uncheck for the Review checkbox.
+>
+> QC can't review the file unless there is a Review to a file.
+>
+> Prepare checkbox is always disabled to 'QC' user as he can't do any Prepare.
 
-1. 파일 크기가 큰 경우 업로드에 시간이 필요합니다. 화면 상단에 표시되는 붉은색 로딩바가 완료되기를 기다려 주십시오. 
-2. 파일이 교체되면 화면 우측 상단에 완료 메시지가 나타납니다. 
+### 5. Wait for the red loading bar to finish at the top of the screen. The replacement completion message appears at the top right of the screen.
 
-![](../.gitbook/assets/image-133.png)
+1. Uploading may take time if the file size is large.
+2. Please wait for the red loading bar to finish at the top of the screen.
+3. Upon successful replacement,
+   1. A success message appears at the top right of the screen.
+   2. The file gets auto Prepared/ Reviewed if the respective checkbox is selected on the username who replaces the file.
 
-## 주의사항 1: 파일 교체\(Replace\)를 이용하는 경우 기존 파일의 제목은 변경되지 않습니다. 제목은 교체되지 않고 내부 컨텐츠만 교체됩니다.
+![](../.gitbook/assets/replace-file-5.png)
 
-## 주의사항 2: 파일이 열려있는 경우 교체가 불가능합니다.
+> If Prepare/ Review checkbox is NOT selected, then Red star \(\*\) will be displayed to all sign-offs.
+>
+> If Prepare/ Review checkbox is selected, Red star \(\*\) will be displayed to all sign offs and for higher level sign-offs changed to Red color.
 
-동일한 양식의 파일인데도 교체가 진행되지 않는 경우, 화면 상단 우측의 종모양 아이콘을 클릭하여 교체하고자 하는 파일이 열려있지 않은지 확인하여 주시기 바랍니다.
+## Note 1: If you use Replace, the title of the existing file will not be changed, only the internal content gets updated.
 
-> 'Close All' 또는 개별 파일의 'X' 버튼을 눌러 열려있는 파일을 닫을 수 있습니다.
+## Note 2: If a file is opened, it cannot be replaced.
 
-![](../.gitbook/assets/image-80.png)
+If you want to replace a file, please ensure that the file must not be there in the "Opened By Me & Opened By Others" tabs of 'Opened Workpaper List' pop-up.
+
+> You can close opened files by pressing 'Close All' or the 'Close' button of an individual file.
+
+![Project View &amp;gt; Workpaper File &amp;gt; Actions &amp;gt; Opened Workpaper List ](../.gitbook/assets/replace-file-7.png)
 
