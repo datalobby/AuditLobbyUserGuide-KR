@@ -12,21 +12,21 @@ description: 'As the audit progresses, we will tell you how to use adobe.'
 >
 > 2. [Create Reference](https://github.com/datalobby/AuditLobbyUserGuide-KR/tree/993aca7456df12f5bd23917686f32391dcbd42b4/undefined-2/guide-by-scenario/4.)
 >
->    There are many ways to write a statement
+>    여러가지 방법으로 조서를 작성할 수 있습니다.
 >
-> 3. [ Reference Review](https://github.com/datalobby/AuditLobbyUserGuide-KR/tree/993aca7456df12f5bd23917686f32391dcbd42b4/undefined-2/guide-by-scenario/5.-review)
+> 3. [조서 검토 \(Review\)](https://github.com/datalobby/AuditLobbyUserGuide-KR/tree/993aca7456df12f5bd23917686f32391dcbd42b4/undefined-2/guide-by-scenario/5.-review)
 >
->    Review the record and check whether it is reviewed .Quality Control department inspects.
+>    조서를 검토하고 검토 여부를 확인합니다. 품질관리부서의 검수가 진행됩니다.
 >
-> 4. [Archive](https://github.com/datalobby/AuditLobbyUserGuide-KR/tree/993aca7456df12f5bd23917686f32391dcbd42b4/undefined-2/guide-by-scenario/6.)
+> 4. [아카이빙](https://github.com/datalobby/AuditLobbyUserGuide-KR/tree/993aca7456df12f5bd23917686f32391dcbd42b4/undefined-2/guide-by-scenario/6.)
 >
->    After the audit is completed, it is checked and finalized.
+>    감사를 완료한 후 사전 확인 작업을 거쳐 마무리합니다.
 
-* Audit LOBBY provides the ability to manage documents Prepared by Client\(PBC\)
+* 어딧로비는 고객준비자료\(PBC, Prepared By Client\)를 관리하는 기능을 제공합니다. 
 
-> [\(+\) PBC - by Customer ID](+-pbc.md)
+> [\(+\) PBC - 고객준비자료](+-pbc.md)
 
-## Other references
+## 기타 참고자료
 
-> List of references related to external audit \(coming soon\)
+> 외부감사 관련 참고자료 리스트 \(준비중\)
 

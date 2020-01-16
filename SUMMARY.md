@@ -74,7 +74,7 @@
     * [1. Financial Statement Preparation](undefined-2/guide-by-scenario/3.-.../README.md)
       * [1-1. Trial calculation](undefined-2/guide-by-scenario/3.-.../3-1..md)
       * [1-2. General Set](undefined-2/guide-by-scenario/3.-.../3-2..md)
-      * [1-3. 총괄표와 조서 연결](undefined-2/guide-by-scenario/3.-.../3-3..md)
+      * [1-3. Linking Leadsheets and records](undefined-2/guide-by-scenario/3.-.../3-3..md)
       * [1-4. 수정분개](undefined-2/guide-by-scenario/3.-.../3-4..md)
       * [1-5. 미반영 수정분개](undefined-2/guide-by-scenario/3.-.../3-5..md)
     * [\(ENG\)2. Working on Workpapers / Uploading Workpapers](undefined-2/guide-by-scenario/4./README.md)
