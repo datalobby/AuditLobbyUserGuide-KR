@@ -106,7 +106,7 @@
       * [\(ENG\)4-4. Unarchive](undefined-2/guide-by-scenario/6./4-4.un-archive.md)
       * [\(ENG\)4-5. Re-archive](undefined-2/guide-by-scenario/6./4-5.re-archive.md)
       * [\(ENG\)4-6. 아카이브 된 프로젝트 찾기](undefined-2/guide-by-scenario/6./4-6.search-archive.md)
-    * [\(ENG\)5. 아카이브된 프로젝트의 관리 \(관리자용\)](undefined-2/guide-by-scenario/5./README.md)
+    * [\(Venu\)5. \(For Managers\) Managing Archived and Unarchived Projects](undefined-2/guide-by-scenario/5./README.md)
       * [\(ENG\)5-1. 아카이브 해제하기](undefined-2/guide-by-scenario/5./4-3..md)
     * [\(+\) PBC - 고객준비자료](undefined-2/guide-by-scenario/+-pbc.md)
   * [C. 기능별 가이드](undefined-2/guide-by-function/README.md)
