@@ -1,13 +1,15 @@
 ---
-description: 계정 등록을 위해 발송된 '인증코드'가 만료된 경우
+description: The situation that the verification code sent for account registration expires
 ---
 
-# \(ENG\)"인증코드가 만료되었을 때 어떻게 해야 하나요?"
+# \(ENG\)"What should I do when my verification code expires?"
 
 관리자가 계정을 새로 등록하면, 등록된 사용자에게 '임시 비밀번호' 와 '인증코드'가 담긴 2개의 이메일이 전송됩니다. 최초 계정 등록/인증을 위한 인증코드\(verification code\)는 이메일이 도착한 후 24시간이 지나면 만료됩니다.
 
-* **인증코드가 만료된** 경우  
-  * 인증코드를 재발급 받습니다. 다음 글을 참고하여 주십시오. [인증코드 만료시 재발급 받기  ](../undefined-2/setup/0./1-2.-2.md)
+When an administrator registers for a new account, two sign-up related emails \(a temporary password and a verification code\) will be sent to the new user. The verification code for initial account registration / verification expires 24 hours after the email arrives.
 
-진행 중 어려움이 있으시거나 질문이 있으신 경우 support@datalobby.co.kr로 언제든지 문의하여 주시기 바랍니다.
+* If **the verification code has expired**  
+  * Reissue a verification code. Please refer to the following article. [**Reissue a new verification code**](../undefined-2/setup/0./1-2.-2.md)\*\*\*\*
+
+If you have any difficulties or have any questions during the process, please feel free to contact us at support@datalobby.co.kr.
 
