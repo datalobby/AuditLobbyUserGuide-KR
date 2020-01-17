@@ -1,123 +1,177 @@
 ---
-description: 아카이브된 프로젝트를 관리하는 방법을 알려드립니다. (법인 아카이브 관리자용)
+description: >-
+  This document is for the Archive Manager (AM) to manage the Archived and
+  Unarchived projects.
 ---
 
-# \(ENG\)5. 아카이브된 프로젝트의 관리 \(관리자용\)
+# \(Venu\)5. \(For Managers\) Managing Archived and Unarchived Projects
 
-## 요약보기
+![Organization View &amp;gt; Archive Management &amp;gt; Archived/ Unarchived tabs](../../../.gitbook/assets/list-of-archived-project.png)
 
-1. '아카이브 관리' 화면에서 아카이브 된 프로젝트 보기 
-2. 아카이브 된 프로젝트에 사용자 설정하기  
-3. 아카이브 된 프로젝트 압축파일 다운로드 하기 
-4. 아카이브 된 프로젝트 아카이브 해제하기 
+* The ‘Archive Management’ is visible only to the Super Admin who is an Archive Manager \(AM\) of the organization.
+* Clicking it displays the ‘Archive Management’ screen which contains ​two tabs​ named ‘Archived’ and ​’UnArchived’.
+* Archived tab shows all archived projects and UnArchived tab shows all unarchived projects.
 
-## 1. '아카이브 관리' 화면에서 아카이브 된 프로젝트 보기
+## Summary of Archived projects
 
-Organization Home 화면의 왼쪽 메뉴 목록에서 '아카이브 관리'를 선택합니다. 아카이브 관리 화면은 법인의 Super Admin과 Archive Manager 에게만 보여지는 화면입니다. \(Group Admin과 User Access 에게는 보여지지 않습니다.\)
+1. View Archived projects from ‘Archive Management’ screen.
+2. Assign users to the Archived projects.
+3. Download ZIP file of an Archived project.
+4. Unarchive the Archived project.
+5. Delete the Archived project. 
 
-> 주의: 2019년\(현재의 연도\)이 기본값으로 설정되어 있습니다. 전년도 프로젝트를 확인하시려면 연도를 2018년으로 설정하여 주십시오.
+## 1. **View Archived projects from the ‘Archive Management’ screen**
 
-![&#xC544;&#xCE74;&#xC774;&#xBE0C; &#xAD00;&#xB9AC; &#xD654;&#xBA74;&#xC5D0; &#xB098;&#xD0C0;&#xB098;&#xB294; &#xD504;&#xB85C;&#xC81D;&#xD2B8; &#xBAA9;&#xB85D; ](../../../.gitbook/assets/5-5-01_am_screen.jpg)
+> The ‘Archived’ tab shows all archived projects irrespective of the project assignment to the Archive Manager \(AM\).
+>
+> AM can manage the archived projects using various options available in the Actions column \(...\) at right side of the screen.
 
-아카이브 관리 화면에는 배정 여부와 상관없이 모든 아카이브된 프로젝트가 나타납니다. 아카이브 관리자는 아카이브 된 프로젝트를 열어 내용을 확인할 수 있습니다. 단, 다른 사용자의 권한을 수정하거나 압축파일을 다운받기 위해서는 스스로를 해당 프로젝트에 배정하거나 활성화 해야합니다.
+**Various options available in the Actions column:**
 
-## **2**. **아카이브 된 프로젝트에 사용자 설정하기**
+![Archive Management &amp;gt; Archived &amp;gt; Find project &amp;gt; Three dots button](../../../.gitbook/assets/am-context-menu.png)
 
-> * 아카이브 된 프로젝트에 Super Admin이 아닌 사용자가 열람 또는 반출 요청을 했을 때 
-> * 관리자 스스로 프로젝트를 아카이브 해제 하거나 압축파일을 다운받아야 할 때
+* The **Details** option displays the ‘Project Details’ popup that shows archived project's information and the users who worked on it.
+* The options **Open** and **Export Archived Zip File** are enabled only when you are assigned to the archived project.
+  * 'Open' is used to visit the project.
+  * 'Export Archived Zip File' is used to download the archived zip file.
+* The **Unarchive** option is used to unarchive the Archived project when needed.
+* The **Read Only Access Management** option is used to assign intended users to the Archived projects.
+* The **Delete** option is used to delete the Archived project when needed.
 
-### **2-1. 프로젝트 열기**
+> Note: Current year \(2020\) is the default selection in the Year drop-down. To check the previous year's projects, set the Year to 2019.
 
-Organization Home 화면의 왼쪽 메뉴 목록에서 '아카이브 관리'를 선택합니다. 목록에서 사용자 설정을 원하는 프로젝트의 Open을 선택합니다.
+![Archive Management &amp;gt; Archived &amp;gt; Year filter &amp;gt; Change year to see previous projects](../../../.gitbook/assets/current-year.png)
 
-![Organization Home &amp;gt; &#xC544;&#xCE74;&#xC774;&#xBE0C; &#xAD00;&#xB9AC; &amp;gt; &#xC0AC;&#xC6A9;&#xC790; &#xBC30;&#xC815;&#xC744; &#xC6D0;&#xD558;&#xB294; &#xD504;&#xB85C;&#xC81D;&#xD2B8; &#xC5F4;&#xAE30; ](../../../.gitbook/assets/5-1-04.jpg)
+## **2**. Assign users to the archived project
 
-### 2-2. 사용자 활성화 또는 사용자 신규 배정
+> * Access to the archived project is given to the user when s\(he\) requests to Visit or Export an archived project.
+> * Clicking the ‘Actions &gt; ReadOnly Access Management’ option of intended archived project displays the ‘Read Only Access Management’ screen.
+> * From there AM can assign, unassign or update intended users to Archived project.
 
-#### 2-2-1. 기존 사용자 활성화
+![Read Only Access Management popup when no users are assigned](../../../.gitbook/assets/read-only-access-management.png)
 
-아카이브가 완료된 프로젝트의 모든 사용자는 비활성화 처리되어있습니다. \(비활성화 된 사용자는 프로젝트에 접근할 수 없습니다.\) 사용자를 활성화 하면 해당 사용자가 다시 아카이브 된 프로젝트를 열람할 수 있게 됩니다. 기존 사용자의 권한에 따라 사용자가 아카이브 된 프로젝트 내부에서 다른 사용자의 설정을 변경할 수 있으므로 반드시 사용자의 권한을 확인하여 주십시오. \(이 부분은 6월 업데이트에서 아카이브 관리자만 설정이 가능하도록 변경됩니다.\)
+### **2-1. Assign Readonly User**
 
-{% hint style="info" %}
-* 사용자의 우측에서 'Activate'를 클릭하면 사용자가 프로젝트 내에서 활성화됩니다. 
-* 사용자의 우측에서 'Deactivate'를 클릭하면 사용자가 프로젝트 내에서 비활성화 됩니다.  
-{% endhint %}
+![Assign user in the Read Only Access Management screen](../../../.gitbook/assets/current-year%20%281%29.png)
 
-{% hint style="danger" %}
-관리자 역시 프로젝트의 사용자 정보를 수정하거나, 압축파일을 다운받거나, 아카이브를 해제하려면 스스로를 프로젝트에 배정해야 합니다.
-{% endhint %}
-
-{% hint style="warning" %}
-권한\(Archive Permission, Roll Forward Permission 등\) 이 수정되지 않는 경우 스스로를 배정 해제\(Unassign\) 한 후 다시 배정하면서 권한을 수정할 수 있습니다.
-{% endhint %}
-
-![Project Home &amp;gt; &#xAD00;&#xB9AC; &amp;gt; &#xC0AC;&#xC6A9;&#xC790; &amp;gt; Actions](../../../.gitbook/assets/5-1-07.jpg)
-
-* **프로젝트 관리자 + 아카이브 권한 + 롤 포워드 권한**을 가진 사용자를 활성화 한 경우  
-  * 해당 사용자가 다른 팀원을 활성화/비활성화/배정/배정해제 할 수 있습니다. 
-  * 해당 사용자가 아카이브 된 프로젝트를 롤 포워드 할 수 있습니다. 
-  * 해당 사용자가 아카이브를 해제할 수 있습니다. 
-* **프로젝트 관리자 + 아카이브 권한**을 가진 사용자를 활성화 한 경우 
-  * 해당 사용자가 다른 팀원을 활성화/비활성화/배정/배정해제 할 수 있습니다. 
-  * 해당 사용자가 아카이브를 해제할 수 있습니다. 
-* **프로젝트 관리자 권한**을 가진 사용자를 활성화 한 경우 
-  * 해당 사용자가 다른 팀원을 활성화/비활성화/배정/배정해제 할 수 있습니다. 
-* **프로젝트 참여자** \(Project User\) 권한의 사용자를 활성화 한 경우 
-  * 해당 사용자는 프로젝트를 열람할 수 있습니다. 
-
-#### 2-2-2. 신규 사용자 배정
-
-1. 아카이브 된 프로젝트의 '관리' 메뉴를 선택합니다. 
-2. 관리 &gt; 사용자 화면 우측 하단의 ‘사용자 배정’ 버튼을 클릭합니다.
-
-![Project Home &amp;gt; &#xAD00;&#xB9AC; &amp;gt; &#xC0AC;&#xC6A9;&#xC790; &amp;gt; &#xC0AC;&#xC6A9;&#xC790; &#xBC30;&#xC815;](../../../.gitbook/assets/5-1-05.jpg)
-
-이하 내용은 일반 사용자 배정 방식과 동일합니다. 아카이브 권한 및 롤 포워드 설정에 주의하여 주십시오.
-
-![&#xBC30;&#xC815;&#xC744; &#xC6D0;&#xD558;&#xB294; &#xC0AC;&#xC6A9;&#xC790; &#xB370;&#xC774;&#xD130; &#xC785;&#xB825; &amp;gt; &#xAD8C;&#xD55C; &#xC124;&#xC815;](../../../.gitbook/assets/5-1-06.jpg)
-
-#### 2-2-3 아카이브된 프로젝트에 대한 접근/다운로드/기한 설정
-
-![Organization Home &amp;gt; &#xC544;&#xCE74;&#xC774;&#xBE0C; &#xAD00;&#xB9AC; &amp;gt; 3 dots button &amp;gt; ReadOnly Access Management](../../../.gitbook/assets/14.png)
-
-![&#xD504;&#xB85C;&#xC81D;&#xD2B8;&#xC5D0; &#xB300;&#xD55C; &#xC811;&#xADFC;/&#xB2E4;&#xC6B4;&#xB85C;&#xB4DC;/&#xAE30;&#xD55C; &#xC124;&#xC815; &amp;gt; Assign](../../../.gitbook/assets/21.jpg)
-
-* 법인의 아카이브 관리자는 아카이브된 프로젝트에 대한 일반 사용자의 열람/다로드 권한 및 권한의 만료기한을 설정할 수 있습니다.
-* 법인의 아카이브 관리자도 스스로에게 프로젝트 열람 권한을 설정해야 아카이브된 프로젝트를 열 수 있습니다.
-
-{% hint style="danger" %}
-사용자 검색시 한글 이름으로 검색하여 주십시오.
-{% endhint %}
-
-## 3. 아카이브 된 프로젝트 압축파일 다운로드 하기
+Using this section, Archive Manager can ‘Assign’ Internal or External users of an organization to Archived project with Export permission & Expired Date..
 
 {% hint style="info" %}
-법인의 아카이브 관리자인 경우에도 아래 조건을 충족해야 압축파일을 다운로드 할 수 있습니다.
-
-* 아카이브된 프로젝트에 배정되어 있다.
-* 아카이브된 프로젝트 내부에서 활성화 되어 있다. 
-* 아카이브된 프로젝트 내부에서 아카이브 권한을 가지고 있다. 
+* The ‘Export Permission’ can be set as ‘Yes/No’ and users with export permission ‘Yes’ are able to download the Archived Zip file and users with ‘No’ can’t download the zip file.
+* The ‘Expired Date’ can be set as the current date to any future date. Once the date gets expired, the assigned users can’t access the archived project.
+* Selecting user record and clicking the ‘Assign’ button will assign user record to the project.
 {% endhint %}
 
-### 3-1. 목록에서 압축파일 다운로드 하기
+### 2-2.  **Assigned User List**
 
-> 관리자인 경우에도 프로젝트에 배정 및 활성화 되어 있지 않으면 압축파일을 다운로드 할 수 없습니다.
+![Assigned user list in the Read Only Access Management scree](../../../.gitbook/assets/list.png)
 
-![](../../../.gitbook/assets/5-5-02_am_screen_context_menu.jpg)
+> This section displays all assigned user records to the Archived project and their total count.
 
-### 3-2. 프로젝트 내부 - 아카이브 준비진단 화면에서 압축파일 다운로드 하기
-
-![](../../../.gitbook/assets/export_arch_zip_in_diagnosis.jpg)
-
-## 4. 아카이브 된 프로젝트 아카이브 해제하기
+* The assigned users only can access the archived projects from the ‘Projects &gt; Archived’ screen of Organization View.
+* At any time, the Archive Manager can change the 'Export Permission' and 'Expired Date' of the user record and save by hitting 'Save' button.
+* When the Current Date exceeds the Expired Date, then the user record will be grayed-out and the respective user can’t access the project.
+* The Archive Manager can remove archived project’s access to any assigned users using the ‘Unassign’ button. These unassigned users will be removed \(disappear\) from the Assigned User List section and cannot access the project.
 
 {% hint style="info" %}
-법인의 아카이브 관리자인 경우에도 아래 조건을 충족해야 아카이브를 해제할 수 있습니다.
-
-* 아카이브된 프로젝트에 배정되어 있다.
-* 아카이브된 프로젝트 내부에서 활성화 되어 있다. 
-* 아카이브된 프로젝트 내부에서 아카이브 권한을 가지고 있다. 
+* The assigned user record who is Suspended/Removed in the Organization will be grayed-out automatically. Updating the Expired Date won’t work for these user records due to Suspend or Remove, but the user record can be unassigned.
+* The last modified details such as who and when the ‘Read Only Access Management’ screen is modified gets recorded.
+* Note-1: These assigned user records will not be displayed under the ‘Administration &gt; Users’ screen of the archived project in the Project View.
+* Note-2: While assigning users to the project, in the User dropdown, the Suspended user record is grayed-out and the Removed user record will not be displayed.
 {% endhint %}
 
-![](../../../.gitbook/assets/unarchive_in_diagnosis.jpg)
+## 3. Download ZIP file of archived project
+
+####  3.1. Download Zip file from Archive Management screen
+
+![Archive Management &amp;gt; Archived &amp;gt; Three dots button &amp;gt; &apos;Export Archived Zip File](../../../.gitbook/assets/zip-file-1.png)
+
+The ‘Actions &gt; Export Archived Zip File’ option of Archived project will be enabled to Archive Manager only when the following conditions are met:
+
+* Archive Manager is assigned to the ‘Read Only Access Management’ screen of archived Project.
+* ‘Export Permission’ will be set as ‘Yes’.
+* The ‘Expiry Date’ is not expired \(Greater than or equal to the Current Date\).
+
+#### 3.2. Download Zip file from Archive Diagnosis screen
+
+![Visit archived project &amp;gt; Archive &amp;gt; Archive Diagnosis &amp;gt; Export Archive Zip button](../../../.gitbook/assets/zip-file-2.png)
+
+The other assigned users who are not Archive Manager can download the archived zip file only from the Archive Diagnosis screen of Project View, and only when the following conditions are met:
+
+* Archive Manager is assigned to the ‘Read Only Access Management’ screen of archived Project.
+* ‘Export Permission’ will be set as ‘Yes’.
+* The ‘Expiry Date’ is not expired \(Greater than or equal to the Current Date\).
+
+{% hint style="info" %}
+When the above three conditions are met, the Archive Manager can also download the archived zip file using ‘Export Archive Zip’ button in the Archive Diagnosis screen of Project View.
+{% endhint %}
+
+## 4. Unarchive the archived project
+
+{% hint style="info" %}
+If you need to modify an archived project, you need to release the archive by Unarchiving the project. ****Only Archive Manager can Unarchive the Archived Project and it can be done in two ways:
+
+1. Unarchive from the ‘Archive Management &gt; Archived’ screen.
+2. Unarchive from the ‘Archive &gt; Archive Diagnosis’ screen of Project View. 
+{% endhint %}
+
+#### **4-1. Unarchive from the ‘Archive Management &gt; Archived’ screen**
+
+Self-assignment to the archived project is not required when you unarchive the project from the ‘Archive Management &gt; Archived’ screen.
+
+1. Navigate to the ‘Archive Management &gt; Archived’ screen.
+2. Click ‘Actions &gt; Unarchive’ option at the right side of archived project that you want to unarchive.
+3. An email input window will appear to verify your identity.
+4. Enter your email address and click the "Unarchive" button.
+5. If the Unarchive is successful, a success notification message appears.
+
+{% hint style="info" %}
+After the Unarchive,
+
+* The Archived project remains exist under the ‘Archive Management &gt; Archived’ screen.
+* An unarchived project gets created and displayed under the 'Archive Management &gt; UnArchive' screen.
+* All project team members remain inactive on the ‘Administration &gt; Users’ screen of Unarchvied project. We recommend activate only the users you really need.
+* The unarchied project contains all the logs of Archived project.
+{% endhint %}
+
+#### **4-2. Unarchive from the ‘Archive &gt; Archive Diagnosis’ screen of Project View**
+
+You \(Archive Manager\) can unarchive the project from the Archive Diagnosis screen of Project View only when you are assigned and active in the Read Only Access Management of Archived Project.
+
+1. Navigate to the ‘Archive Management &gt; Archived’ screen.
+2. Clicking ‘Actions &gt; Open’ option of archived project that you want to unarchive takes you to the Project View.
+3. Navigate to the ‘Archive &gt; Archive Diagnosis’ screen.
+4. Click the "Unarchive" button.
+5. An email input window appears to verify your identity.
+6. Enter your email address and click the "Unarchive" button.
+7. If the Unarchive is successful, a success notification message appears and clicking it will take you to the ‘My Page &gt; Recently Visited Projects’ of Organization View.
+
+{% hint style="info" %}
+After the Unarchive,
+
+* The Archived project remains exist under the ‘Archived’ tab.
+* An Unarchived project gets created and displayed under the 'Unarchive' tab.
+* All project team members remain inactive. We recommend activate only the users you really need.
+* The unarchied project contains all the logs of Archived project.
+* If you release the archive, the unarchive information and date and time will be recorded.
+{% endhint %}
+
+> Note: Unarchive can be done only on the latest version of Archived project. Relevant alerts are displayed while unarchiving the older versions of archived projects.
+
+## **5. Delete the archived project**
+
+![Archive Management &amp;gt; Archived &amp;gt; Three dots button &amp;gt; Delete button &amp;gt; Enter email &amp;gt; Confirm button](../../../.gitbook/assets/delete.png)
+
+If the archived project is no longer required or not in use, then you can delete the project using Delete option. Only Archive Manager can Delete the Archived Project. Self-assignment to the archived project is not required in order to Delete the project. 
+
+1. Navigate to the ‘Archive Management &gt; Archived’ screen.
+2. Click ‘Actions &gt; Delete’ option at the right side of archived project that you want to delete.
+3. An email input window will appear to verify your identity.
+4. Enter your email address and click the "CONFIRM" button.
+5. If the delete is successful, a success notification message appears.
+6. If you want to restore the project, you can restore the project from the ‘Trash’ left navigation menu of Organization View. 
+
+{% hint style="info" %}
+Note: Only Archive Managers can restore or permanently delete the deleted archived projects.
+{% endhint %}
 
