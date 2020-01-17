@@ -1,14 +1,16 @@
 ---
 description: >-
-  This document is for the Archive anager to manage the Archived and Unarchived
-  projects.
+  This document is for the Archive Manager (AM) to manage the Archived and
+  Unarchived projects.
 ---
 
 # \(Venu\)5. \(For Managers\) Managing Archived and Unarchived Projects
 
-On the Organization View's left navigation pane, the ‘Archive Management’ is visible only to the Super Admin who is an Archive Manager \(AM\) of the organization.
+![Organization View &amp;gt; Archive Management &amp;gt; Archived/ Unarchived tabs](../../../.gitbook/assets/list-of-archived-project.png)
 
-Clicking it opens the ‘Archive Management’ screen which contains ​two tabs​ named ‘Archived’ and ​’UnArchived’. Archived tab shows all archived projects and UnArchived tab shows all unarchived projects.
+* The ‘Archive Management’ is visible only to the Super Admin who is an Archive Manager \(AM\) of the organization.
+* Clicking it displays the ‘Archive Management’ screen which contains ​two tabs​ named ‘Archived’ and ​’UnArchived’.
+* Archived tab shows all archived projects and UnArchived tab shows all unarchived projects.
 
 ## Summary of Archived projects
 
