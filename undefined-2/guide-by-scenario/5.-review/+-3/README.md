@@ -11,14 +11,18 @@ Audit LOBBY provides 3 dashboards
 * This shows a summary of all projects related to the user currently connected within the accounting firm.
 * The manager in charge can check the overall project progress and resource allocation through the Home dashboard .
 * You can click on the title of a project to go view the detailed dashboard  for that project.
+* The entire project details can be exported in excel sheet
 
-## **개별 프로젝트 대시보드 - a Project Dashboard** \(Specific Project Dashboard\)
+## **Individual Project Dashboard** \(Specific Project Dashboard\)
 
-* 사용자가 선택한 특정 프로젝트에 관한 정보를 보여줍니다. 
-* 해당 프로젝트의 진행률, 코멘트 요약 정보, 팀원 별 진행상황등을 알 수 있습니다. 
-* 계정항목을 클릭하여 해당 항목으로 이동할 수 있습니다. 
+* Shows information about the specific project you selected.
+* You can see the progress of the project, summary of comments, and no. of Adjustments
+* Entire Details can be exported as pdf, excel and csv format
 
-## **Q.C. Dashboard**
+## **Q.C. Dashboard \(Q.C. Status Report\)**
 
-* 품질관리팀에 배정된 프로젝트들의 정보를 보여줍니다.  
+* Show information about projects assigned to QC team.
+* The entire project details can be exported in excel sheet
+
+
 
