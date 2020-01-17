@@ -18,15 +18,17 @@ description: >-
 2. Assign users to the Archived projects.
 3. Download ZIP file of an Archived project.
 4. Unarchive the Archived project.
-5. Delete the Archived project.
-
- 
+5. Delete the Archived project. 
 
 ## 1. **View Archived projects from the ‘Archive Management’ screen**
 
-The ‘Archive Management &gt; Archived’ screen shows all archived projects irrespective of the project assignment to the Archive Manager \(AM\). AM can manage the archived projects using various options available in the Actions column \(...\) at right side of the screen.
+> The ‘Archived’ tab shows all archived projects irrespective of the project assignment to the Archive Manager \(AM\).
+>
+> AM can manage the archived projects using various options available in the Actions column \(...\) at right side of the screen.
 
 **Various options available in the Actions column:**
+
+![Archive Management &amp;gt; Archived &amp;gt; Find project &amp;gt; Three dots button](../../../.gitbook/assets/am-context-menu.png)
 
 * The **Details** option displays the ‘Project Details’ popup that shows archived project's information and the users who worked on it.
 * The options **Open** and **Export Archived Zip File** are enabled only when you are assigned to the archived project.
@@ -36,9 +38,9 @@ The ‘Archive Management &gt; Archived’ screen shows all archived projects ir
 * The **Read Only Access Management** option is used to assign intended users to the Archived projects.
 * The **Delete** option is used to delete the Archived project when needed.
 
-> Note: 2019 \(Current year\) is the default selection in the Year drop-down. To check the previous year's projects, set the Year to 2018.
+> Note: Current year \(2020\) is the default selection in the Year drop-down. To check the previous year's projects, set the Year to 2019.
 
-![&#xC544;&#xCE74;&#xC774;&#xBE0C; &#xAD00;&#xB9AC; &#xD654;&#xBA74;&#xC5D0; &#xB098;&#xD0C0;&#xB098;&#xB294; &#xD504;&#xB85C;&#xC81D;&#xD2B8; &#xBAA9;&#xB85D; ](../../../.gitbook/assets/5-5-01_am_screen.jpg)
+![Archive Management &amp;gt; Archived &amp;gt; Year filter &amp;gt; Change year to see previous projects](../../../.gitbook/assets/current-year.png)
 
 ## **2**. Assign users to the archived project
 
@@ -46,7 +48,11 @@ The ‘Archive Management &gt; Archived’ screen shows all archived projects ir
 > * Clicking the ‘Actions &gt; ReadOnly Access Management’ option of intended archived project displays the ‘Read Only Access Management’ screen.
 > * From there AM can assign, unassign or update intended users to Archived project.
 
+![Read Only Access Management popup when no users are assigned](../../../.gitbook/assets/read-only-access-management.png)
+
 ### **2-1. Assign Readonly User**
+
+![Assign user in the Read Only Access Management screen](../../../.gitbook/assets/current-year%20%281%29.png)
 
 Using this section, Archive Manager can ‘Assign’ Internal or External users of an organization to Archived project with Export permission & Expired Date..
 
@@ -56,9 +62,9 @@ Using this section, Archive Manager can ‘Assign’ Internal or External users 
 * Selecting user record and clicking the ‘Assign’ button will assign user record to the project.
 {% endhint %}
 
-![Organization Home &amp;gt; &#xC544;&#xCE74;&#xC774;&#xBE0C; &#xAD00;&#xB9AC; &amp;gt; &#xC0AC;&#xC6A9;&#xC790; &#xBC30;&#xC815;&#xC744; &#xC6D0;&#xD558;&#xB294; &#xD504;&#xB85C;&#xC81D;&#xD2B8; &#xC5F4;&#xAE30; ](../../../.gitbook/assets/5-1-04.jpg)
-
 ### 2-2.  **Assigned User List**
+
+![Assigned user list in the Read Only Access Management scree](../../../.gitbook/assets/list.png)
 
 > This section displays all assigned user records to the Archived project and their total count.
 
@@ -78,6 +84,8 @@ Using this section, Archive Manager can ‘Assign’ Internal or External users 
 
 ####  3.1. Download Zip file from Archive Management screen
 
+![Archive Management &amp;gt; Archived &amp;gt; Three dots button &amp;gt; &apos;Export Archived Zip File](../../../.gitbook/assets/zip-file-1.png)
+
 The ‘Actions &gt; Export Archived Zip File’ option of Archived project will be enabled to Archive Manager only when the following conditions are met:
 
 * Archive Manager is assigned to the ‘Read Only Access Management’ screen of archived Project.
@@ -85,6 +93,8 @@ The ‘Actions &gt; Export Archived Zip File’ option of Archived project will 
 * The ‘Expiry Date’ is not expired \(Greater than or equal to the Current Date\).
 
 #### 3.2. Download Zip file from Archive Diagnosis screen
+
+![Visit archived project &amp;gt; Archive &amp;gt; Archive Diagnosis &amp;gt; Export Archive Zip button](../../../.gitbook/assets/zip-file-2.png)
 
 The other assigned users who are not Archive Manager can download the archived zip file only from the Archive Diagnosis screen of Project View, and only when the following conditions are met:
 
