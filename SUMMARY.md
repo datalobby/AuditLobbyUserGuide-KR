@@ -93,7 +93,7 @@
       * [\(ENG\)3-1. How to prepare workpapers \(Prepare Sign-off\)](undefined-2/guide-by-scenario/5.-review/5-1.-prepare.md)
       * [\(ENG\)3-2. Review Workpaper \(Review Sign-off\)](undefined-2/guide-by-scenario/5.-review/5-2.-review.md)
       * [\(ENG\)3-3. Quality Control Review](undefined-2/guide-by-scenario/5.-review/5-3.-q.c..md)
-      * [\(+\) 대시보드 사용하기](undefined-2/guide-by-scenario/5.-review/+-3/README.md)
+      * [\(+\) Use the dashboard](undefined-2/guide-by-scenario/5.-review/+-3/README.md)
         * [전체 프로젝트 대시보드](undefined-2/guide-by-scenario/5.-review/+-3/undefined.md)
         * [개별 프로젝트 대시보드](undefined-2/guide-by-scenario/5.-review/+-3/undefined-1.md)
         * [품질관리 대시보드](undefined-2/guide-by-scenario/5.-review/+-3/undefined-2.md)

@@ -1,16 +1,16 @@
 ---
-description: 어딧로비의 대시보드를 이용하여 프로젝트를 보다 편리하게 관리할 수 있습니다.
+description: Manage your projects more easily with our dashboard.
 ---
 
-# \(+\) 대시보드 사용하기
+# \(+\) Use the dashboard
 
-어딧로비는 세 가지의 대시보드를 제공합니다.
+Audit LOBBY provides 3 dashboards
 
-## **전체 프로젝트 대시보드 - Projects Dashboard** \(Overall Projects Dashboard\)
+## **Home Dashboard - Projects Dashboard** \(Overall Projects Dashboard\)
 
-* 회계법인내에서 현재 접속한 사용자가 관련된 모든 프로젝트를 요약하여 보여줍니다. 
-* 업무책임자는 **&lt;전체 프로젝트 대시보드&gt;**를 통해 손쉽게 전반적인 프로젝트 진행상황과 자원 배분 등을 확인할 수 있습니다. 
-* 프로젝트의 제목을 클릭하여 해당 프로젝트의 &lt;개별 프로젝트 대시보드&gt;로 이동할 수 있습니다. 
+* This shows a summary of all projects related to the user currently connected within the accounting firm.
+* The manager in charge can check the overall project progress and resource allocation through the Home dashboard .
+* You can click on the title of a project to go view the detailed dashboard  for that project.
 
 ## **개별 프로젝트 대시보드 - a Project Dashboard** \(Specific Project Dashboard\)
 
