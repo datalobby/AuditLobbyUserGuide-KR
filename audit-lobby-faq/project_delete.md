@@ -22,7 +22,7 @@ Only the Super Admin of the organization or the user who created the project can
 3. Clicking the Delete button opens an email input pop up.
 4. If you enter your email and clicking the Delete button deletes project.
 
-![Organization View &amp;gt; Groups left navigation item &amp;gt; Find Project &amp;gt; Right click &amp;gt; Delete ](../.gitbook/assets/2-copy-4.jpg)
+![Organization View &amp;gt; Groups &amp;gt; Find Project &amp;gt; Right click &amp;gt; Delete](../.gitbook/assets/delete-project.png)
 
 1. Locate the project on the Groups screen.
 2. Right-click the project you want to delete and select the Delete option.
@@ -30,7 +30,7 @@ Only the Super Admin of the organization or the user who created the project can
 
 ## 2. Delete a project from the Project screen.
 
-![Organization View &amp;gt; Projects &amp;gt; Three-dots button &amp;gt; Delete](../.gitbook/assets/2-copy-5.jpg)
+![Organization View &amp;gt; Projects &amp;gt; Find Project &amp;gt; Three dots button &amp;gt; Delete](../.gitbook/assets/delete-project-2.png)
 
 1. In the Projects screen, find the project you want to delete.
 2. Clicking the ... button on the right side of the screen displays the Delete option.
