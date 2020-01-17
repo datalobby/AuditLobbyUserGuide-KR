@@ -1,80 +1,76 @@
-# \(ENG\)"The file is not saved when modifying the contents using Online-Editor"
+# \(ENG\)"온라인 조서 수정 시 저장이 되지 않고 소속 법인 목록으로 이동합니다."
 
-#### Issue Observation
+#### 문제 발생 상황
 
-> If you open and edit a file online and click "Save" button, you get the message saying **"Do you want to leave the site? Changes may not be saved."**  After this warning message appears and you press Exit, the screen is converted to 'List of subsidiaries' without saving the changes.
+> 어딧로비에서 온라인으로 조서를 열어 수정하는 경우, '**저장**'을 누르면 '**사이트에서 나가시겠습니까? 변경사항이 저장되지 않을 수 있습니다.**' 라는 경고문이 나타나며, 나가기를 누르면 변경사항이 저장되지 않고 '소속법인 목록' 으로 화면이 전환됩니다.
 
 {% hint style="info" %}
-**Why does this happen?**
+**왜 이런 상황이 발생하나요?**
 
-It occurs when a different user tries to modify a file that was modified and saved by another user in advance. This is a bug to be updated in the next release.
+여러 명의 사용자가 동시에 하나의 조서를 수정하려고 시도하는 경우 발생합니다.
 {% endhint %}
 
-## How To Resolve the Issue
+## 대처 방안
 
 {% hint style="success" %}
-1. Instead of using the online editor, please download the file and proceed with your work.
-2. Please use the "[Replace](file-replace.md)" function to replace the existing document in the cloud to the updated document in the desktop.
+1. 온라인 에디터를 사용하지 않고 다운로드하여 조서 작업을 진행합니다. 
+2. [교체하기](dev-express-issue-2019-dec.md#1-3-replace)\(Replace\) 기능을 사용하여 기존 문서를 교체하고 사인오프를 진행합니다. 
 {% endhint %}
 
 {% hint style="success" %}
-In addition, please check the list of opened files when editing online documents to avoid duplicate access.
+또는 온라인 조서 수정시 '**열려있는 파일 목록**'을 확인하여 중복 접속을 피합니다.
 {% endhint %}
 
-## 1. Replace the existing document in the cloud to the document on your local storage
+## 1. 파일 교체를 이용하여 조서 작업하기
 
-### 1-1. Download a workpaper
+### 1-1. 조서 다운로드
 
-1-1-1. Please **"Righ-click"** on the file you want to edit and select **"Download"**.
+1-1-1. 수정하고자 하는 조서를 목록에서 **우클릭** 하여 '**다운로드**'를 선택합니다.
 
 ![](../.gitbook/assets/image-43.png)
 
-1-1-2. Alternatively, double-click the file you want to edit to open it online, then **click the Download button**.
+1-1-2. 또는, 수정하고자 하는 조서를 더블 클릭하여 온라인에서 연 다음, '**다운로드**' 버튼을 누릅니다.
 
 ![](../.gitbook/assets/image-13.png)
 
-### 1-2. Edit the contents in the file
+### 1-2. 조서 수정
 
-Edit the downloaded file using your personal computer's editing program.
+다운로드한 조서를 개인 컴퓨터의 편집 프로그램을 통해 수정합니다.
 
+### 1-3. 조서 교체 \(replace\)
 
+어딧로비 상에서 기존 조서를 2에서 수정한 조서로 **교체**\(replace\) 합니다.
 
-### 1-3. Replace the file
-
-Replace the existing file in the cloud with the updated file in step 2.
-
-> You can **right-click on an existing file** in the cloud to select the **Replace function**.
+> 기존 조서를 우클릭 하여 **교체**\(Replace\) 기능을 이용하실 수 있습니다.
 
 ![](../.gitbook/assets/image-85.png)
 
-You can find more detailed instructions on how to replace a file \([FAQ:"How can I replace a file?"](file-replace.md)\)
+보다 자세한 조서 교체 방법을 [파일교체하기](file-replace.md) \([https://userguide.auditlobby.com/audit-lobby-faq/file-replace](https://userguide.auditlobby.com/audit-lobby-faq/file-replace)\) 항목을 통해 확인하실 수 있습니다.
 
-## 2. Check your list of opened files to avoid duplicates
+## 2. 열려있는 파일 목록 확인하여 중복 작업 피하기
 
-In Workpapers Screen, click Opened Workpaper List \(Actions &gt; Opened Workpaper List\)
+조서 화면에서 Actions &gt; Opened Workpaper List 메뉴를 선택합니다.
 
 ![](../.gitbook/assets/image-119.png)
 
 아래와 같이 열려있는 조서 항목이 나타나 '닫기' 또는 '모두 닫기' 버튼을 눌러 열려있는 문서를 닫습니다.
 
-An open file list\(By me/By others\) will appear as shown below and **click the Close or Close All button** to close the open document.
-
 ![](../.gitbook/assets/image-73.png)
 
 {% hint style="warning" %}
-Be sure to also check the Opened By Others tab.
+반드시 Opened By Others 탭 역시 확인하여 주십시오.
 {% endhint %}
 
 {% hint style="danger" %}
-* There may be team members who don't have "Close" or "Close All" permissions. \(User Access\) 
-* If you force close the file, other users' unsaved modifications may be lost. 
+* '닫기' 또는 '모두 닫기' 권한이 없는 팀원이 있을 수 있습니다. 
+* 강제로 파일을 닫는 경우 다른 사용자의 수정 사항이 손실될 수 있습니다. 
 {% endhint %}
 
 {% hint style="info" %}
-In the online editor, if you close the window by pressing the X button, the file is not considered closed. Please close it by clicking the 'Close' button on the top right of the screen.
+어딧로비 온라인 에디터에서는 X 버튼을 눌러 창을 닫는 경우 파일이 닫힌 것으로 간주하지 않습니다. 화면 우측 상단의 '닫기' 버튼을 눌러 닫아주시기 바랍니다.
 {% endhint %}
 
 ![](../.gitbook/assets/image-88.png)
 
-1. If you check the list of open files and avoid duplicate operations, you may encounter unexpected errors. If you are doing important and urgent work, we recommend you to use **the first method \(1. Replace the existing document in the cloud to the document on your local storage\)**
+1. 열려있는 파일 목록 확인하여 중복 작업을 피하시는 경우, 예상치 못한 오류가 발생할 수 있습니다. 중요하고 긴급한 작업을 하시는 경우 1. 파일 교체를 이용한 조서작업을 추천드립니다. 
 
