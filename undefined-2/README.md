@@ -1,4 +1,4 @@
-# \(Razia\) Audit LOBBY User Guide
+# \(Razia/Bo Review\) Audit LOBBY User Guide
 
 ## Audit LOBBY Basic Usage Collection
 
@@ -18,15 +18,15 @@ This is a PDF file of the basic usage of adobe.
 1. [Team Composition](setup/2./organize-audit-team.md)
 2. [Customer Settings](setup/2./2-4..md)
 
-### C. Writing a Record
+### C. Documentation of Workpapers
 
-1. [Audit Report](guide-by-scenario/4./2-1/)
+1. [Workpaper Documentation](guide-by-scenario/4./2-1/)
 
-### D. Review of Records
+### D. Review of Workpapers
 
-1. [Reference Check after writing\(Prepare\)](guide-by-scenario/5.-review/5-1.-prepare.md) 
-2. [Reference Review \(Review\)](guide-by-scenario/5.-review/5-2.-review.md)  
-3. [Inspection \(Q. C.\)](guide-by-scenario/5.-review/5-3.-q.c..md)  
+1. [Prepare Workpapers \(Prepare\)](guide-by-scenario/5.-review/5-1.-prepare.md) 
+2. [Review Workpapers \(Review\)](guide-by-scenario/5.-review/5-2.-review.md)  
+3. [Quality Control Review \(Q. C.\)](guide-by-scenario/5.-review/5-3.-q.c..md)  
 4. [Using the Dashboard](guide-by-scenario/5.-review/+-3/)
 5. [To set the state record](guide-by-scenario/5.-review/+-1.md) 
 6. [Using Comments](guide-by-scenario/5.-review/+.md)

@@ -41,7 +41,7 @@
   * [재무제표 관련 FAQ](audit-lobby-faq/faq.md)
   * [고객준비자료\(PBC\) 관련 FAQ](audit-lobby-faq/pbc-faq.md)
 * [Contact](contact.md)
-* [\(Razia\) Audit LOBBY User Guide](undefined-2/README.md)
+* [\(Razia/Bo Review\) Audit LOBBY User Guide](undefined-2/README.md)
   * [\(Razia\)How to use the Adobe User Guide](undefined-2/contents.md)
   * [\(Razia\)A. Getting Started with Audit LOBBY](undefined-2/setup/README.md)
     * [\(Razia\)0. Installing the Chrome Browser](undefined-2/setup/0.-2/README.md)
