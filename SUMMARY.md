@@ -15,7 +15,7 @@
   * [\(Venu/Done\)"Suddenly, I cannot log in."](audit-lobby-faq/login-error-01.md)
   * [\(Venu/Done\)"If I have two QCs, do both QC assigned documents require a QC signature?"](audit-lobby-faq/qc-qc-assign.md)
   * [\(ENG\)"The file is not saved when modifying the contents using Online-Editor"](audit-lobby-faq/dev-express-issue-2019-dec.md)
-  * [\(Venu\)"The audit file is being used in an online editor and cannot be replaced."](audit-lobby-faq/undefined-7.md)
+  * [\(Venu/Done\)"The audit file is being used in an online editor and cannot be replaced."](audit-lobby-faq/undefined-7.md)
   * [\(Venu\)"How can I delete a project?"](audit-lobby-faq/project_delete.md)
   * [\(Venu\)"How can I download files from a project?"](audit-lobby-faq/undefined-3.md)
   * [\(Venu\)"How can I replace a file?"](audit-lobby-faq/file-replace.md)
