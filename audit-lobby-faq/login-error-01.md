@@ -21,7 +21,7 @@ description: >-
 
 ![For Us users](../.gitbook/assets/us.png)
 
-![For Indian users](../.gitbook/assets/ind.png)
+![For Indian users](../.gitbook/assets/ind%20%281%29.png)
 
 ## 2. If the address is correct, check the email address and password one more time.
 
