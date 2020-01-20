@@ -4,7 +4,7 @@ description: >-
   Final Completion Date, etc.) in the Project Information screen?
 ---
 
-# \(Venu\)"How can I edit the project information?"
+# \(Venu/Pending\)"How can I edit the project information?"
 
 ## Summary
 

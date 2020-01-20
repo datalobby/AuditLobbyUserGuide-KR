@@ -1,4 +1,4 @@
-# \(Venu/Done\)"How can I download files from a project?"
+# \(Venu\)"How can I download files from a project?"
 
 There are three ways to download files.
 
