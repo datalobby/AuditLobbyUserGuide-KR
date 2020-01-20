@@ -57,7 +57,7 @@ description: >-
 Using this section, Archive Manager can ‘Assign’ Internal or External users of an organization to Archived project with Export permission & Expired Date..
 
 {% hint style="info" %}
-* The ‘Export Permission’ can be set as ‘Yes/No’ and users with export permission ‘Yes’ are able to download the Archived Zip file and users with ‘No’ can’t download the zip file.
+* The ‘Export Permission’ can be set with ‘Yes/No’ and users with permission ‘Yes’ are able to download the Zip file and users with ‘No’ can’t download the zip file.
 * The ‘Expired Date’ can be set as the current date to any future date. Once the date gets expired, the assigned users can’t access the archived project.
 * Selecting user record and clicking the ‘Assign’ button will assign user record to the project.
 {% endhint %}
