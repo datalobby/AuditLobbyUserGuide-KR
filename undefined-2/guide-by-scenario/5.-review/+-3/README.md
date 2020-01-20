@@ -2,7 +2,7 @@
 description: Manage your projects more easily with our dashboard.
 ---
 
-# \(+\) Use the dashboard \[Razia- Question\]:Project Dashboard information is not provided
+# \(+\) Use the dashboard
 
 Audit LOBBY provides 3 dashboards
 
