@@ -6,7 +6,7 @@ description: How do I troubleshoot login problems?
 
 > ## "What should I do if I can’t log in to the application?"
 
-## 1. Check that the address of the adobe is correct.
+## 1. Please ensure that your application URL address is correct.
 
 ![](../.gitbook/assets/login-error-01.jpg)
 
