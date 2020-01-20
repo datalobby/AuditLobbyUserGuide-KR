@@ -73,7 +73,7 @@
   * [\(Razia\)B. Guides by Audit Process Steps](undefined-2/guide-by-scenario/README.md)
     * [1. Financial Statement Preparation](undefined-2/guide-by-scenario/3.-.../README.md)
       * [1-1. Trial calculation](undefined-2/guide-by-scenario/3.-.../3-1..md)
-      * [1-2. General Set](undefined-2/guide-by-scenario/3.-.../3-2..md)
+      * [1-2. Leadsheet](undefined-2/guide-by-scenario/3.-.../3-2..md)
       * [1-3. Linking Leadsheets and records](undefined-2/guide-by-scenario/3.-.../3-3..md)
       * [1-4. Revision/Adjustment Journal](undefined-2/guide-by-scenario/3.-.../3-4..md)
       * [1-5. Passed Adjustments \(Unreflected Correction Journal\)](undefined-2/guide-by-scenario/3.-.../3-5..md)

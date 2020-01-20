@@ -1,5 +1,5 @@
 ---
-description: 'As the audit progresses, we will tell you how to use adobe.'
+description: 'As the audit progresses, we will tell you how to use system.'
 ---
 
 # \(Razia\)B. Guides by Audit Process Steps
