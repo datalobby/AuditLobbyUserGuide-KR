@@ -36,7 +36,7 @@
   * [\(ENG\)"I cannot log into the Sync Lobby."](audit-lobby-faq/synclobby.md)
   * [\(ENG\)"Web browser is abruptly closed when uploading the file."](audit-lobby-faq/undefined-2.md)
   * [\(Venu/Done\)"I can't find the project while trying to Roll Forward"](audit-lobby-faq/undefined-6.md)
-  * [\(VenuD\)All information is entered on the Create Project screen, but it does not go to the next step.](audit-lobby-faq/1..md)
+  * [\(Venu/Done\)All information is entered on the Create Project, but it does not go to the next step.](audit-lobby-faq/1..md)
   * [감사조서 관련 FAQ](audit-lobby-faq/faq-1.md)
   * [재무제표 관련 FAQ](audit-lobby-faq/faq.md)
   * [고객준비자료\(PBC\) 관련 FAQ](audit-lobby-faq/pbc-faq.md)
