@@ -2,7 +2,7 @@
 description: How to create an Audit LOBBY Initial Account
 ---
 
-# \(ENG\)1. Account Creation
+# \(Razia-Done\)1. Account Creation
 
 ## Summary   
 
@@ -35,7 +35,7 @@ When an Audit LOBBY administrator registers a new user, **'Verification Code'** 
 * If you are using Audit LOBBY US, please access us.auditlobby.com
 * If you are using Audit LOBBY India, please access ind.auditlobby.com
 
-![ You are connected to your own Enterprise Adobe or US/Korea/Indis Adobe. \(Requires Chrome browser\)](../../../.gitbook/assets/screen-shot-2019-04-13-at-9.55.46-am.jpg)
+![ You are connected to your own Enterprise Instance or US/Korea/India Instance. \(Requires Chrome browser\)](../../../.gitbook/assets/screen-shot-2019-04-13-at-9.55.46-am.jpg)
 
 ## 3. Press Confirm Signup in the bottom right of the pop-up
 

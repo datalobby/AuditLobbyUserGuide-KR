@@ -2,9 +2,9 @@
 description: Audit LOBBY Guide Book Contents List
 ---
 
-# \(Razia-Done\)How to use the User Guide
+# \(Razia\)How to use the Adobe User Guide
 
-> If you are new to system, we recommend using the A and B guides
+> If you are new to adobe, we recommend using the A and B guides
 >
 > The FAQ, C, D, and  E topics are currently in progress
 
@@ -14,19 +14,19 @@ description: Audit LOBBY Guide Book Contents List
 
 ## [A. Audit LOBBY Preferences Guide](setup/)
 
-> Basic setup guide for using system
+> Basic setup guide for using adobe
 
 ## [B. Audit Flow Guide](guide-by-scenario/)
 
-> Audit LOBBY usage guide written according to the audit flow
+> Adobe usage guide written according to the audit flow
 
 ## [C. Functional Guide](guide-by-function/)
 
-> Guide to Individual features of system
+> Guide to Individual features of adobe
 
 ## [D. Screen-specific configuration guide](contents.md)
 
-> Screen configuration guide
+> Adobe screen configuration guide
 
 ## [E. Role-specific Guides](contents.md)
 

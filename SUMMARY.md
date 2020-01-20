@@ -48,7 +48,7 @@
       * [\(ENG\)0-1. Installing Chrome on a Windows computer](undefined-2/setup/0.-2/0-1..md)
       * [\(ENG\)0-2. Installing Chrome on a Mac OS](undefined-2/setup/0.-2/0-2..md)
       * [\(ENG\)0-3. Installing Chrome on a Linux computer](undefined-2/setup/0.-2/0-3..md)
-    * [\(ENG\)1. Account Creation](undefined-2/setup/0./README.md)
+    * [\(Razia-Done\)1. Account Creation](undefined-2/setup/0./README.md)
       * [\(ENG\)1-1. Reset password](undefined-2/setup/0./1-1-forgot-password.md)
       * [\(ENG\)1-2. Reissue a new verification code](undefined-2/setup/0./1-2.-2.md)
     * [\(ENG\)2. User Registration / Edit / Delete](undefined-2/setup/x.-1.md)
