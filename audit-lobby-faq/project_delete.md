@@ -2,7 +2,7 @@
 description: Follow the process below to delete a project.
 ---
 
-# \(Venu/Done\)"How can I delete a project?"
+# \(Venu\)"How can I delete a project?"
 
 ## The project can be deleted in two ways.
 
