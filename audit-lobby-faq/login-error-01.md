@@ -30,6 +30,9 @@ description: >-
 ## 4. Contact Us
 
 {% hint style="info" %}
-If the error persists after trying 1~3, you can contact us via the support email address support@datalobby.co.kr or through the support email address for each accounting firm.
+If the error persists after trying 1~3, you can contact us on the support email address below.
+
+* support@datalobby.com, if you don't have a dedicated instance.
+* {firm\_name}.support@datalobby.com, if you have a dedicated instance.
 {% endhint %}
 
