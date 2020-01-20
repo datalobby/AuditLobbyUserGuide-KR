@@ -2,7 +2,7 @@
 description: How to reset your password when you have forgotten your Audit Lobby password
 ---
 
-# \(ENG\)1-1. Reset password
+# \(Razia-Done\)1-1. Reset password
 
 ## Summary   
 
