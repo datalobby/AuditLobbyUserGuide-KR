@@ -1,8 +1,10 @@
 ---
-description: How do I troubleshoot login problems?
+description: >-
+  This article illustrates some of the common login issues and helps ensure you
+  get back into your account.
 ---
 
-# \(Venu/Done\)"Suddenly, I cannot log in."
+# \(Venu/Done\)"Suddenly, I can't log in."
 
 > ## "What should I do if I can’t log in to the application?"
 
