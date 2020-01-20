@@ -17,13 +17,13 @@ description: >-
 > If your accounting firm doesn't have a dedicated instance, then use
 >
 > 1. us.auditlobby.com, if you are a USA user
-> 2. ind.auditlobby.com, if you are an Indian user
+> 2. in.auditlobby.com, if you are an Indian user
 
 ![For Us users](../.gitbook/assets/us.png)
 
-![For Indian users](../.gitbook/assets/ind%20%281%29.png)
+![For Indian users](../.gitbook/assets/in.png)
 
-## 2. If the address is correct, check the email address and password one more time.
+## 2. If the URL address is correct, check your email id and password one more time.
 
 ## 3. If you forgot your password, then you can reset it.
 
