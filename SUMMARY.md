@@ -12,7 +12,7 @@
   * [2019.02.12 \(수\) 업데이트 안내](update/2019.02.13.md)
   * [2018.12.19 \(수\) 업데이트 안내](update/2018-12-19.md)
 * [FAQ - Frequently Asked Questions](audit-lobby-faq/README.md)
-  * [\(Venu\)"Suddenly, I cannot log in."](audit-lobby-faq/login-error-01.md)
+  * [\(Venu/Done\)"Suddenly, I cannot log in."](audit-lobby-faq/login-error-01.md)
   * [\(Venu\)"If I have two QCs, do both QC assigned documents require a QC signature?"](audit-lobby-faq/qc-qc-assign.md)
   * [\(ENG\)"The file is not saved when modifying the contents using Online-Editor"](audit-lobby-faq/dev-express-issue-2019-dec.md)
   * [\(Venu\)"The audit file is being used in an online editor and cannot be replaced."](audit-lobby-faq/undefined-7.md)
