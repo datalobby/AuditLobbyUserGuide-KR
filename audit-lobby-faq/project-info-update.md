@@ -4,13 +4,13 @@ description: >-
   Final Completion Date, etc.) in the Project Information screen?
 ---
 
-# \(Venu\)"How can I edit the project information?"
+# \(Venu/Pending\)"How can I edit the project information?"
 
 ## Summary
 
-1. Select the project to edit
-2. Click the menu of project information
-3. Click the edit button on the right side of the screen
+1. Select the project to edit.
+2. Click the menu of project information.
+3. Click the edit button on the right side of the screen.
 
 {% hint style="info" %}
 Only the user who has admin authority can edit the project information.
