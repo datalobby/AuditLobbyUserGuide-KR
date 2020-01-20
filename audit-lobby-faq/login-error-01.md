@@ -25,7 +25,7 @@ description: >-
 
 ## 2. If the URL address is correct, check your email id and password one more time.
 
-## 3. If you forgot your password, then you can reset it.
+## 3. If you forgot your password, then you can reset it using 'Forgot Password' feature.
 
 {% page-ref page=".-4.md" %}
 
