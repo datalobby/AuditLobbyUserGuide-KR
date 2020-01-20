@@ -4,7 +4,7 @@ description: >-
   Unarchived projects.
 ---
 
-# \(Venu\)5. \(For Managers\) Managing Archived and Unarchived Projects
+# \(Venu/Pending\)5. \(For Managers\) Managing Archived and Unarchived Projects
 
 ![Organization View &amp;gt; Archive Management &amp;gt; Archived/ Unarchived tabs](../../../.gitbook/assets/list-of-archived-project.png)
 
