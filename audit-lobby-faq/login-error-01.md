@@ -10,8 +10,6 @@ description: >-
 
 ## 1. Please ensure that your application URL address is correct.
 
-![](../.gitbook/assets/login-error-01.jpg)
-
 > For example, if you belong to Ganada accounting firm and have a dedicated instance, your address is ganada.auditlobby.com.
 
 ![](../.gitbook/assets/image-165.png)
@@ -20,6 +18,10 @@ description: >-
 >
 > 1. us.auditlobby.com, if you are a USA user
 > 2. ind.auditlobby.com, if you are an Indian user
+
+![For Us users](../.gitbook/assets/us.png)
+
+![For Indian users](../.gitbook/assets/ind.png)
 
 ## 2. If the address is correct, check the email address and password one more time.
 
