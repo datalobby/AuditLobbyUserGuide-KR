@@ -1,8 +1,8 @@
 ---
-description: Audit LOBBY FAQ
+description: Audit LOBBY FAQs
 ---
 
-# FAQ - Frequently Asked Questions
+# FAQs - Frequently Asked Questions
 
 ## "Unable to Login suddenly"
 
