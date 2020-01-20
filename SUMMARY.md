@@ -42,7 +42,7 @@
   * [고객준비자료\(PBC\) 관련 FAQ](audit-lobby-faq/pbc-faq.md)
 * [Contact](contact.md)
 * [\(Razia/Bo Review\) Audit LOBBY User Guide](undefined-2/README.md)
-  * [\(Razia\)How to use the User Guide](undefined-2/contents.md)
+  * [\(Razia-Done\)How to use the User Guide](undefined-2/contents.md)
   * [\(Razia\)A. Getting Started with Audit LOBBY](undefined-2/setup/README.md)
     * [\(Razia\)0. Installing the Chrome Browser](undefined-2/setup/0.-2/README.md)
       * [\(ENG\)0-1. Installing Chrome on a Windows computer](undefined-2/setup/0.-2/0-1..md)
