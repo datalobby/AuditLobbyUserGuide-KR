@@ -45,10 +45,10 @@ description: >-
 ## **2**. Assign users to the archived project
 
 > * Access to the archived project is given to the user when s\(he\) requests to Visit or Export an archived project.
-> * Clicking the ‘Actions &gt; ReadOnly Access Management’ option of intended archived project displays the ‘Read Only Access Management’ screen.
+> * Clicking the ‘Read Only Access Management’ option of intended archived project displays the ‘Read Only Access Management’ screen.
 > * From there AM can assign, unassign or update intended users to Archived project.
 
-![Read Only Access Management popup when no users are assigned](../../../.gitbook/assets/read-only-access-management.png)
+![Archived &amp;gt; Find project &amp;gt; Three dots button &amp;gt; Read Only Access Management option](../../../.gitbook/assets/read-only-access-management.png)
 
 ### **2-1. Assign Readonly User**
 
