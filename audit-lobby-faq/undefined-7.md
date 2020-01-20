@@ -2,7 +2,7 @@
 description: Instructions on how to completely close the file in the online editor.
 ---
 
-# \(Venu/Done\)"The audit file is being used in an online editor and cannot be replaced."
+# \(Venu\)"The audit file is being used in an online editor and cannot be replaced."
 
 ‌If you see the message "This WP file can't be replaced as it is being used by xxx in Online Editor", you may be running the file in the background even if the audit file window is not opened. You will need to close the online editor completely.
 
