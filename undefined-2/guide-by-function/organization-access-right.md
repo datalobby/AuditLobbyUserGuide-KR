@@ -42,7 +42,7 @@ There are three access rights in Internal Users named Super Admin \(SA\), Group 
 
 ### 2.1. Super Admin \(SA\)
 
-![Organization View&apos;s left navigation menu options to Super Admin](../../.gitbook/assets/sa%20%281%29.png)
+![Organization View&apos;s left navigation menu options to Super Admin](../../.gitbook/assets/sa%20%282%29.png)
 
 ![Organization View&apos;s left navigation menu options to Super Admin with Archive Manager permission](../../.gitbook/assets/sa-am.png)
 
