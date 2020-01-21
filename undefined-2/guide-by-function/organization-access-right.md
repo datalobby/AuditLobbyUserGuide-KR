@@ -4,7 +4,7 @@ description: >-
   and article illustrates the different access levels of the Organization View.
 ---
 
-# \(Venu/Pending\) Set Up &gt; Users
+# \(Venu/Pending\) Organization Users \(Set UP &gt; Users\)
 
 ![Organization View &amp;gt; Set Up &amp;gt; Users](../../.gitbook/assets/set-up-users.png)
 
