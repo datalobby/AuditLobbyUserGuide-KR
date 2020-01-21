@@ -102,7 +102,7 @@
     * [\(Razia-Done\)4. Archive Process \(Data retention\)](undefined-2/guide-by-scenario/6./README.md)
       * [\(Razia-Done\)4-1. Archive Diagnosis](undefined-2/guide-by-scenario/6./4-1.archive-diagnosis.md)
       * [\(Razia-Done\)4-2. Archive](undefined-2/guide-by-scenario/6./4-2.archive.md)
-      * [\(ENG\)4-3. 리플리카 \(아카이브 사본\) 이용하기](undefined-2/guide-by-scenario/6./4-3.replica.md)
+      * [\(Razia-Done\)4-3. Using Replicas \(Archive copies\)](undefined-2/guide-by-scenario/6./4-3.replica.md)
       * [\(ENG\)4-4. Unarchive](undefined-2/guide-by-scenario/6./4-4.un-archive.md)
       * [\(ENG\)4-5. Re-archive](undefined-2/guide-by-scenario/6./4-5.re-archive.md)
       * [\(ENG\)4-6. 아카이브 된 프로젝트 찾기](undefined-2/guide-by-scenario/6./4-6.search-archive.md)
