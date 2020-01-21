@@ -20,10 +20,10 @@ The CPA \(Certified Public Accountant\) Firm must control who can create project
 
 ## Summary View
 
-1. Two types of users can be created.
+1. Two types of users.
    1. Internal Users
    2. External Users
-2. Three types of Organization access rights existed.
+2. Three types of Organization access rights.
    1. Super Admin \(SA\)
    2. Group Admin \(GA\)
    3. User Access \(UA\)
