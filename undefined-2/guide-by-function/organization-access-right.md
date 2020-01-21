@@ -10,7 +10,9 @@ description: >-
 
 The CPA \(Certified Public Accountant\) Firm must control who can create projects and who can access projects. Therefore, before a project can be created, the CPA firm must first designate users that can access ALL projects or Group level only.
 
-Users can view the ‘Set Up’ option on the left navigation pane of Organization View. Clicking it navigates the user to the ‘Set Up’ screen and contains five tabs named ‘Users, Groups, Clients, Engagement Types, Archive Condition, System Settings’. The default selection is the 'Users' tab and using this module, the admin users can perform add, update, delete operations on users.
+* Admin users can view the ‘Set Up’ option on the left navigation pane of Organization View.
+* Clicking it navigates the user to the ‘Set Up’ screen and contains five tabs named ‘Users, Groups, Clients, Engagement Types, Archive Condition, System Settings’.
+* The default selection is the 'Users' tab and using this module, the admin users can perform add, update, delete operations on users.
 
 {% hint style="info" %}
 'Set Up &gt; Users' module can be accessed only by Super Admin and Group Admin users, but the operations like add, update, suspend, remove operations can be done by the Super Admin user only.
@@ -18,14 +20,14 @@ Users can view the ‘Set Up’ option on the left navigation pane of Organizati
 
 ## Summary View
 
-1. Add, Edit, Suspend, and Remove users.
+1. Two types of users can be created.
+   1. Internal Users
+   2. External Users
 2. Three types of Organization access rights existed.
    1. Super Admin \(SA\)
    2. Group Admin \(GA\)
    3. User Access \(UA\)
-3. Two types of users can be created.
-   1. Internal Users
-   2. External Users
+3. Add, Edit, Suspend, and Remove users.
 
 ## 1. Types of Users
 
@@ -96,6 +98,12 @@ Users can view the ‘Set Up’ option on the left navigation pane of Organizati
 * Projects
 * QC Status Report
 * Quality Control Manual
+
+{% hint style="info" %}
+Please note than the above access rights are only for Internal Users and External Users doesn't contain any organization access right and they only can view two left navigation menu options named 'My Page' and 'Projects'.
+{% endhint %}
+
+![Organization View&apos;s left navigation menu options to External User](../../.gitbook/assets/external-user.png)
 
 ## Add Users
 
