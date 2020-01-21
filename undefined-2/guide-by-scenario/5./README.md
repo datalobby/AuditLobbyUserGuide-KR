@@ -57,8 +57,7 @@ description: >-
 Using this section, Archive Manager can ‘Assign’ Internal or External users of an organization to Archived project with Export permission & Expired Date..
 
 {% hint style="info" %}
-* The ‘Export Permission’ can be set with ‘Yes/No’.
-* Users with Export permission ‘Yes’ are able to download the Zip file and users with ‘No’ can’t download the zip file.
+* The ‘Export Permission’ can be set with ‘Yes/No’ and users with permission ‘Yes’ are able to download the Zip file and users with ‘No’ can’t download the zip file.
 * The ‘Expired Date’ can be set as the current date to any future date. Once the date gets expired, the assigned users can’t access the archived project.
 * Selecting user record and clicking the ‘Assign’ button will assign user record to the project.
 {% endhint %}
@@ -70,9 +69,9 @@ Using this section, Archive Manager can ‘Assign’ Internal or External users 
 > This section displays all assigned user records to the Archived project and their total count.
 
 * The assigned users only can access the archived projects from the ‘Projects &gt; Archived’ screen of Organization View.
-* At any time, the AM can change the 'Export Permission' and 'Expired Date' of the user record and save by hitting 'Save' button.
+* At any time, the Archive Manager can change the 'Export Permission' and 'Expired Date' of the user record and save by hitting 'Save' button.
 * When the Current Date exceeds the Expired Date, then the user record will be grayed-out and the respective user can’t access the project.
-* The AM can remove archived project’s access to any assigned users using the ‘Unassign’ button and such users cannot access the project.
+* The Archive Manager can remove archived project’s access to any assigned users using the ‘Unassign’ button. These unassigned users will be removed \(disappear\) from the Assigned User List section and cannot access the project.
 
 {% hint style="info" %}
 * The assigned user record who is Suspended/Removed in the Organization will be grayed-out automatically. Updating the Expired Date won’t work for these user records due to Suspend or Remove, but the user record can be unassigned.
