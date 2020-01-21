@@ -1,7 +1,7 @@
 ---
 description: >-
-  This module is used to add, edit, suspend, remove the users of an organization
-  and article illustrates the different access levels of the Organization View.
+  This article illustrates the different User types, Organization access rights
+  and how to add, edit, suspend, remove the users of an organization
 ---
 
 # \(Venu/Pending\) Organization Users \(Set UP &gt; Users\)
@@ -10,18 +10,55 @@ description: >-
 
 The CPA \(Certified Public Accountant\) Firm must control who can create projects and who can access projects. Therefore, before a project can be created, the CPA firm must first designate users that can access ALL projects or Group level only.
 
-Users can view the ‘Set Up’ option on the left navigation pane of Organization View. This can be accessed only by Super Admin and Group Admin users. Clicking it navigates the user to the ‘Set Up’ screen and contains five tabs named ‘Users, Groups, Clients, Engagement Types, Archive Condition, System Settings’. The default selection is the 'Users' tab and using this module, the admin users can perform add, update, delete operations on users.
+Users can view the ‘Set Up’ option on the left navigation pane of Organization View. Clicking it navigates the user to the ‘Set Up’ screen and contains five tabs named ‘Users, Groups, Clients, Engagement Types, Archive Condition, System Settings’. The default selection is the 'Users' tab and using this module, the admin users can perform add, update, delete operations on users.
+
+{% hint style="info" %}
+'Set Up &gt; Users' module can be accessed only by Super Admin and Group Admin users, but the operations add, update, suspend, remove operations can be done by the Super Admin user only.
+{% endhint %}
 
 ## Summary View of Organization Users
 
 1. Add, Edit, Suspend, and Remove users.
 2. Three types of Organization access rights existed.
-   1. Super Admin
-   2. Group Admin
-   3. User Access
+   1. Super Admin \(SA\)
+   2. Group Admin \(GA\)
+   3. User Access \(UA\)
 3. Two types of users can be created.
    1. Internal Users
    2. External Users
+
+## 1. Types of Users
+
+![Organization View &amp;gt; Set Up &amp;gt; Users &amp;gt; Add User/ Edit User](../../.gitbook/assets/user-types%20%281%29.png)
+
+* There are two types of users in a firm such as Internal Users and External Users.
+* Internal users are the primary users of application and examples are Owners, Managers, Employees who do an audit.
+* External users are the secondary users of accounting and examples are Investors, Customers, Tax Authorities, Government, External Auditors who inspect the auditing.
+* While adding or updating the user, you can set the user type as Internal or External.
+
+## 2. **Types of Organization access rights**
+
+There are three access rights in Internal Users named Super Admin \(SA\), Group Admin \(GA\), and User Access \(UA\).
+
+### 2.1. Super Admin \(SA\)
+
+![Organization View&apos;s left navigation menu options to Super Admin](../../.gitbook/assets/sa%20%281%29.png)
+
+![Organization View&apos;s left navigation menu options to Super Admin with Archive Manager permission](../../.gitbook/assets/sa-am.png)
+
+* The Super Admin has full administrative authority for everything in the organization.
+* SA has access to the following modules on the Organization View and able to perform affordable actions on the screen.
+  * My Page \(Recently Visited Projects, Assigned Projects\)
+  * Home
+  * Home Dashboard
+  * Groups
+  * Projects
+  * Templates
+  * Trash
+  * QC Status Report
+  * Quality Control Manual
+  * Set Up \(Users, Groups, Clients, Engagement Types, Archive Condition, System Settings\)
+* The Super Admin who is an 'Archive Manager' can only see the 'Archive Management' option in the Organization View's left navigation pane.
 
 ## Add Users
 
@@ -51,4 +88,6 @@ Users can view the ‘Set Up’ option on the left navigation pane of Organizati
       3. Groups &lt;Reword ‘Assigned Groups’ to ‘Groups’&gt;
       4. Last Access &lt;Last logged-in date & time stamp of the user&gt;
       5. Actions &lt;Three dots \(. . .\), clicking it should display Edit, Details, View History, Suspend/Restore, Remove options&gt;
+
+test
 
