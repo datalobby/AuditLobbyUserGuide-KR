@@ -60,6 +60,37 @@ There are three access rights in Internal Users named Super Admin \(SA\), Group 
   * Set Up \(Users, Groups, Clients, Engagement Types, Archive Condition, System Settings\)
 * The Super Admin who is an 'Archive Manager' can only see the 'Archive Management' option in the Organization View's left navigation pane.
 
+### 2.2. Group Admin \(GA\)
+
+![Organization View&apos;s left navigation menu options to Group Admin](../../.gitbook/assets/ga.png)
+
+* The Group Admin has full administrative authority in the respective assigned Groups.
+* GA has access to the following modules on the Organization View and except Groups \(LHS Groups\), the other modules will be in a read-only mode to him.
+  * My Page \(Recently Visited Projects, Assigned Projects\)
+  * Home
+  * Home Dashboard
+  * Groups
+  * Projects
+  * Templates
+  * Trash
+  * QC Status Report
+  * Quality Control Manual
+  * Set Up \(Users, Groups, Clients, Engagement Types, Archive Condition, System Settings\)
+
+### 2.3. User Access \(UA\)
+
+![Organization View&apos;s left navigation menu options to User Access person](../../.gitbook/assets/ua%20%281%29.png)
+
+* In general, the User Access permission will be given to the users who are regular auditors of a project.
+* User Access person has read-only access to the following modules on the Organization View.
+* My Page \(Recently Visited Projects, Assigned Projects\)
+* Home
+* Home Dashboard
+* Groups
+* Projects
+* QC Status Report
+* Quality Control Manual
+
 ## Add Users
 
 1. While creating or updating the user, the SA user should see two radio button options \(When one option is selected the other should be disabled and vice-versa\) such as Internal User and External User.
