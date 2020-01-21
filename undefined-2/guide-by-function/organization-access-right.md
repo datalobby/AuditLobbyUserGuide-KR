@@ -1,7 +1,7 @@
 ---
 description: >-
   This article illustrates the different User types, Organization access rights
-  and how to add, edit, suspend, remove the users of an organization
+  and how to add, edit, suspend, remove the users of an organization.
 ---
 
 # \(Venu/Pending\) Organization Users \(Set UP &gt; Users\)
@@ -13,10 +13,10 @@ The CPA \(Certified Public Accountant\) Firm must control who can create project
 Users can view the ‘Set Up’ option on the left navigation pane of Organization View. Clicking it navigates the user to the ‘Set Up’ screen and contains five tabs named ‘Users, Groups, Clients, Engagement Types, Archive Condition, System Settings’. The default selection is the 'Users' tab and using this module, the admin users can perform add, update, delete operations on users.
 
 {% hint style="info" %}
-'Set Up &gt; Users' module can be accessed only by Super Admin and Group Admin users, but the operations add, update, suspend, remove operations can be done by the Super Admin user only.
+'Set Up &gt; Users' module can be accessed only by Super Admin and Group Admin users, but the operations like add, update, suspend, remove operations can be done by the Super Admin user only.
 {% endhint %}
 
-## Summary View of Organization Users
+## Summary View
 
 1. Add, Edit, Suspend, and Remove users.
 2. Three types of Organization access rights existed.
@@ -29,16 +29,22 @@ Users can view the ‘Set Up’ option on the left navigation pane of Organizati
 
 ## 1. Types of Users
 
+> There are two types of users in a firm such as Internal Users and External Users.
+
 ![Organization View &amp;gt; Set Up &amp;gt; Users &amp;gt; Add User/ Edit User](../../.gitbook/assets/user-types%20%281%29.png)
 
-* There are two types of users in a firm such as Internal Users and External Users.
+### 1.1. Internal Users
+
 * Internal users are the primary users of application and examples are Owners, Managers, Employees who do an audit.
+
+### 1.2. External Users
+
 * External users are the secondary users of accounting and examples are Investors, Customers, Tax Authorities, Government, External Auditors who inspect the auditing.
 * While adding or updating the user, you can set the user type as Internal or External.
 
 ## 2. **Types of Organization access rights**
 
-There are three access rights in Internal Users named Super Admin \(SA\), Group Admin \(GA\), and User Access \(UA\).
+> There are three access rights in Internal Users named Super Admin \(SA\), Group Admin \(GA\), and User Access \(UA\).
 
 ### 2.1. Super Admin \(SA\)
 
