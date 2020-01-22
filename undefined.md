@@ -1,16 +1,16 @@
 ---
-description: 예시 파일입니다. 다운로드 부탁드립니다.
+description: Example file. Please download.
 ---
 
-# 예시 파일
+# \(Draft\)Example file \(Razia -Please put example sheet in English\)
 
-시산표 예시파일 입니다.
+Trial sample file.
 
-{% file src=".gitbook/assets/demo.xlsx" caption="데모용 시산표" %}
+{% file src=".gitbook/assets/demo.xlsx" caption="Trial Sheet for Demo" %}
 
-예시 파일 입니다.
+Example file.
 
-{% file src=".gitbook/assets/undefined.docx" caption="데모용 감사 계약서" %}
+{% file src=".gitbook/assets/undefined.docx" caption="Audit Agreement for Demo" %}
 
-{% file src=".gitbook/assets/2700.xlsx" caption="데모용 KIFRS 감사조서 2700 중요성" %}
+{% file src=".gitbook/assets/2700.xlsx" caption="KIFRS Audit Report 2700 Importance for Demonstration" %}
 

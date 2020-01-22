@@ -112,8 +112,8 @@
   * [C. Feature Guide](undefined-2/guide-by-function/README.md)
     * [\(Venu/Pending\) Organization Users \(Set UP &gt; Users\)](undefined-2/guide-by-function/organization-access-right.md)
 * [어딧로비 동영상 가이드 \(Youtube\)](youtube.md)
-* [예시 파일](undefined.md)
+* [\(Draft\)Example file \(Razia -Please put example sheet in English\)](undefined.md)
 * [\(Draft\)Audit LOBBY Education Satisfaction Survey](audit-lobby-1.md)
 * [\(Draft\)Audit LOBBY Introduction](audit-lobby-introduction.md)
-* [안내문서 모음](undefined-1.md)
+* [\(Draft\)Document collection](undefined-1.md)
 
