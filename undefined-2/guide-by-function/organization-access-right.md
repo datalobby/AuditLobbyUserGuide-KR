@@ -140,12 +140,32 @@ Duplicate Email and User Id won't be allowed while adding a user.
 {% endhint %}
 
 {% hint style="warning" %}
-Super Admin who is an Archive Manager cannot be downgraded to Group Admin or User Access until the ‘Archive Manager’ permission gets removed.
-{% endhint %}
-
-{% hint style="warning" %}
 At least one Archive Manager should exist in the Organization.
 {% endhint %}
 
 ## 4. Edit User
+
+Using this, the user information can be updated.
+
+1. Only Super Admin has access to update the user's information.
+2. Click the three dots button of the user that you wish to update.
+3. A list of action items will be displayed.
+4. Clicking the 'Edit' option displays the 'Edit User' dialog.
+5. Revise the user information as required. Please note that you can't change the 'Email' information.
+6. Duplicate User Id won't be allowed while updating a user.
+
+{% hint style="warning" %}
+Super Admin who is an Archive Manager cannot be downgraded to Group Admin or User Access until the ‘Archive Manager’ permission gets removed.
+
+* First, remove the 'Archive Manager' permission.
+* And then downgrade to Group Admin or User Access.
+{% endhint %}
+
+![](../../.gitbook/assets/downgrade-sa%20%281%29.png)
+
+{% hint style="warning" %}
+If a user assigned to at least one project, then updating the user type from Internal to External \[or\] External to Internal is not possible. You can update the user type only after unassiging the user from all assigned projects.
+{% endhint %}
+
+![](../../.gitbook/assets/user-type-change.png)
 
