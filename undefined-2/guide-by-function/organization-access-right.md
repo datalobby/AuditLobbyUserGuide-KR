@@ -15,7 +15,7 @@ The CPA \(Certified Public Accountant\) Firm must control who can create project
 * The default selection is the 'Users' tab and using this module, the admin users can perform add, update, delete operations on users.
 
 {% hint style="info" %}
-'Set Up &gt; Users' module can be accessed only by Super Admin and Group Admin users, but the operations like add, update, suspend, remove operations can be done by the Super Admin user only.
+**NOTE:** 'Set Up &gt; Users' module can be accessed only by Super Admin and Group Admin users, but the operations like add, update, suspend, remove operations can be done by the Super Admin user only.
 {% endhint %}
 
 ## Summary View
@@ -27,7 +27,10 @@ The CPA \(Certified Public Accountant\) Firm must control who can create project
    1. Super Admin \(SA\)
    2. Group Admin \(GA\)
    3. User Access \(UA\)
-3. Add, Edit, Suspend, and Remove users.
+3. Add User.
+4. Edit User.
+5. Suspend User.
+6. Remove User.
 
 ## 1. Types of Users
 
@@ -37,11 +40,11 @@ The CPA \(Certified Public Accountant\) Firm must control who can create project
 
 ### 1.1. Internal Users
 
-* Internal users are the primary users of application and examples are Owners, Managers, Employees who do an audit.
+* Internal users are the primary users of application and examples are Owners, Managers, Employees who do an audit. Internal User is nothing but a Regular auditor inside the firm.
 
 ### 1.2. External Users
 
-* External users are the secondary users of accounting and examples are Investors, Customers, Tax Authorities, Government, External Auditors who inspect the auditing.
+* External users are the secondary users of accounting and examples are Client users, Investors, Customers, Tax Authorities, Government, External Auditors, Inspectors/Regulators  who inspect the auditing.
 * While adding or updating the user, you can set the user type as Internal or External.
 
 ## 2. **Types of Organization access rights**
@@ -91,48 +94,46 @@ The CPA \(Certified Public Accountant\) Firm must control who can create project
 
 * In general, the User Access permission will be given to the users who are regular auditors of a project.
 * User Access person has read-only access to the following modules on the Organization View.
-* My Page \(Recently Visited Projects, Assigned Projects\)
-* Home
-* Home Dashboard
-* Groups
-* Projects
-* QC Status Report
-* Quality Control Manual
+  * My Page \(Recently Visited Projects, Assigned Projects\)
+  * Home
+  * Home Dashboard
+  * Groups
+  * Projects
+  * QC Status Report
+  * Quality Control Manual
 
 {% hint style="info" %}
-Please note than the above access rights are only for Internal Users and External Users doesn't contain any organization access right and they only can view two left navigation menu options named 'My Page' and 'Projects'.
+**NOTE:** The above access rights are only for Internal Users and External Users doesn't contain any organization access rights & they only can view two left navigation menu options named 'My Page' and 'Projects'.
 {% endhint %}
 
 ![Organization View&apos;s left navigation menu options to External User](../../.gitbook/assets/external-user.png)
 
-## Add Users
+## 3. Add User
 
-1. While creating or updating the user, the SA user should see two radio button options \(When one option is selected the other should be disabled and vice-versa\) such as Internal User and External User.
-   1. Example: Internal User is nothing but a Regular auditor inside the firm and External Users are Inspectors/Regulators or Client users
-2. Reword Access Type to Organization Access Right \(Both on Create & Edit User screens\)
-3. Reword the text Create to Add while adding user to the Organization
-4. Include a free text field Title on both Create & Edit User screens such as optional field in the Internal User section and mandatory in the External User section
-5. The following filter options should be available on the screen
-   1. All &lt;tab&gt;
-   2. Internal User &lt;tab&gt;
-   3. External User &lt;tab&gt;
-   4. Status \(Enabled/Disabled/All\) - Default is set to ‘All’
-   5. Group \(list of all groups /All\) - Default is set to ‘All’
-      1. List of all groups to SA
-      2. List of assigned groups to GA
-      3. Access Right \(list of Organization access rights/All\) - Default is set to ‘All’
-      4. Archive Manager \(Yes/ No/All\) - Default is set to ‘All’
-6. By default, the tab All should be selected \(i.e. Internal and External users of status Enabled/Disabled should be displayed\)
-7. In addition to the already existing fields, the following fields should be displayed in a tabular format. The fields order is Select all checkbox, S.No., Type, User Name, User ID, Email, Title, Status, Org. Access Right, Archive Manager, Groups, Created, Last Access, Actions \(three dots\) \(React JS R&D\)
-   1. Checkbox &lt;to select all records with a single click&gt;
-   2. Type &lt;Type of the user such as Internal/ External&gt;
-   3. Status &lt;Status of the user: Enabled/ Disabled&gt;
-   4. Archive Manager
-      1. If the user is a archive manager, then display the label as ‘Yes’
-      2. If not a archive manager, display hyphen ‘-’
-      3. Groups &lt;Reword ‘Assigned Groups’ to ‘Groups’&gt;
-      4. Last Access &lt;Last logged-in date & time stamp of the user&gt;
-      5. Actions &lt;Three dots \(. . .\), clicking it should display Edit, Details, View History, Suspend/Restore, Remove options&gt;
+1. The email id which is submitted while creating your organization acts as a Super Admin and Archive Manager for your firm.
+2. Super Admin has access to create users.
+3. Clicking the 'Add User' button opens the 'Add User' dialog where the user can add Internal or External user.
+4. When the 'Internal User' radio button is selected, the user has to submit the following fields.
+   1. Email\*, Name\*, User Id\*, Org. Access Right\*, Archive Manager\*, Title.
+5. When the 'External User' radio button is selected, the user has to submit the following fields.
+   1. Email\*, Name\*, User Id\*, Title\*.
+6. The 'Org. Access Right' drop-down contains three values: Super Admin, Group Admin, User Access.
+7. If you are an Archive Manager, then only you can provide 'Archive Manager' permissions to others.
+   1. The 'Archive Manager' permission is given only to the Super Admin users.
+   2. The 'Archive Manager' field with the 'Yes/ No' options gets displayed upon choosing the 'Super Admin' value.
+8. Clicking the 'Add User' button in the Add User dialog shows success message on the top-right of the screen, adds the user to the Organization and the invited user would receive two email notifications.
+
+{% hint style="warning" %}
+Duplicate Email and User Id won't be allowed while adding a user.
+{% endhint %}
+
+{% hint style="warning" %}
+Super Admin who is an Archive Manager cannot be downgraded to Group Admin or User Access until the ‘Archive Manager’ permission gets removed.
+{% endhint %}
+
+{% hint style="warning" %}
+At least one Archive Manager should exist in the Organization.
+{% endhint %}
 
 test
 
