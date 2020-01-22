@@ -174,11 +174,15 @@ If a user assigned to at least one project, then updating the user type from Int
 
 Using this, you can disable your organization access to the user temporarily. Only Super Admin has access to update the user information.
 
-* Click the three dots button of the user that you wish to Suspend.
-* A list of action items will be displayed.
-* Clicking the 'Suspend' option displays the 'Suspend User' confirmation dialog.
-* Clicking the 'SUSPEND USER' button disables the user. After the user Suspend,
-  * The Enabled status turns to Disabled.
-  * Yet, you can see the user record on the screen with a grayed-out color.
-* Suspended users can't log in to the application.
+1. Click the three dots button of the user that you wish to Suspend.
+2. A list of action items will be displayed.
+3. Clicking the 'Suspend' option displays the 'Suspend User' confirmation dialog.
+4. Clicking the 'SUSPEND USER' button disables the user. After the user Suspend,
+   * The Enabled status turns to Disabled.
+   * Yet, you can see the user record on the screen with a grayed-out color.
+5. Suspended users can't log in to the application.
+
+## Remove User
+
+
 
