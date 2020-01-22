@@ -1,18 +1,16 @@
 ---
-description: >-
-  Audit LOBBY Helps computerize external audits and facilitate the work of
-  accountants.
+description: Audit LOBBY 는 외부감사 전산화와 회계사의 편리한 업무 수행을 돕습니다.
 ---
 
-# \(Draft\)Audit LOBBY Introduction
+# 어딧로비 소개
 
-Audit LOBBY is a program designed to help accounting firms conduct external audits efficiently.
+Audit LOBBY는 회계법인이 외부감사를 효율적으로 진행할 수 있도록 설계된 프로그램입니다.
 
-In 2018, the auditing system will be reorganized and the supervision will be strengthened. As punishment standards become more specific and accountability becomes clearer, it becomes even more important to ensure that audits are conducted in compliance with regulations.
+2018년, 회계감사 시스템이 개편되고 감독이 강화됩니다. 처벌 기준이 구체화 되고 책임소재가 명확해 짐에 따라, 감사업무를 규제에 맞게 진행하는 것이 한층 더 중요해졌습니다.
 
-Traditional auditing programs had low work cohesion and file compatibility, and their coverage was limited to offline. It was also difficult to manage quality and track current progress.
+기존의 회계 감사 프로그램들은 업무간 결합도와 파일 호환성이 낮고, 그 적용범위가 오프라인에 한정되어 있었습니다. 또한 품질을 관리하고 현재 진행상황을 파악하는 것이 어려웠습니다.
 
-Audit LOBBY is built on strong regulatory standards. It provides everything you need for external auditing online, and AWS's powerful cloud system enables real-time business management and easy collaboration. You can run an audit team to communicate with your customers, create and manage audit reports and supporting materials.
+Audit LOBBY는 강화된 규제 기준을 기반으로 만들어졌습니다. 외부감사에 필요한 모든 기능을 온라인으로 제공하며, AWS의 강력한 클라우드 시스템을 통해 실시간 업무 관리와 편리한 협업이 가능합니다. 감사팀을 운영하며 고객과 소통하고, 감사 조서와 기반 자료를 작성 및 관리할 수 있습니다.
 
 [www.datalobby.com](https://www.datalobby.com) \| [www.datalobby.co.kr](https://datalobby.co.kr)
 
