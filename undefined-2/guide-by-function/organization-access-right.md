@@ -110,6 +110,8 @@ The CPA \(Certified Public Accountant\) Firm must control who can create project
 
 ## 3. Add User
 
+![Set-Up Users &amp;gt; Add User button &amp;gt; Fill details &amp;gt; Add User button](../../.gitbook/assets/add-user.png)
+
 1. The email id which is submitted while creating your organization acts as a Super Admin and Archive Manager for your firm.
 2. Super Admin has access to create users.
 3. Clicking the 'Add User' button opens the 'Add User' dialog where the user can add Internal or External user.
@@ -141,5 +143,5 @@ Super Admin who is an Archive Manager cannot be downgraded to Group Admin or Use
 At least one Archive Manager should exist in the Organization.
 {% endhint %}
 
-test
+## 4. Edit User
 
