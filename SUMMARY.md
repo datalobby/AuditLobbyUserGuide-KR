@@ -109,7 +109,7 @@
     * [\(Venu/Done\)5. \(For Managers\) Managing Archived and Unarchived Projects](undefined-2/guide-by-scenario/5./README.md)
       * [\(Venu/Done\)5-1. Unarchive](undefined-2/guide-by-scenario/5./4-3..md)
     * [\(+\) PBC - 고객준비자료](undefined-2/guide-by-scenario/+-pbc.md)
-  * [C. 기능별 가이드](undefined-2/guide-by-function/README.md)
+  * [C. Feature Guide](undefined-2/guide-by-function/README.md)
     * [\(Venu/Pending\) Organization Users \(Set UP &gt; Users\)](undefined-2/guide-by-function/organization-access-right.md)
 * [어딧로비 동영상 가이드 \(Youtube\)](youtube.md)
 * [예시 파일](undefined.md)

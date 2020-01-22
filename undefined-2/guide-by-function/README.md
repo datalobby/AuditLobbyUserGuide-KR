@@ -1,2 +1,2 @@
-# C. 기능별 가이드
+# C. Feature Guide
 
