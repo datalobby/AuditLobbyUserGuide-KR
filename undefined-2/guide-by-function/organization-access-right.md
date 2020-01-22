@@ -168,7 +168,7 @@ If a user assigned to at least one project, then updating the user type from Int
 
 ![](../../.gitbook/assets/user-type-change.png)
 
-## Suspend User
+## 5. Suspend User
 
 ![](../../.gitbook/assets/suspend.png)
 
@@ -182,7 +182,7 @@ Using this, you can disable your organization access to the user temporarily. On
    * Yet, you can see the user record on the screen with a grayed-out color.
 5. Suspended users can't log in to the application.
 
-## Remove User
+## 6. Remove User
 
 
 
