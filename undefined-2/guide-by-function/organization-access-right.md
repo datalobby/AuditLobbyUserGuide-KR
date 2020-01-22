@@ -122,6 +122,10 @@ The CPA \(Certified Public Accountant\) Firm must control who can create project
 6. The 'Org. Access Right' drop-down contains three values "Super Admin, Group Admin, User Access". The User can select intended one among the three.
 7. Clicking the 'Add User' button in the Add User dialog shows success message on the top-right of the screen, adds the user to the Organization and the invited user would receive two email notifications.
 
+![Email notification for Verification Code](../../.gitbook/assets/verificaiton-code.png)
+
+![Email notification for temporary password ](../../.gitbook/assets/invitation-email.png)
+
 ### 3.1. Provide Archive Manager permission
 
 ![Only the Super Admin who is an Archive Manager can provide Archive Manager permission to others](../../.gitbook/assets/am%20%281%29.png)
