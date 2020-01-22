@@ -145,14 +145,13 @@ At least one Archive Manager should exist in the Organization.
 
 ## 4. Edit User
 
-Using this, the user information can be updated.
+Using this, the user information can be updated. Only Super Admin has access to update the user's information.
 
-1. Only Super Admin has access to update the user's information.
-2. Click the three dots button of the user that you wish to update.
-3. A list of action items will be displayed.
-4. Clicking the 'Edit' option displays the 'Edit User' dialog.
-5. Revise the user information as required. Please note that you can't change the 'Email' information.
-6. Duplicate User Id won't be allowed while updating a user.
+1. Click the three dots button of the user that you wish to update.
+2. A list of action items will be displayed.
+3. Clicking the 'Edit' option displays the 'Edit User' dialog.
+4. Revise the user information as required. Please note that you can't change the 'Email' information.
+5. Duplicate User Id won't be allowed while updating a user.
 
 {% hint style="warning" %}
 Super Admin who is an Archive Manager cannot be downgraded to Group Admin or User Access until the ‘Archive Manager’ permission gets removed.
@@ -168,4 +167,18 @@ If a user assigned to at least one project, then updating the user type from Int
 {% endhint %}
 
 ![](../../.gitbook/assets/user-type-change.png)
+
+## Suspend User
+
+![](../../.gitbook/assets/suspend.png)
+
+Using this, you can disable your organization access to the user temporarily. Only Super Admin has access to update the user information.
+
+* Click the three dots button of the user that you wish to Suspend.
+* A list of action items will be displayed.
+* Clicking the 'Suspend' option displays the 'Suspend User' confirmation dialog.
+* Clicking the 'SUSPEND USER' button disables the user. After the user Suspend,
+  * The Enabled status turns to Disabled.
+  * Yet, you can see the user record on the screen with a grayed-out color.
+* Suspended users can't log in to the application.
 
