@@ -109,7 +109,7 @@
     * [\(Venu/Done\)5. \(For Managers\) Managing Archived and Unarchived Projects](undefined-2/guide-by-scenario/5./README.md)
       * [\(Venu/Done\)5-1. Unarchive](undefined-2/guide-by-scenario/5./4-3..md)
     * [\(+\)\(Draft\) PBC - Customer Preparation](undefined-2/guide-by-scenario/+-pbc.md)
-  * [C. Feature Guide](undefined-2/guide-by-function/README.md)
+  * [C. \(Draft\)Feature Guide](undefined-2/guide-by-function/README.md)
     * [\(Venu/Pending\) Organization Users \(Set UP &gt; Users\)](undefined-2/guide-by-function/organization-access-right.md)
 * [\(Draft\)Audit LOBBY Guide \(Youtube\)\(Razia - Question: Please put English version videos\)](youtube.md)
 * [\(Draft\)Example file \(Razia -Please put example sheet in English\)](undefined.md)
