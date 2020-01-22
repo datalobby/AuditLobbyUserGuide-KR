@@ -117,11 +117,17 @@ The CPA \(Certified Public Accountant\) Firm must control who can create project
    1. Email\*, Name\*, User Id\*, Org. Access Right\*, Archive Manager\*, Title.
 5. When the 'External User' radio button is selected, the user has to submit the following fields.
    1. Email\*, Name\*, User Id\*, Title\*.
-6. The 'Org. Access Right' drop-down contains three values: Super Admin, Group Admin, User Access.
-7. If you are an Archive Manager, then only you can provide 'Archive Manager' permissions to others.
-   1. The 'Archive Manager' permission is given only to the Super Admin users.
-   2. The 'Archive Manager' field with the 'Yes/ No' options gets displayed upon choosing the 'Super Admin' value.
-8. Clicking the 'Add User' button in the Add User dialog shows success message on the top-right of the screen, adds the user to the Organization and the invited user would receive two email notifications.
+6. The 'Org. Access Right' drop-down contains three values "Super Admin, Group Admin, User Access". The User can select intended one among the three.
+7. Clicking the 'Add User' button in the Add User dialog shows success message on the top-right of the screen, adds the user to the Organization and the invited user would receive two email notifications.
+
+### 3.1. Provide Archive Manager permission
+
+![Only the Super Admin who is an Archive Manager can provide Archive Manager permission to others](../../.gitbook/assets/am%20%281%29.png)
+
+If you are an Archive Manager, then only you can provide 'Archive Manager' permissions to others.
+
+1. The 'Archive Manager' permission is given only to the Super Admin users.
+2. The 'Archive Manager' field with the 'Yes/ No' options gets displayed upon choosing the 'Super Admin' value in the 'Org. Access Right' drop-down.
 
 {% hint style="warning" %}
 Duplicate Email and User Id won't be allowed while adding a user.
