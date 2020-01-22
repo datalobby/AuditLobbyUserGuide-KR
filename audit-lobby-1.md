@@ -1,8 +1,8 @@
 ---
-description: Audit LOBBY 교육 만족도 조사
+description: Audit LOBBY Education Satisfaction Survey
 ---
 
-# Audit LOBBY 교육 만족도 조사
+# Audit LOBBY Education Satisfaction Survey
 
 {% embed url="http://bit.ly/2pTBunN" caption="" %}
 
