@@ -180,15 +180,24 @@ If a user assigned to at least one project, then updating the user type from Int
 4. If a user is assigned to at least one project, then one more additional confirmation alert gets displayed that shows the list of assigned projects to the user.
 5. The \#4 will be skipped if the user is NOT assigned to any project.
 6. Clicking the 'SUSPEND' button in the confirmation alert disables the user. Here, After the user Suspend,
-   * The Enabled status turns to Disabled.
+   * The status of the user changes to Disabled from the Enabled.
    * Yet, you can see the user record on the screen with a grayed-out color.
 7. Suspended users can't log in to the application.
 
 ## 6. Restore User
 
+> Using this, you can restore the user who got suspended, so that the user will be an active user in your firm.
+
 ![Find user you wish to Restore &amp;gt; Three dots button &amp;gt; Restore &amp;gt; RESTORE USER](../../.gitbook/assets/restore-1.png)
 
 ![Clicking the RESTORE USER button in the confirmation alert restores the user](../../.gitbook/assets/restore-2.png)
+
+1. Click the three dots button of the user that you wish to Restore.
+2. A list of action items will be displayed.
+3. Clicking the 'Restore' option displays the 'Restore User!' confirmation dialog.
+4. Clicking the 'RESTORE USER' button in the confirmation alert restores the user. i.e., after restore,
+   * The status of the user changes to Enabled from the Disabled.
+   * The user record turns to normal color from the gray color.
 
 ## 7. Remove \(Delete\) User
 
