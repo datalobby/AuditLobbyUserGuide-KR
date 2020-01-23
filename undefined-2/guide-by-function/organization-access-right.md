@@ -168,13 +168,11 @@ If a user assigned to at least one project, then updating the user type from Int
 
 ![](../../.gitbook/assets/user-type-change.png)
 
-## 5. Suspend User
+## 5. Suspend \(Disable\) User
 
-![Find user &amp;gt; Three dots button &amp;gt; Edit &amp;gt; SUSPEND](../../.gitbook/assets/supend-user-1.png)
+> Using this, you can disable your organization access to the user temporarily. Only Super Admin has access to disable the user information.
 
-![See the List of assigned projects &amp;gt; SUSPEND &amp;gt; User record turns to gray color &amp; status is changed to &apos;Disabled&apos;](../../.gitbook/assets/supend-user-2.png)
-
-Using this, you can disable your organization access to the user temporarily. Only Super Admin has access to update the user information.
+![Find user you wish to Suspend &amp;gt; Three dots button &amp;gt; Edit &amp;gt; SUSPEND](../../.gitbook/assets/supend-user-1.png)
 
 1. Click the three dots button of the user that you wish to Suspend.
 2. A list of action items will be displayed.
@@ -186,7 +184,26 @@ Using this, you can disable your organization access to the user temporarily. On
    * Yet, you can see the user record on the screen with a grayed-out color.
 7. Suspended users can't log in to the application.
 
-## 6. Remove User
+## 6. Restore User
 
+![Find user you wish to Restore &amp;gt; Three dots button &amp;gt; Restore &amp;gt; RESTORE USER](../../.gitbook/assets/restore-1.png)
 
+![Clicking the RESTORE USER button in the confirmation alert restores the user](../../.gitbook/assets/restore-2.png)
+
+## 7. Remove \(Delete\) User
+
+> Using this, you can remove your organization access to the user permanently. Only Super Admin has access to remove the user.
+
+1. In order to remove a user from the Organization, first the user needs to be Suspended.
+2. Click the three dots button of the user that you wish to remove.
+3. A list of action items will be displayed.
+4. Clicking the 'Remove' option displays the 'Remove User' confirmation dialog.
+5. Clicking the 'REMOVE' button in the confirmation alert removes \(disappears\) the user from the 'Users' screen.
+
+{% hint style="info" %}
+An alert will be prompted while adding a user with the Deleted user, an option gets displayed to select the previous one.
+
+* Previous one: User will be added to the organization with the old system id only.
+* Here, the user either has to re-add the previous one or add the new user with a different email which is NOT exists in the database
+{% endhint %}
 
