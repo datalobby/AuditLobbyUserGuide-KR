@@ -4,7 +4,7 @@ description: >-
   and how to add, edit, suspend, remove the users of an organization.
 ---
 
-# \(Venu/Pending\) Organization Users \(Set UP &gt; Users\)
+# \(Venu/Done\) Organization Users \(Set UP &gt; Users\)
 
 ![Organization View &amp;gt; Set Up &amp;gt; Users](../../.gitbook/assets/set-up-users.png)
 
@@ -29,8 +29,9 @@ The CPA \(Certified Public Accountant\) Firm must control who can create project
    3. User Access \(UA\)
 3. Add User.
 4. Edit User.
-5. Suspend User.
-6. Remove User.
+5. Suspend \(Disable\) User.
+6. Restore \(Enable\) User
+7. Remove \(Delete\) User.
 
 ## 1. Types of Users
 
@@ -174,9 +175,9 @@ You can update the user type only after unassiging the user from all assigned pr
 
 > Using this, you can disable your organization access to the user temporarily. Only Super Admin has access to disable the user information.
 
-![Find user you wish to Suspend &amp;gt; Three dots button &amp;gt; Edit &amp;gt; SUSPEND](../../.gitbook/assets/supend-user-1.png)
+![Find user you wish to Suspend &amp;gt; Three dots button &amp;gt; Edit option &amp;gt; SUSPEND button](../../.gitbook/assets/supend-user-1.png)
 
-![A List of the assigned projects &amp;gt; SUSPEND &amp;gt; Status of the user is changed to Disable &amp; user record is in gray color](../../.gitbook/assets/supend-user-2.png)
+![A List of the assigned projects &amp;gt; SUSPEND button &amp;gt; Status of the user is changed to Disable &amp; user record is in gray color](../../.gitbook/assets/supend-user-2.png)
 
 1. Click the three dots button of the user that you wish to Suspend.
 2. A list of action items will be displayed.
@@ -189,11 +190,11 @@ You can update the user type only after unassiging the user from all assigned pr
    * Yet, the user record will be displayed on the 'Administration &gt; Users' screen of all assigned projects in the Project View, but the status is changed to 'Inactive'.
 7. Suspended users can't log in to the application.
 
-## 6. Restore User
+## 6. Restore \(Enable\) User
 
 > Using this, you can restore the user who got suspended, so that the user will be an active user in your firm.
 
-![Find user you wish to Restore &amp;gt; Three dots button &amp;gt; Restore &amp;gt; RESTORE USER](../../.gitbook/assets/restore-1.png)
+![Find user you wish to Restore &amp;gt; Three dots button &amp;gt; Restore option &amp;gt; RESTORE USER button](../../.gitbook/assets/restore-1.png)
 
 ![Clicking the RESTORE USER button in the confirmation alert restores the user](../../.gitbook/assets/restore-2.png)
 
@@ -207,7 +208,7 @@ You can update the user type only after unassiging the user from all assigned pr
 
 ## 7. Remove \(Delete\) User
 
-![Find the user you wish to Remove &amp;gt; Three dots button &amp;gt; Remove](../../.gitbook/assets/remove-1.png)
+![Find the user you wish to Remove &amp;gt; Three dots button &amp;gt; Remove option](../../.gitbook/assets/remove-1.png)
 
 ![Clicking the &apos;REMOVE USER&apos; button removes the user from the Users screen](../../.gitbook/assets/remove-2.png)
 
@@ -219,10 +220,12 @@ You can update the user type only after unassiging the user from all assigned pr
 4. Clicking the 'Remove' option displays the 'Remove User' confirmation dialog.
 5. Clicking the 'REMOVE' button in the confirmation alert removes \(disappears\) the user from the 'Users' screen.
 
-{% hint style="info" %}
-An alert will be prompted while adding a user with the Deleted user, an option gets displayed to select the previous one.
+{% hint style="warning" %}
+When you try to add an user with the deleted user's email id, then an alert will be prompted to you saying that "A user with the same Email already existed in the Deleted status. Please click on Restore User to enable the user or try with different Email.".
 
-* Previous one: User will be added to the organization with the old system id only.
-* Here, the user either has to re-add the previous one or add the new user with a different email which is NOT exists in the database
+* Click the 'Restore User' button to activate the user. \[OR\]
+* Change the email id and click the 'Add User' button again.
 {% endhint %}
+
+![Add User button &amp;gt; Input the removed user&apos;s email id &amp;gt; Add User button &amp;gt; See the warning message &amp;gt; RESTORE USER button](../../.gitbook/assets/remove-and-add-user.png)
 

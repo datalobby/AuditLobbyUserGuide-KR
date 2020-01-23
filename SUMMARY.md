@@ -110,7 +110,7 @@
       * [\(Venu/Done\)5-1. Unarchive](undefined-2/guide-by-scenario/5./4-3..md)
     * [\(+\)\(Draft\) PBC - Customer Preparation](undefined-2/guide-by-scenario/+-pbc.md)
   * [C. \(Draft\)Feature Guide](undefined-2/guide-by-function/README.md)
-    * [\(Venu/Pending\) Organization Users \(Set UP &gt; Users\)](undefined-2/guide-by-function/organization-access-right.md)
+    * [\(Venu/Done\) Organization Users \(Set UP &gt; Users\)](undefined-2/guide-by-function/organization-access-right.md)
 * [\(Draft\)Audit LOBBY Guide \(Youtube\)\(Razia - Question: Please put English version videos\)](youtube.md)
 * [\(Draft\)Example file \(Razia -Please put example sheet in English\)](undefined.md)
 * [\(Draft\)Audit LOBBY Education Satisfaction Survey](audit-lobby-1.md)
