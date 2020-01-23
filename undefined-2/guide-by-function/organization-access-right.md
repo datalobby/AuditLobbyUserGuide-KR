@@ -176,7 +176,7 @@ You can update the user type only after unassiging the user from all assigned pr
 
 ![Find user you wish to Suspend &amp;gt; Three dots button &amp;gt; Edit &amp;gt; SUSPEND](../../.gitbook/assets/supend-user-1.png)
 
-![A List of the assigned project to the user will be displayed &amp;gt; SUSPEND &amp;gt; Status of the user is changed to Disable &amp; user record is in gray color](../../.gitbook/assets/supend-user-2.png)
+![A List of the assigned projects &amp;gt; SUSPEND &amp;gt; Status of the user is changed to Disable &amp; user record is in gray color](../../.gitbook/assets/supend-user-2.png)
 
 1. Click the three dots button of the user that you wish to Suspend.
 2. A list of action items will be displayed.
@@ -189,10 +189,6 @@ You can update the user type only after unassiging the user from all assigned pr
    * Yet, the user record will be displayed on the 'Administration &gt; Users' screen of all assigned projects in the Project View, but the status is changed to 'Inactive'.
 7. Suspended users can't log in to the application.
 
-{% hint style="info" %}
-After Suspending the 
-{% endhint %}
-
 ## 6. Restore User
 
 > Using this, you can restore the user who got suspended, so that the user will be an active user in your firm.
@@ -204,11 +200,16 @@ After Suspending the
 1. Click the three dots button of the user that you wish to Restore.
 2. A list of action items will be displayed.
 3. Clicking the 'Restore' option displays the 'Restore User!' confirmation dialog.
-4. Clicking the 'RESTORE USER' button in the confirmation alert restores the user. i.e., after restore,
+4. Clicking the 'RESTORE USER' button in the confirmation alert restores the user. i.e., After the user restore,
    * The status of the user changes to Enabled from the Disabled.
    * The user record turns to normal color from the gray color.
+   * Still, the status of the user is 'Inactive' if in case he was assigned to any project\(s\) during the Suspend time.
 
 ## 7. Remove \(Delete\) User
+
+![Find the user you wish to Remove &amp;gt; Three dots button &amp;gt; Remove](../../.gitbook/assets/remove-1.png)
+
+![Clicking the &apos;REMOVE USER&apos; button removes the user from the Users screen](../../.gitbook/assets/remove-2.png)
 
 > Using this, you can remove your organization access to the user permanently. Only Super Admin has access to remove the user.
 
