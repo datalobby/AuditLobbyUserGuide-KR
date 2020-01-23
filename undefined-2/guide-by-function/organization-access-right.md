@@ -170,17 +170,21 @@ If a user assigned to at least one project, then updating the user type from Int
 
 ## 5. Suspend User
 
-![](../../.gitbook/assets/suspend.png)
+![Find user &amp;gt; Three dots button &amp;gt; Edit &amp;gt; SUSPEND](../../.gitbook/assets/supend-user-1.png)
+
+![See the List of assigned projects &amp;gt; SUSPEND &amp;gt; User record turns to gray color &amp; status is changed to &apos;Disabled&apos;](../../.gitbook/assets/supend-user-2.png)
 
 Using this, you can disable your organization access to the user temporarily. Only Super Admin has access to update the user information.
 
 1. Click the three dots button of the user that you wish to Suspend.
 2. A list of action items will be displayed.
 3. Clicking the 'Suspend' option displays the 'Suspend User' confirmation dialog.
-4. Clicking the 'SUSPEND USER' button disables the user. After the user Suspend,
+4. If a user is assigned to at least one project, then one more additional confirmation alert gets displayed that shows the list of assigned projects to the user.
+5. The \#4 will be skipped if the user is NOT assigned to any project.
+6. Clicking the 'SUSPEND' button in the confirmation alert disables the user. Here, After the user Suspend,
    * The Enabled status turns to Disabled.
    * Yet, you can see the user record on the screen with a grayed-out color.
-5. Suspended users can't log in to the application.
+7. Suspended users can't log in to the application.
 
 ## 6. Remove User
 
