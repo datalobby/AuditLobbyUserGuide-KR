@@ -122,6 +122,7 @@ The CPA \(Certified Public Accountant\) Firm must control who can create project
    1. Email\*, Name\*, User Id\*, Title\*.
 6. The 'Org. Access Right' drop-down contains three values "Super Admin, Group Admin, User Access". The User can select intended one among the three.
 7. Clicking the 'Add User' button in the Add User dialog shows success message on the top-right of the screen, adds the user to the Organization and the invited user would receive two email notifications.
+8. New users has to confirm their Email id first, and then log in to the application using the temporary password, and can update it using the Change Password feature.
 
 ![Email notification for Verification Code](../../.gitbook/assets/verificaiton-code.png)
 
