@@ -6,6 +6,8 @@ description: >-
 
 # \(Venu/Done\) Organization Users \(Set UP &gt; Users\)
 
+## Summary
+
 ![Organization View &amp;gt; Set Up &amp;gt; Users](../../.gitbook/assets/set-up-users.png)
 
 The CPA \(Certified Public Accountant\) Firm must control who can create projects and who can access projects. Therefore, before a project can be created, the CPA firm must first designate users that can access ALL projects or Group level only.
@@ -18,7 +20,7 @@ The CPA \(Certified Public Accountant\) Firm must control who can create project
 **NOTE:** 'Set Up &gt; Users' module can be accessed only by Super Admin and Group Admin users, but the operations like add, update, suspend, remove operations can be done by the Super Admin user only.
 {% endhint %}
 
-## Summary View
+### Major components of Users feature
 
 1. Two types of users.
    1. Internal Users
