@@ -163,7 +163,9 @@ Super Admin who is an Archive Manager cannot be downgraded to Group Admin or Use
 ![](../../.gitbook/assets/downgrade-sa%20%281%29.png)
 
 {% hint style="warning" %}
-If a user assigned to at least one project, then updating the user type from Internal to External \[or\] External to Internal is not possible. You can update the user type only after unassiging the user from all assigned projects.
+If a user assigned to at least one project, then updating the user type from Internal to External \[or\] External to Internal is not possible.
+
+You can update the user type only after unassiging the user from all assigned projects.
 {% endhint %}
 
 ![](../../.gitbook/assets/user-type-change.png)
@@ -174,6 +176,8 @@ If a user assigned to at least one project, then updating the user type from Int
 
 ![Find user you wish to Suspend &amp;gt; Three dots button &amp;gt; Edit &amp;gt; SUSPEND](../../.gitbook/assets/supend-user-1.png)
 
+![A List of the assigned project to the user will be displayed &amp;gt; SUSPEND &amp;gt; Status of the user is changed to Disable &amp; user record is in gray color](../../.gitbook/assets/supend-user-2.png)
+
 1. Click the three dots button of the user that you wish to Suspend.
 2. A list of action items will be displayed.
 3. Clicking the 'Suspend' option displays the 'Suspend User' confirmation dialog.
@@ -182,7 +186,12 @@ If a user assigned to at least one project, then updating the user type from Int
 6. Clicking the 'SUSPEND' button in the confirmation alert disables the user. Here, After the user Suspend,
    * The status of the user changes to Disabled from the Enabled.
    * Yet, you can see the user record on the screen with a grayed-out color.
+   * Yet, the user record will be displayed on the 'Administration &gt; Users' screen of all assigned projects in the Project View, but the status is changed to 'Inactive'.
 7. Suspended users can't log in to the application.
+
+{% hint style="info" %}
+After Suspending the 
+{% endhint %}
 
 ## 6. Restore User
 
