@@ -15,6 +15,7 @@ The CPA \(Certified Public Accountant\) Firm must control who can create project
 * Admin users can view the ‘Set Up’ option on the left navigation pane of Organization View.
 * Clicking it navigates the user to the ‘Set Up’ screen and contains five tabs named ‘Users, Groups, Clients, Engagement Types, Archive Condition, System Settings’.
 * The default selection is the 'Users' tab and using this module, the admin users can perform add, update, delete operations on users.
+* The email id which is submitted while creating your organization acts as a Super Admin and Archive Manager for your firm.
 
 {% hint style="info" %}
 **NOTE:** 'Set Up &gt; Users' module can be accessed only by Super Admin and Group Admin users, but the operations like add, update, suspend, remove operations can be done by the Super Admin user only.
@@ -72,7 +73,7 @@ The CPA \(Certified Public Accountant\) Firm must control who can create project
   * QC Status Report
   * Quality Control Manual
   * Set Up \(Users, Groups, Clients, Engagement Types, Archive Condition, System Settings\)
-* The Super Admin who is an 'Archive Manager' can only see the 'Archive Management' option in the Organization View's left navigation pane.
+* The Super Admin who is an 'Archive Manager' can only see the 'Archive Management' option in the left navigation menu of Organization View.
 
 ### 2.2. Group Admin \(GA\)
 
@@ -115,16 +116,22 @@ The CPA \(Certified Public Accountant\) Firm must control who can create project
 
 ![Set-Up Users &amp;gt; Add User button &amp;gt; Fill details &amp;gt; Add User button](../../.gitbook/assets/add-user.png)
 
-1. The email id which is submitted while creating your organization acts as a Super Admin and Archive Manager for your firm.
-2. Super Admin has access to create users.
-3. Clicking the 'Add User' button opens the 'Add User' dialog where the user can add Internal or External user.
-4. When the 'Internal User' radio button is selected, the user has to submit the following fields.
-   1. Email\*, Name\*, User Id\*, Org. Access Right\*, Archive Manager\*, Title.
-5. When the 'External User' radio button is selected, the user has to submit the following fields.
-   1. Email\*, Name\*, User Id\*, Title\*.
-6. The 'Org. Access Right' drop-down contains three values "Super Admin, Group Admin, User Access". The User can select intended one among the three.
-7. Clicking the 'Add User' button in the Add User dialog shows success message on the top-right of the screen, adds the user to the Organization and the invited user would receive two email notifications.
-8. New users has to confirm their Email id first, and then log in to the application using the temporary password, and can update it using the Change Password feature.
+1. Only Super Admin has access to add users.
+2. Click the 'Add User' button.
+3. The 'Add User' dialog will be opened where Internal or External users can be added.
+4. The following fields will be displayed when the 'Internal User' radio button is selected.
+   * Email\*, Name\*, User Id\*, Org. Access Right\*, Archive Manager\*, Title.
+5. The following fields will be displayed when the 'External User' radio button is selected.
+   * Email\*, Name\*, User Id\*, Title\*.
+6. The 'Org. Access Right' drop-down contains three values "Super Admin, Group Admin, User Access". Select intended one among the three.
+7. Click the 'Add User' button in the Add User dialog.
+   * You can view the success message on the top-right of the screen.
+   * The user will be added to your organization.
+   * The invited user would receive two email notifications.
+8. The new user has to,
+   * Confirm their Email id first.
+   * And then, log in to the application using the temporary password.
+   * Can update the temporary password using the Change Password feature.
 
 ![Email notification for Verification Code](../../.gitbook/assets/verificaiton-code.png)
 
@@ -153,9 +160,11 @@ Using this, the user information can be updated. Only Super Admin has access to 
 
 1. Click the three dots button of the user that you wish to update.
 2. A list of action items will be displayed.
-3. Clicking the 'Edit' option displays the 'Edit User' dialog.
-4. Revise the user information as required. Please note that you can't change the 'Email' information.
-5. Duplicate User Id won't be allowed while updating a user.
+3. Click the 'Edit' option.
+4. The 'Edit User' dialog will be displayed.
+5. Revise the user information as required.
+   * Please note that you can't change the 'Email' information.
+6. Duplicate User Id won't be allowed while updating a user.
 
 {% hint style="warning" %}
 Super Admin who is an Archive Manager cannot be downgraded to Group Admin or User Access until the ‘Archive Manager’ permission gets removed.
@@ -184,14 +193,15 @@ You can update the user type only after unassiging the user from all assigned pr
 
 1. Click the three dots button of the user that you wish to Suspend.
 2. A list of action items will be displayed.
-3. Clicking the 'Suspend' option displays the 'Suspend User' confirmation dialog.
-4. If a user is assigned to at least one project, then one more additional confirmation alert gets displayed that shows the list of assigned projects to the user.
-5. The \#4 will be skipped if the user is NOT assigned to any project.
-6. Clicking the 'SUSPEND' button in the confirmation alert disables the user. Here, After the user Suspend,
-   * The status of the user changes to Disabled from the Enabled.
+3. Click the 'Suspend' option.
+4. The 'Suspend User' confirmation dialog will be displayed.
+5. If a user is assigned to at least one project, then one more additional confirmation alert gets displayed that shows the list of assigned projects to the user.
+6. The \#4 will be skipped if the user is NOT assigned to any project.
+7. Click the 'SUSPEND' button in the confirmation to disable the user. Here, After the user Suspend,
+   * The status of the user gets changed to Disabled from the Enabled.
    * Yet, you can see the user record on the screen with a grayed-out color.
    * Yet, the user record will be displayed on the 'Administration &gt; Users' screen of all assigned projects in the Project View, but the status is changed to 'Inactive'.
-7. Suspended users can't log in to the application.
+8. Suspended users can't log in to the application.
 
 ## 6. Restore \(Enable\) User
 

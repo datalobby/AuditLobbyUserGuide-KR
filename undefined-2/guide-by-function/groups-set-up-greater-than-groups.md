@@ -30,7 +30,7 @@ description: >-
 
 ![Create Group button &amp;gt; Enter group name &amp;gt; Create button](../../.gitbook/assets/create-group.png)
 
-1. Click the 'Set Up' button from the left navigation menu of the Organization View.
+1. Click the 'Set Up' option on the left navigation menu of the Organization View.
 2. Click the 'Groups' tab at the top of the 'Set Up' page.
 3. Click the ‘Create Group’ button.
 4. The ‘Create Group’ dialog will be displayed.
