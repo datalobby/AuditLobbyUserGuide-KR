@@ -32,9 +32,10 @@ description: >-
 
 1. Click the 'Set Up' button from the left navigation menu of the Organization View.
 2. Click the 'Groups' tab at the top of the 'Set Up' page.
-3. Clicking the ‘Create Group’ button displays the ‘Create Group’ dialog.
-4. Enter the name of the group.
-5. Clicking the 'Create' button adds the group to screen.
+3. Click the ‘Create Group’ button.
+4. The ‘Create Group’ dialog will be displayed.
+5. Enter the name of the group.
+6. Click the 'Create' button to add the group.
 
 {% hint style="warning" %}
 Duplicate groups won't be allowed while adding a group.
@@ -45,8 +46,10 @@ Duplicate groups won't be allowed while adding a group.
 ![Find the group that you wish to edit &amp;gt; Edit icon &amp;gt; Input the revised name &amp;gt; Update button](../../.gitbook/assets/edit-group.png)
 
 1. Locate the group that you wish to edit.
-2. Clicking the ‘Edit’ icon displays the ‘Edit Group’ dialog.
-3. Enter the revised name of the group and clicking the 'Update' button updates the group name.
+2. Click the ‘Edit’ icon.
+3. The ‘Edit Group’ dialog will be displayed.
+4. Enter the revised name of the group.
+5. Click the 'Update' button to update the group name.
 
 {% hint style="warning" %}
 Duplicate groups won't be allowed while editing a group.
@@ -57,9 +60,10 @@ Duplicate groups won't be allowed while editing a group.
 ![Find the group that you wish to delete &amp;gt; Delete icon &amp;gt; Clicking OK in the confirmation alert deletes the group](../../.gitbook/assets/delete-group.png)
 
 1. Locate the group that you wish to delete.
-2. Clicking the ‘Delete’ icon displays the delete confirmation alert.
-3. Clicking the 'OK' button in the confirmation alert deletes the group.
-4. Deleted groups can be restored from the 'Trash' screen.
+2. Click the ‘Delete’ icon.
+3. Delete confirmation alert will be displayed.
+4. Clicking the 'OK' button in the confirmation alert deletes the group.
+5. Deleted groups can be restored from the 'Trash' screen.
 
 {% hint style="info" %}
 NOTE: A group cannot be deleted when it has at least one project.
@@ -69,9 +73,9 @@ NOTE: A group cannot be deleted when it has at least one project.
 
 ## 4. Assign/ Unassign Users to Group
 
-![Assign users to Group](../../.gitbook/assets/assign-users-to-group%20%281%29.png)
+### 4.1. Assign Users to Group
 
-![Unassign users from the group](../../.gitbook/assets/unassign-users-from-group.png)
+![Assign users to Group](../../.gitbook/assets/assign-users-to-group%20%281%29.png)
 
 1. Super Admin & Group Admin have access to assign/unassign users to Group.
 2. Locate the group that you wish to assign users to it.
@@ -79,9 +83,22 @@ NOTE: A group cannot be deleted when it has at least one project.
 4. The ‘Assign to Group’ dialog will be displayed.
 5. Select the 'Assign Users to Group' radio button.
 6. The LHS side of the dialog shows not assigned users of the group and RHS side shows assigned users of the group.
-7. Select one or more users on the LHS side and clicking the right arrow assigns the users to the Group.
-8. With this assignment, not all users of the Organization would be displayed under the ‘Administration &gt; Users &gt; Assign User’ dialog, instead, admins can see only the assigned users to the respective Group in which the current project is located.
-9. Select one or more users on the RHS side and clicking the left arrow unassigns the users from the Group.
+7. Select one or more users on the LHS side.
+8. Click the right arrow assigns the users to the Group.
+9. With this assignment, not all users of the Organization would be displayed under the ‘Administration &gt; Users &gt; Assign User’ dialog, instead, admins can see only the assigned users to the respective Group in which the current project is located.
+10. Select one or more users on the RHS side and clicking the left arrow unassigns the users from the Group.
+
+### 4.2. Unassign Users from the Group
+
+![Unassign users from the group](../../.gitbook/assets/unassign-users-from-group.png)
+
+1. Super Admin & Group Admin have access to unassign users from the Group.
+2. Locate the group that you wish to unassign users from the group.
+3. Click the ‘Add Users/Clients to Group’ plus icon under the 'Actions' column.
+4. The ‘Assign to Group’ dialog will be displayed.
+5. Select the 'Assign Users to Group' radio button.
+6. Select one or more users on the RHS side.
+7. Click the left arrow unassigns the users from the Group.
 
 {% hint style="info" %}
 In the 'Assign Users to Group' dialog,
