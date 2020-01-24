@@ -1,7 +1,7 @@
 ---
 description: >-
-  Using this module, the client master can be managed those can be used while
-  creating a project and updating the project Information.
+  Using this module, the client master data can be managed those can be used
+  while creating a project and updating the project Information.
 ---
 
 # \(Venu/Pending\) Set Up &gt; Clients

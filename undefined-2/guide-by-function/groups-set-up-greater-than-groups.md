@@ -30,8 +30,11 @@ description: >-
 
 ![Create Group button &amp;gt; Enter group name &amp;gt; Create button](../../.gitbook/assets/create-group.png)
 
-1. Clicking the ‘Create Group’ button displays the ‘Create Group’ dialog.
-2. Enter the name of the group and clicking the 'Create' button adds the group to screen.
+1. Click the 'Set Up' button from the left navigation menu of the Organization View.
+2. Click the 'Groups' tab at the top of the 'Set Up' page.
+3. Clicking the ‘Create Group’ button displays the ‘Create Group’ dialog.
+4. Enter the name of the group.
+5. Clicking the 'Create' button adds the group to screen.
 
 {% hint style="warning" %}
 Duplicate groups won't be allowed while adding a group.
