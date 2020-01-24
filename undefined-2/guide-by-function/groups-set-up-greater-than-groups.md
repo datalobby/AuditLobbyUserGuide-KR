@@ -71,7 +71,7 @@ NOTE: A group cannot be deleted when it has at least one project.
 
 ![Unassign users from the group](../../.gitbook/assets/unassign-users-from-group.png)
 
-1. Super Admin & Group Admin have access to assign/unassign users to Groups.
+1. Super Admin & Group Admin have access to assign/unassign users to Group.
 2. Locate the group that you wish to assign users to it.
 3. Click the ‘Add Users/Clients to Group’ plus icon under the 'Actions' column.
 4. The ‘Assign to Group’ dialog will be displayed.
@@ -83,7 +83,13 @@ NOTE: A group cannot be deleted when it has at least one project.
 
 ## 5. Assign/ Unassign Clients to Group
 
-1. SA & GA can select one or more clients on LHS side and clicking the right arrow assigns the clients to the Group.
-2. With this, not all clients of Organization would be displayed ‘Create Project’ or ‘Edit Project Information’ screen, instead admins can view only the clients that are mapped to the respective Group in which the Project is getting created.
-3. SA & GA can select one or more clients on RHS side and clicking the left arrow unassigns the clients from the Group.
+1. Super Admin & Group Admin have access to assign/unassign clients to Group.
+2. Locate the group that you wish to assign clients to it.
+3. Click the ‘Add Users/Clients to Group’ plus icon under the 'Actions' column.
+4. The ‘Assign to Group’ dialog will be displayed.
+5. Select the 'Assign Clients to Group' radio button.
+6. The LHS side of the dialog shows not assigned clients of the group and RHS side shows assigned clients of the group.
+7. Select one or more clients on the LHS side and clicking the right arrow assigns the clients to the Group.
+8. With this assignment, not all users of the Organization would be displayed under the ‘Administration &gt; Users &gt; Assign User’ dialog, instead, admins can see only the assigned users to the respective Group in which the current project is located.
+9. Select one or more users on the RHS side and clicking the left arrow unassigns the users from the Group.
 
