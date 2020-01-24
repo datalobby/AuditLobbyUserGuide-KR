@@ -58,3 +58,17 @@ Duplicate groups won't be allowed while editing a group.
 2. Clicking the ‘Delete’ icon displays the delete confirmation alert.
 3. Clicking the 'OK' button in the confirmation alert deletes the group.
 
+## 4. Assign/ Unassign Users to Group
+
+1. Search the group that you wish assign users or clients to it.
+2. Click the 'Assign Users/Clients to Group' icon under the Actions column.
+3. SA & GA can select one or more users on LHS side and clicking the right arrow assigns the users to the Group.
+4. With this, not all users of Organization would be displayed under the ‘Administration -&gt; Users -&gt; Assign User’ screen, instead admins can see only the users who are mapped to the respective Group in which the current Project file is present.
+5. SA & GA can select one or more users on RHS side and clicking the left arrow unassigns the users from the Group.
+
+## 5. Assign/ Unassign Clients to Group
+
+1. SA & GA can select one or more clients on LHS side and clicking the right arrow assigns the clients to the Group.
+2. With this, not all clients of Organization would be displayed ‘Create Project’ or ‘Edit Project Information’ screen, instead admins can view only the clients that are mapped to the respective Group in which the Project is getting created.
+3. SA & GA can select one or more clients on RHS side and clicking the left arrow unassigns the clients from the Group.
+
