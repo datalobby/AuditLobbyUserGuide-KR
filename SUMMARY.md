@@ -112,6 +112,7 @@
   * [C. \(Draft\)Feature Guide](undefined-2/guide-by-function/README.md)
     * [\(Venu/Done\) Organization Users \(Set UP &gt; Users\)](undefined-2/guide-by-function/organization-access-right.md)
     * [\(Venu/Done\) Groups \(Set Up &gt; Groups\)](undefined-2/guide-by-function/groups-set-up-greater-than-groups.md)
+    * [\(Venu/Pending\) Set Up &gt; Clients](undefined-2/guide-by-function/venu-pending-set-up-greater-than-clients.md)
 * [\(Draft\)Audit LOBBY Guide \(Youtube\)\(Razia - Question: Please put English version videos\)](youtube.md)
 * [\(Draft\)Example file \(Razia -Please put example sheet in English\)](undefined.md)
 * [\(Draft\)Audit LOBBY Education Satisfaction Survey](audit-lobby-1.md)

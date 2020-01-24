@@ -30,9 +30,8 @@ description: >-
 
 ![Create Group button &amp;gt; Enter group name &amp;gt; Create button](../../.gitbook/assets/create-group.png)
 
-1. Super Admin has access to create groups.
-2. Clicking the ‘Create Group’ button displays the ‘Create Group’ dialog.
-3. Enter the name of the group and clicking the 'Create' button adds the group to screen.
+1. Clicking the ‘Create Group’ button displays the ‘Create Group’ dialog.
+2. Enter the name of the group and clicking the 'Create' button adds the group to screen.
 
 {% hint style="warning" %}
 Duplicate groups won't be allowed while adding a group.
@@ -42,7 +41,7 @@ Duplicate groups won't be allowed while adding a group.
 
 ![Find the group that you wish to edit &amp;gt; Edit icon &amp;gt; Input the revised name &amp;gt; Update button](../../.gitbook/assets/edit-group.png)
 
-1. Super Admin has access to revise the group name.
+1. Locate the group that you wish to edit.
 2. Clicking the ‘Edit’ icon displays the ‘Edit Group’ dialog.
 3. Enter the revised name of the group and clicking the 'Update' button updates the group name.
 
@@ -54,7 +53,7 @@ Duplicate groups won't be allowed while editing a group.
 
 ![Find the group that you wish to delete &amp;gt; Delete icon &amp;gt; Clicking OK in the confirmation alert deletes the group](../../.gitbook/assets/delete-group.png)
 
-1. Super Admin has access to delete the group.
+1. Locate the group that you wish to delete.
 2. Clicking the ‘Delete’ icon displays the delete confirmation alert.
 3. Clicking the 'OK' button in the confirmation alert deletes the group.
 4. Deleted groups can be restored from the 'Trash' screen.
