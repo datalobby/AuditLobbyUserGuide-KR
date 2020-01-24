@@ -88,6 +88,12 @@ In the 'Assign Users to Group' dialog,
 * Removed \(deleted\) users won't be displayed.
 {% endhint %}
 
+{% hint style="warning" %}
+When a user is assigned to at least one project under the current group, then while unassign the user from the group notifies the list of assigned projects for the double confirmation.
+{% endhint %}
+
+![](../../.gitbook/assets/unassign-user-from-group-2.png)
+
 ## 5. Assign/ Unassign Clients to Group
 
 ![Assign clients to group](../../.gitbook/assets/assign-clients-to-group.png)
