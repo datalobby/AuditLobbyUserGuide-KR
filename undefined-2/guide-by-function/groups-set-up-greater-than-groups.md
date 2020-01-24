@@ -81,6 +81,13 @@ NOTE: A group cannot be deleted when it has at least one project.
 8. With this assignment, not all users of the Organization would be displayed under the ‘Administration &gt; Users &gt; Assign User’ dialog, instead, admins can see only the assigned users to the respective Group in which the current project is located.
 9. Select one or more users on the RHS side and clicking the left arrow unassigns the users from the Group.
 
+{% hint style="info" %}
+In the 'Assign Users to Group' dialog,
+
+* Suspended \(disabled\) users get displayed but grayed-out, so they cannot be selected.
+* Removed \(deleted\) users won't be displayed.
+{% endhint %}
+
 ## 5. Assign/ Unassign Clients to Group
 
 ![Assign clients to group](../../.gitbook/assets/assign-clients-to-group.png)
