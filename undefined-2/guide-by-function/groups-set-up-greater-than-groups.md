@@ -5,7 +5,7 @@ description: >-
   for the respective firm.
 ---
 
-# \(Venu/Pending\) Groups \(Set Up &gt; Groups\)
+# \(Venu/Done\) Groups \(Set Up &gt; Groups\)
 
 ## Summary
 
