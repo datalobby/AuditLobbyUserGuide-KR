@@ -110,3 +110,9 @@ When a user is assigned to at least one project under the current group, then wh
 8. With this assignment, not all clients of the organization would be displayed in the ‘Create Project’ or ‘Edit Project Information’ dialogs, instead, admins can view only the assigned clients to the respective Group.
 9. Select one or more clients on the RHS side and clicking the left arrow unassigns the clients from the Group.
 
+{% hint style="warning" %}
+When a client is associated with at least one project under the current group, then you cannot unassign the client from the group.
+{% endhint %}
+
+![You cannot unassign a client when it is associated with at least project of the respective group](../../.gitbook/assets/unassign-client-from-group-2.png)
+
