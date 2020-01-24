@@ -58,6 +58,12 @@ Duplicate groups won't be allowed while editing a group.
 2. Clicking the ‘Delete’ icon displays the delete confirmation alert.
 3. Clicking the 'OK' button in the confirmation alert deletes the group.
 
+{% hint style="info" %}
+NOTE: A group cannot be deleted when it has at least one project.
+{% endhint %}
+
+![Group cannot be deleted when it contains at least one project](../../.gitbook/assets/delete-group-with-projects.png)
+
 ## 4. Assign/ Unassign Users to Group
 
 1. Search the group that you wish assign users or clients to it.
