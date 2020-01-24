@@ -90,6 +90,6 @@ NOTE: A group cannot be deleted when it has at least one project.
 5. Select the 'Assign Clients to Group' radio button.
 6. The LHS side of the dialog shows not assigned clients of the group and RHS side shows assigned clients of the group.
 7. Select one or more clients on the LHS side and clicking the right arrow assigns the clients to the Group.
-8. With this assignment, not all users of the Organization would be displayed under the ‘Administration &gt; Users &gt; Assign User’ dialog, instead, admins can see only the assigned users to the respective Group in which the current project is located.
-9. Select one or more users on the RHS side and clicking the left arrow unassigns the users from the Group.
+8. With this assignment, not all clients of the organization would be displayed in the ‘Create Project’ or ‘Edit Project Information’ dialogs, instead, admins can view only the assigned clients to the respective Group.
+9. Select one or more clients on the RHS side and clicking the left arrow unassigns the clients from the Group.
 
