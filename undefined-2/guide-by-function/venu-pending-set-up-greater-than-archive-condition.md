@@ -22,12 +22,12 @@ description: >-
 ### Major components of Archive Condition
 
 1. Default Archive Policy
-2. Move Archive preconditions
+2. Move Archive precondition
 3. Reset Archive Condition
 4. Create Archive Condition
 5. Edit Archive Condition
 6. Copy Archive Condition
-7. Move Engagement Types to Archive Condition
+7. Move Engagement Type
 
 ## 1. Default Archive Policy
 
@@ -35,8 +35,8 @@ description: >-
 * All Engagement Types of Organization are assigned to this 'Default Archive Policy'.
 * The archive preconditions are set as follows to this policy.
   * Required Conditions
-    * **Re Sign Off 1** Sign Off again on every modified sign off \(No red colored sign off\)
     * **Opened Files** All Workpaper & Permanent File closed
+    * **Re Sign Off 1** Sign Off again on every modified sign off \(No red colored sign off\)
     * **Review Sign Off** All Workpaper & Permanent Files Review signed off
     * **QC Review** All assigned Workpaper & Permanent Files are reviewed by Quality Control
     * **Attention Status** All Workpaper & Permanent Files are Completed
@@ -53,6 +53,7 @@ description: >-
     * **EP Review** All Workpaper & Permanent Files have Engagement Partner sign off
     * **CP Review** All Workpaper & Permanent Files have Concurring Partner sign off
     * **Rationale** Submit the Rationale for all modified files after the Final Issuance Date
+    * **Files assigned to roles** All assigned Workpaper & Permanent Files are reviewed by assigned role
 
 ## 2. Move Archive precondition
 
@@ -62,11 +63,22 @@ description: >-
 2. The move icon gets displayed before each archive precondition with a mouse hover.
 3. Click & hold the move icon for a precondition and move to the Optional Condition section from the Required Condition.
 4. Click the 'Save' button on the bottom of the screen.
-5. Success message gets displayed on the top-right of the screen.
+5. Wait till the loading gets finished.
+6. Success message gets displayed on the top-right of the screen.
+
+{% hint style="warning" %}
+The preconditions "Opened Files" and Project Lock" cannot be moved to "Optional Condition" section.
+{% endhint %}
 
 {% hint style="info" %}
+The positions of Archive preconditions can be adjusted up & down within a Required conditions section, and the same can be done in the Optional Condition
+
+The changes made to archive preconditions won't impact the already existing archived project.
+
 The archive precondition history \(who & when\) can be seen next to the 'Save' button.
 {% endhint %}
+
+
 
 ## 3. Reset Archive Condition
 
@@ -77,7 +89,10 @@ The archive precondition history \(who & when\) can be seen next to the 'Save' b
 3. Clicking the three dots button displays a menu with the options: "Edit, Reset, Copy, Delete".
 4. Click the 'Reset' option.
 5. Reset confirmation alert will be displayed.
-6. Clicking the 'OK' button in the confirmation alert shows the success message on the top-right of the screen and resets the preconditions back to their original places.
+6. Clicking the 'OK' button in the confirmation alert.
+7. Wait till the loading gets finished.
+8. The success message will be displayed on the top-right of the screen.
+9. The preconditions will be set back to their original places.
 
 {% hint style="info" %}
 The 'Reset' will be displayed only when there is at least one change in the preconditions order.
@@ -91,9 +106,12 @@ The 'Reset' will be displayed only when there is at least one change in the prec
 2. The 'Add Archive Condition' dialog will be displayed.
 3. Enter the 'Title\*' and 'Description' for the archive condition.
 4. Click the 'Save' button.
-5. Wait till the red loading bar on the top of the screen gets finished.
+5. Wait till the loading gets finished.
 6. The success message will be displayed on the top-right of the screen.
-7. The created new archive condition will be displayed on the Archive Conditions list.
+7. The newly created archive condition will be displayed on the Archive Conditions list.
+8. On the RHS of the screen, every newly created one displays the list of default archive preconditions like below.
+   * **Required Conditions:** Opened Files, Re Sign Off 1, Review Sign Off, QC Review, Attention Status, Comments, Timeline, PBC List, PBC Attachments, Trash, Final Issuance Date, Project Lock.
+   * **Optional Conditions:** Re Sign Off 2, Preparer Sign Off, EP Review, CP Review, Rationale, Files assigned to roles.
 
 {% hint style="warning" %}
 Duplicate archive conditions won't be allowed while adding.
@@ -110,7 +128,7 @@ Duplicate archive conditions won't be allowed while adding.
 5. The 'Edit Archive Condition' dialog will be displayed.
 6. Enter the revised Title or Description.
 7. Click the 'Save' button.
-8. Wait till the red loading bar on the top of the screen gets finished.
+8. Wait till the loading gets finished.
 9. The success message will be displayed on the top-right of the screen.
 
 {% hint style="warning" %}
@@ -131,9 +149,9 @@ The name of 'Default Archive Condition' cannot be updated, so the 'Edit' option 
 4. Click the 'Copy' option.
 5. Confirmation alert for the duplication will be displayed.
 6. Click the 'OK' button in the confirmation alert.
-7. Wait till the red loading bar at the top of the screen gets finished.
+7. Wait till the loading gets finished.
 8. The success message will be displayed on the top-right of the screen.
-9. The duplicate archive condition with the exact archive preconditions will be created.
+9. The duplicate version of the archive condition with the exact archive preconditions will be created.
 
 {% hint style="warning" %}
 The duplicate archive condition name is suffix with '-1'. The number is auto-incremented for the next duplication.
@@ -143,16 +161,16 @@ The duplicate archive condition name is suffix with '-1'. The number is auto-inc
 
 > Using this, the archive condition can be deleted.
 
-* On the LHS of the screen, click the up arrow next to the archive condition name that you wish to delete.
-* The horizontal three dots button will be displayed.
-* Clicking the three dots button displays a menu with the options: "Edit, Reset, Copy, Delete".
-* Click the 'Delete' option.
-* Delete confirmation alert will be displayed with the following message.
-  * Upon deletion, the engagement types under this archive condition will be moved to the Default Archive Condition policy. Do you want to continue?
-* Click the 'OK' button in the confirmation alert.
-* Wait till the red loading bar at the top of the screen gets finished.
-* The success message will be displayed on the top-right of the screen.
-* The archive condition will be removed from the screen.
+1. On the LHS of the screen, click the up arrow next to the archive condition name that you wish to delete.
+2. The horizontal three dots button will be displayed.
+3. Clicking the three dots button displays a menu with the options: "Edit, Reset, Copy, Delete".
+4. Click the 'Delete' option.
+5. Delete confirmation alert will be displayed with the following message.
+   * Upon deletion, the engagement types under this archive condition will be moved to the Default Archive Condition policy. Do you want to continue?
+6. Click the 'OK' button in the confirmation alert.
+7. Wait till the loading gets finished.
+8. The success message will be displayed on the top-right of the screen.
+9. The archive condition will be removed from the screen.
 
 {% hint style="warning" %}
 The 'Default Archive Condition' cannot be deleted, so the 'Delete' option won't be displayed to it.
@@ -162,5 +180,18 @@ The 'Default Archive Condition' cannot be deleted, so the 'Delete' option won't 
 Deleting the archive condition moves all it's engagement types to the ‘Default Archive Condition’ policy.
 {% endhint %}
 
-## 
+## 8. Move Engagement Type
+
+> Using this, the engagement type can be moved from one archive condition to another.
+
+1. The right-hand side section of the screen is called as Archive preconditions \(archive policy\).
+   1. 2. 
+2. Make sure that both source and destination archive conditions are expanded.
+3. Find the engagement type that you wish you move.
+4. The move icon will be displayed before each Engagement Type with a mouse hover.
+5. Click & hold the move icon.
+6. Move to the destination archive condition and drop.
+7. Confirmation alert for move will be displayed.
+8. Click 'OK' in the confirmation alert.
+9. Wait till the loading gets finished.
 
