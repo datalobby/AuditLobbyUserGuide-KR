@@ -45,11 +45,14 @@ The CPA \(Certified Public Accountant\) Firm must control who can create project
 
 ### 1.1. Internal Users
 
-* Internal users are the primary users of application and examples are Owners, Managers, Employees who do an audit. Internal User is nothing but a Regular auditor inside the firm.
+* Internal users are the primary users of application.
+* Examples are Owners, Managers, Employees who do an audit.
+* Internal User is nothing but a Regular auditor inside the firm.
 
 ### 1.2. External Users
 
-* External users are the secondary users of accounting and examples are Client users, Investors, Customers, Tax Authorities, Government, External Auditors, Inspectors/Regulators  who inspect the auditing.
+* External users are the secondary users of accounting.
+* Examples are Client users, Investors, Customers, Tax Authorities, Government, External Auditors, Inspectors/Regulators  who inspect the auditing.
 * While adding or updating the user, you can set the user type as Internal or External.
 
 ## 2. **Types of Organization access rights**
@@ -182,7 +185,7 @@ Using this, the user information can be updated. Only Super Admin has access to 
 3. Click the 'Edit' option.
 4. The 'Edit User' dialog will be displayed.
 5. Revise the user information as required.
-   * Please note that you can't change the 'Email' information.
+   * Please note that you can't change the 'Email' information here.
 6. Duplicate User Id won't be allowed while updating a user.
 
 {% hint style="warning" %}
@@ -233,9 +236,10 @@ You can update the user type only after unassiging the user from all assigned pr
 
 1. Click the three dots button of the user that you wish to Restore.
 2. A list of action items will be displayed.
-3. Clicking the 'Restore' option displays the 'Restore User!' confirmation dialog.
-4. Clicking the 'RESTORE USER' button in the confirmation alert restores the user.
-5. After the user restore,
+3. Click the 'Restore' option.
+4. The 'Restore User!' confirmation dialog will be displayed.
+5. Clicking the 'RESTORE USER' button in the confirmation alert restores the user.
+6. After the user restore,
    * The status of the user changes to Enabled from the Disabled.
    * The user record turns to normal color from the gray color.
    * Still, the status of the user is 'Inactive' if in case he was assigned to any project\(s\) during the Suspend time.
@@ -251,8 +255,9 @@ You can update the user type only after unassiging the user from all assigned pr
 1. In order to remove a user from the Organization, first the user needs to be Suspended.
 2. Click the three dots button of the user that you wish to remove.
 3. A list of action items will be displayed.
-4. Clicking the 'Remove' option displays the 'Remove User' confirmation dialog.
-5. Clicking the 'REMOVE' button in the confirmation alert removes \(disappears\) the user from the 'Users' screen.
+4. Click the 'Remove' option.
+5. The 'Remove User' confirmation dialog will be displayed.
+6. Clicking the 'REMOVE' button in the confirmation alert removes \(disappears\) the user from the 'Users' screen.
 
 {% hint style="warning" %}
 When you try to add an user with the deleted user's email id, then an alert will be prompted to you saying that "A user with the same Email already existed in the Deleted status. Please click on Restore User to enable the user or try with different Email.".
