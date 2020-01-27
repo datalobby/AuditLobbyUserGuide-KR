@@ -42,3 +42,14 @@ Duplicate Engagement Types won't be allowed while creating.
 Duplicate engagement types won't be allowed while editing an engagement.
 {% endhint %}
 
+## 3. Delete Engagement Type
+
+1. Find the engagement that you wish to delete.
+2. Clicking the ‘Delete’ icon displays the delete confirmation alert.
+3. Clicking the 'OK' button in the confirmation alert removes the engagement.
+4. Deleted engagement types can be restored from the 'Trash' screen.
+
+{% hint style="warning" %}
+An engagement type cannot be deleted when it is associated with at least one project.
+{% endhint %}
+
