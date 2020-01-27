@@ -143,5 +143,24 @@ The duplicate archive condition name is suffix with '-1'. The number is auto-inc
 
 > Using this, the archive condition can be deleted.
 
+* On the LHS of the screen, click the up arrow next to the archive condition name that you wish to delete.
+* The horizontal three dots button will be displayed.
+* Clicking the three dots button displays a menu with the options: "Edit, Reset, Copy, Delete".
+* Click the 'Delete' option.
+* Delete confirmation alert will be displayed with the following message.
+  * Upon deletion, the engagement types under this archive condition will be moved to the Default Archive Condition policy. Do you want to continue?
+* Click the 'OK' button in the confirmation alert.
+* Wait till the red loading bar at the top of the screen gets finished.
+* The success message will be displayed on the top-right of the screen.
+* The archive condition will be removed from the screen.
+
+{% hint style="warning" %}
+The 'Default Archive Condition' cannot be deleted, so the 'Delete' option won't be displayed to it.
+{% endhint %}
+
+{% hint style="info" %}
+Deleting the archive condition moves all it's engagement types to the ‘Default Archive Condition’ policy.
+{% endhint %}
+
 ## 
 
