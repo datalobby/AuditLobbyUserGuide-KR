@@ -117,7 +117,11 @@ Duplicate archive conditions won't be allowed while adding.
 Duplicate archive conditions won't be allowed while editing.
 {% endhint %}
 
-## 6. Copy Archive Conditions
+{% hint style="warning" %}
+The name of 'Default Archive Condition' cannot be updated, so the 'Edit' option won't be displayed to it.
+{% endhint %}
+
+## 6. Copy Archive Condition
 
 > Using this, the archive condition policy can be duplicated.
 
@@ -134,6 +138,10 @@ Duplicate archive conditions won't be allowed while editing.
 {% hint style="warning" %}
 The duplicate archive condition name is suffix with '-1'. The number is auto-incremented for the next duplication.
 {% endhint %}
+
+## 7. Delete Archive Condition
+
+> Using this, the archive condition can be deleted.
 
 ## 
 
