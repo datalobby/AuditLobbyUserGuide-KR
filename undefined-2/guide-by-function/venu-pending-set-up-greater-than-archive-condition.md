@@ -9,7 +9,7 @@ description: >-
 
 ## Summary
 
-> In order to archive a project, it has to satisfy a set of archive preconditions called archive policy, and this policy can be set up on the ‘Archive Condition’ screen.
+> In order to archive a project, it has to satisfy a set of archive preconditions called archive policy, and this policy can be configured on the ‘Archive Condition’ screen.
 
 1. Click the 'Set Up' button from the left navigation menu of the Organization View.
 2. Click the 'Archive Condition' tab at the top of the 'Set Up' page.
