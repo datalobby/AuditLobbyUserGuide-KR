@@ -16,6 +16,8 @@ description: >-
 4. But the operations like create, update, delete, move engagement types, move archive preconditions can be performed only by the Super Admin with the ‘Archive Manager’ permission.
 5. Intended engagement types can be maintained as one ‘Archive Condition’ group and can set an archive policy to it.
 6. This policy will get validated while archiving the project.
+7. The LHS of the screen is called as 'Archive Condition' list.
+8. The RHS of the screen is called as 'Archive preconditions' list
 
 ### Major components of Archive Condition
 
@@ -54,16 +56,57 @@ description: >-
 
 ## 2. Move Archive precondition
 
+> Using this, the archive preconditions on the RHS of the screen can be moved to the Optional Condition from the Required Condition and vice-versa.
+
 1. The right-hand side section of the screen is called as Archive preconditions \(archive policy\).
 2. The move icon gets displayed before each archive precondition with a mouse hover.
 3. Click & hold the move icon for a precondition and move to the Optional Condition section from the Required Condition.
 4. Click the 'Save' button on the bottom of the screen.
 5. Success message gets displayed on the top-right of the screen.
-6. The archive preconditions can be moved to the Optional Condition from the Required Condition and vice-versa.
 
 {% hint style="info" %}
 The archive precondition history \(who & when\) can be seen next to the 'Save' button.
 {% endhint %}
 
 ## 3. Reset Archive Condition
+
+> Using this, the archive preconditions can be moved back to their original positions.
+
+1. On the LHS of the screen, click the up arrow next that you wish to reset.
+2. The horizontal three dots button will be displayed.
+3. Click the three dots button displays a menu with the options: "Edit, Reset, Copy, Delete".
+4. Click the 'Reset' option.
+5. Reset confirmation alert will be displayed.
+6. Clicking the 'OK' button in the confirmation alert shows the success message on the top-right of the screen and resets the preconditions back to their original places.
+
+{% hint style="info" %}
+The 'Reset' will be displayed only when there is at least one change in the preconditions order.
+{% endhint %}
+
+## 4. Create Archive Condition
+
+> Using this, new archive conditions can be added.
+
+1. Click the 'plus' icon next to the 'Archive Conditions' title presented on the top-left of the screen.
+2. The 'Add Archive Condition' dialog will be displayed.
+3. Enter the 'Title\*' and 'Description' for the archive condition.
+4. Clicking the 'Save' button.
+5. Wait till the red loading bar on the top of the screen gets finished.
+6. The success message will be displayed on the top-right of the screen.
+7. The created new archive condition will be displayed on the Archive Conditions list.
+
+{% hint style="warning" %}
+Duplicate archive conditions won't be allowed while adding.
+{% endhint %}
+
+## 5. Edit Archive Condition
+
+> Using this, the name of the archive condition can be revised.
+
+1. On the LHS of the screen, click the up arrow next that you wish to edit.
+2. The horizontal three dots button will be displayed.
+3. Click the three dots button displays a menu with the options: "Edit, Reset, Copy, Delete".
+4. Click the 'Reset' option.
+
+## 
 
