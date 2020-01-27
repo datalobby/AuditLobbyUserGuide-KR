@@ -37,7 +37,7 @@ description: >-
 * By default, the newly created Customer has only one archive policy named ‘Default Archive Condition’.
 * All Engagement Types of Organization are assigned to this 'Default Archive Policy'.
 * The archive preconditions are set as follows to this policy.
-  * Required Conditions
+  * _Required Conditions_
     * **Opened Files** All Workpaper & Permanent File closed
     * **Re Sign Off 1** Sign Off again on every modified sign off \(No red colored sign off\)
     * **Review Sign Off** All Workpaper & Permanent Files Review signed off
@@ -50,7 +50,7 @@ description: >-
     * **Trash** All items in the Trash are deleted
     * **Final Issuance Date** Set the Final Issuance Date for the Archive
     * **Project Lock** Lock the project for the Archive
-  * Optional Conditions
+  * _Optional Conditions_
     * **Re Sign Off 2** Sign Off again on every modified contents \(No red \*\)
     * **Preparer Sign Off** All Workpaper & Permanent Files have Preparer sign off
     * **EP Review** All Workpaper & Permanent Files have Engagement Partner sign off
