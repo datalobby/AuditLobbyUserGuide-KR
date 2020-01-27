@@ -117,5 +117,23 @@ Duplicate archive conditions won't be allowed while adding.
 Duplicate archive conditions won't be allowed while editing.
 {% endhint %}
 
+## 6. Copy Archive Conditions
+
+> Using this, the archive condition policy can be duplicated.
+
+1. On the LHS of the screen, click the up arrow next to the archive condition name that you wish to duplicate.
+2. The horizontal three dots button will be displayed.
+3. Clicking the three dots button displays a menu with the options: "Edit, Reset, Copy, Delete".
+4. Click the 'Copy' option.
+5. Confirmation alert for the duplication will be displayed.
+6. Click the 'OK' button in the confirmation alert.
+7. Wait till the red loading bar at the top of the screen gets finished.
+8. The success message will be displayed on the top-right of the screen.
+9. The duplicate archive condition with the exact archive preconditions will be created.
+
+{% hint style="warning" %}
+The duplicate archive condition name is suffix with '-1'. The number is auto-incremented for the next duplication.
+{% endhint %}
+
 ## 
 
