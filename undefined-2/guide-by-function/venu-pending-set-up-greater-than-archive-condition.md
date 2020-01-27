@@ -4,7 +4,7 @@ description: >-
   Engagement Types. This policy gets validated while archiving the project.
 ---
 
-# \(Venu/Pending\) Set Up &gt; Archive Condition
+# \(Venu/Done\) Set Up &gt; Archive Condition
 
 ## Summary
 
@@ -27,7 +27,9 @@ description: >-
 4. Create Archive Condition
 5. Edit Archive Condition
 6. Copy Archive Condition
-7. Move Engagement Type
+7. Delete Archive Condition
+8. Move Engagement Type
+   * Move engagement type back to 'Default Archive Policy'
 
 ## 1. Default Archive Policy
 
@@ -184,14 +186,29 @@ Deleting the archive condition moves all it's engagement types to the ‘Default
 
 > Using this, the engagement type can be moved from one archive condition to another.
 
-1. The right-hand side section of the screen is called as Archive preconditions \(archive policy\).
-   1. 2. 
-2. Make sure that both source and destination archive conditions are expanded.
-3. Find the engagement type that you wish you move.
-4. The move icon will be displayed before each Engagement Type with a mouse hover.
-5. Click & hold the move icon.
-6. Move to the destination archive condition and drop.
-7. Confirmation alert for move will be displayed.
-8. Click 'OK' in the confirmation alert.
-9. Wait till the loading gets finished.
+1. Make sure that both source and destination archive conditions are expanded.
+2. Find the engagement type that you wish you move.
+3. The move icon will be displayed before each Engagement Type with a mouse hover.
+4. Click & hold the move icon.
+5. Drag to the destination archive condition and drop.
+6. Confirmation alert for the move will be displayed.
+7. Click 'OK' in the confirmation alert.
+8. Wait till the loading gets finished.
+9. The success message will be displayed on the top-right of the screen.
+
+### 8.1. Move engagement type to Default archive policy
+
+> Using this, the engagement type can be moved back to the 'Default Archive Policy'.
+
+1. Minus '-' symbol will be displayed next to the each engagement type.
+2. Click the minus ‘-’ symbol.
+3. Confirmation alert for the move will be displayed.
+4. Click 'OK' in the confirmation alert.
+5. Wait till the loading gets finished.
+6. The success message will be displayed on the top-right of the screen.
+7. The engagement type will be moved back to the 'Default Archive Policy'.
+
+{% hint style="warning" %}
+The minus '-' symbol won't be displayed to the engagement types which are under the 'Default Archive Policy' condition.
+{% endhint %}
 

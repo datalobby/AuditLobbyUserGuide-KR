@@ -114,7 +114,7 @@
     * [\(Venu/Done\) Groups \(Set Up &gt; Groups\)](undefined-2/guide-by-function/groups-set-up-greater-than-groups.md)
     * [\(Venu/Done\) Set Up &gt; Clients](undefined-2/guide-by-function/venu-pending-set-up-greater-than-clients.md)
     * [\(Venu/Done\)Set Up &gt; Engagement Types](undefined-2/guide-by-function/venu-pending-set-up-greater-than-engagement-types.md)
-    * [\(Venu/Pending\) Set Up &gt; Archive Condition](undefined-2/guide-by-function/venu-pending-set-up-greater-than-archive-condition.md)
+    * [\(Venu/Done\) Set Up &gt; Archive Condition](undefined-2/guide-by-function/venu-pending-set-up-greater-than-archive-condition.md)
 * [\(Draft\)Audit LOBBY Guide \(Youtube\)\(Razia - Question: Please put English version videos\)](youtube.md)
 * [\(Draft\)Example file \(Razia -Please put example sheet in English\)](undefined.md)
 * [\(Draft\)Audit LOBBY Education Satisfaction Survey](audit-lobby-1.md)
