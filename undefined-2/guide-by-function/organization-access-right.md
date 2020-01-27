@@ -12,10 +12,11 @@ description: >-
 
 The CPA \(Certified Public Accountant\) Firm must control who can create projects and who can access projects. Therefore, before a project can be created, the CPA firm must first designate users that can access ALL projects or Group level only.
 
-* Admin users can view the ‘Set Up’ option on the left navigation pane of Organization View.
-* Clicking it navigates the user to the ‘Set Up’ screen and contains five tabs named ‘Users, Groups, Clients, Engagement Types, Archive Condition, System Settings’.
-* The default selection is the 'Users' tab and using this module, the admin users can perform add, update, delete operations on users.
-* The email id which is submitted while creating your organization acts as a Super Admin and Archive Manager for your firm.
+1. Click the ‘Set Up’ option on the left navigation pane of Organization View.
+2. It contains six tabs named ‘Users, Groups, Clients, Engagement Types, Archive Condition, System Settings’.
+3. The default selection is the 'Users' tab.
+4. Using this module, the admins can perform add, update, delete operations on users.
+5. The email id which is submitted while creating your organization acts as a Super Admin and Archive Manager for your firm.
 
 {% hint style="info" %}
 **NOTE:** 'Set Up &gt; Users' module can be accessed only by Super Admin and Group Admin users, but the operations like add, update, suspend, remove operations can be done by the Super Admin user only.
@@ -114,30 +115,31 @@ The CPA \(Certified Public Accountant\) Firm must control who can create project
 
 ## 3. Add User
 
+### 3.1. Add Internal User
+
 ![Set-Up Users &amp;gt; Add User button &amp;gt; Fill details &amp;gt; Add User button](../../.gitbook/assets/add-user.png)
 
 1. Only Super Admin has access to add users.
 2. Click the 'Add User' button.
-3. The 'Add User' dialog will be opened where Internal or External users can be added.
-4. The following fields will be displayed when the 'Internal User' radio button is selected.
+3. The 'Add User' dialog will be opened.
+4. Select the 'Internal User' radio button \(It has the default selection\).
+5. The following fields will be displayed.
    * Email\*, Name\*, User Id\*, Org. Access Right\*, Archive Manager\*, Title.
-5. The following fields will be displayed when the 'External User' radio button is selected.
-   * Email\*, Name\*, User Id\*, Title\*.
 6. The 'Org. Access Right' drop-down contains three values "Super Admin, Group Admin, User Access". Select intended one among the three.
-7. Click the 'Add User' button in the Add User dialog.
-   * You can view the success message on the top-right of the screen.
-   * The user will be added to your organization.
-   * The invited user would receive two email notifications.
-8. The new user has to,
-   * Confirm their Email id first.
-   * And then, log in to the application using the temporary password.
-   * Can update the temporary password using the Change Password feature.
+7. Fill the details and click the 'Add User' button.
+8. The success message will be displayed on the top-right of the screen.
+9. The user will be added to your organization.
+10. The invited user would receive two email notifications.
+11. The new user has to,
+    * Confirm their Email id first.
+    * And then, log in to the application using the temporary password.
+    * Can update the temporary password using the Change Password feature.
 
 ![Email notification for Verification Code](../../.gitbook/assets/verificaiton-code.png)
 
 ![Email notification for temporary password ](../../.gitbook/assets/invitation-email.png)
 
-### 3.1. Provide Archive Manager permission
+### 3.2. Provide Archive Manager permission
 
 ![Only the Super Admin who is an Archive Manager can provide Archive Manager permission to others](../../.gitbook/assets/am%20%281%29.png)
 
@@ -153,6 +155,23 @@ Duplicate Email and User Id won't be allowed while adding a user.
 {% hint style="warning" %}
 At least one Archive Manager should exist in the Organization.
 {% endhint %}
+
+### 3.3. Add External User
+
+1. Only Super Admin has access to add users.
+2. Click the 'Add User' button.
+3. The 'Add User' dialog will be opened.
+4. Select 'External User'.
+5. The following fields will be displayed.
+   * Email\*, Name\*, User Id\*, Title\*.
+6. Fill the details and click the 'Add User' button.
+7. The success message will be displayed on the top-right of the screen.
+8. The user will be added to your organization.
+9. The invited user would receive two email notifications.
+10. The new user has to,
+    * Confirm their Email id first.
+    * And then, log in to the application using the temporary password.
+    * Can update the temporary password using the Change Password feature.
 
 ## 4. Edit User
 
@@ -197,11 +216,12 @@ You can update the user type only after unassiging the user from all assigned pr
 4. The 'Suspend User' confirmation dialog will be displayed.
 5. If a user is assigned to at least one project, then one more additional confirmation alert gets displayed that shows the list of assigned projects to the user.
 6. The \#4 will be skipped if the user is NOT assigned to any project.
-7. Click the 'SUSPEND' button in the confirmation to disable the user. Here, After the user Suspend,
+7. Click the 'SUSPEND' button in the confirmation to disable the user.
+8. After the user Suspend,
    * The status of the user gets changed to Disabled from the Enabled.
    * Yet, you can see the user record on the screen with a grayed-out color.
    * Yet, the user record will be displayed on the 'Administration &gt; Users' screen of all assigned projects in the Project View, but the status is changed to 'Inactive'.
-8. Suspended users can't log in to the application.
+9. Suspended users can't log in to the application.
 
 ## 6. Restore \(Enable\) User
 
@@ -214,7 +234,8 @@ You can update the user type only after unassiging the user from all assigned pr
 1. Click the three dots button of the user that you wish to Restore.
 2. A list of action items will be displayed.
 3. Clicking the 'Restore' option displays the 'Restore User!' confirmation dialog.
-4. Clicking the 'RESTORE USER' button in the confirmation alert restores the user. i.e., After the user restore,
+4. Clicking the 'RESTORE USER' button in the confirmation alert restores the user.
+5. After the user restore,
    * The status of the user changes to Enabled from the Disabled.
    * The user record turns to normal color from the gray color.
    * Still, the status of the user is 'Inactive' if in case he was assigned to any project\(s\) during the Suspend time.
