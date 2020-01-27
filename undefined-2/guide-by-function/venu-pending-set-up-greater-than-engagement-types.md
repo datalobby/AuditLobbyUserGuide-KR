@@ -5,13 +5,16 @@ description: >-
   Information.
 ---
 
-# \(Venu/Pending\)Set Up &gt; Engagement Types
+# \(Venu/Done\)Set Up &gt; Engagement Types
 
 ## Summary
 
-* By looking at the type of engagement of the project, the auditor can easily identify what kind of auditing they have to perform on the project.
-* The different engagement types are External Audit, Internal Audit, Forensic Audit, Financial Audit, Tax Audit, Compliance Audit…, etc.
-* Both Super Admin and Group Admin can perform Create, Update, Delete operations on the ‘Engagement Types’ screen.
+1. Click the 'Set Up' button from the left navigation menu of the Organization View.
+2. Click the 'Engagement Types' tab at the top of the 'Set Up' page.
+3. Using this ‘Engagement Types’ module, the user can manage the types of engagement which can be used while creating a project and updating the project Information.
+4. By looking at the type of engagement of the project, the auditor can easily identify what kind of auditing they have to perform on the project.
+5. The different engagement types are External Audit, Internal Audit, Forensic Audit, Financial Audit, Tax Audit, Compliance Audit…, etc.
+6. Both Super Admin and Group Admin can perform Create, Update, Delete operations on the ‘Engagement Types’ screen.
 
 ### Major components of Engagement Types
 
@@ -21,11 +24,9 @@ description: >-
 
 ## 1. Create Engagement Type
 
-1. Click the 'Set Up' button from the left navigation menu of the Organization View.
-2. Click the 'Engagement Types' tab at the top of the 'Set Up' page.
-3. Clicking the ‘Create Engagement Types’ button displays the ‘Create Engagement’ dialog.
-4. Enter the 'Engagement Type Name'.
-5. Click the 'Create' button to add the engagement type to the screen.
+1. Clicking the ‘Create Engagement Types’ button displays the ‘Create Engagement’ dialog.
+2. Enter the 'Engagement Type Name'.
+3. Click the 'Create' button to add the engagement type to the screen.
 
 {% hint style="warning" %}
 Duplicate Engagement Types won't be allowed while creating.
