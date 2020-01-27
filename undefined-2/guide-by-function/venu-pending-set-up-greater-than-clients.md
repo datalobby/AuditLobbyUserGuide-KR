@@ -4,17 +4,15 @@ description: >-
   while creating a project and updating the project Information.
 ---
 
-# \(Venu/Done\) Set Up &gt; Clients
+# \(Venu/Pending\) Set Up &gt; Clients
 
 ## Summary
 
 ![Organization View &amp;gt; Set Up &amp;gt; Clients tab](../../.gitbook/assets/set-up-clients.png)
 
-1. Click the 'Set Up' button from the left navigation menu of the Organization View.
-2. Click the 'Clients' tab at the top of the 'Set Up' page displays the 'Clients' screen.
-3. The Clients screen can be accessed by both Super Admin and Group Admin users only.
-4. The actions like create, edit, delete, assign groups to client can be performed by both users.
-5. These clients can be used while creating a project and updating the project Information.
+1. The Clients screen can be accessed by both Super Admin and Group Admin users only.
+2. The actions like create, edit, delete, assign groups to client can be performed by both users.
+3. These clients can be used while creating a project and updating the project Information.
 
 ### Major components of Clients screen
 
@@ -25,9 +23,11 @@ description: >-
 
 ## 1. Create Client
 
-1. Clicking the ‘Create Client’ button displays the ‘Create Client’ dialog.
-2. Enter the name of the client and Client ID.
-3. Click the 'Create' button to add the client to the screen.
+1. Click the 'Set Up' button from the left navigation menu of the Organization View.
+2. Click the 'Clients' tab at the top of the 'Set Up' page.
+3. Clicking the ‘Create Client’ button displays the ‘Create Client’ dialog.
+4. Enter the name of the client and Client ID.
+5. Click the 'Create' button to add the client to the screen.
 
 {% hint style="warning" %}
 Duplicate clients won't be allowed while adding a client.
