@@ -18,7 +18,7 @@ description: >-
 5. Intended engagement types can be maintained as one ‘Archive Condition’ group and can set an archive policy to it.
 6. This policy will get validated while archiving the project.
 7. The LHS of the screen is called as 'Archive Condition' list.
-8. The RHS of the screen is called as 'Archive preconditions' list
+8. The RHS of the screen is called as 'Archive preconditions' list.
 
 ### Major components of Archive Condition
 
