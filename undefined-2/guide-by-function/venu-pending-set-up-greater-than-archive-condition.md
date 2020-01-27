@@ -72,9 +72,9 @@ The archive precondition history \(who & when\) can be seen next to the 'Save' b
 
 > Using this, the archive preconditions can be moved back to their original positions.
 
-1. On the LHS of the screen, click the up arrow next that you wish to reset.
+1. On the LHS of the screen, click the up arrow next to the archive condition name that you wish to reset.
 2. The horizontal three dots button will be displayed.
-3. Click the three dots button displays a menu with the options: "Edit, Reset, Copy, Delete".
+3. Clicking the three dots button displays a menu with the options: "Edit, Reset, Copy, Delete".
 4. Click the 'Reset' option.
 5. Reset confirmation alert will be displayed.
 6. Clicking the 'OK' button in the confirmation alert shows the success message on the top-right of the screen and resets the preconditions back to their original places.
@@ -90,7 +90,7 @@ The 'Reset' will be displayed only when there is at least one change in the prec
 1. Click the 'plus' icon next to the 'Archive Conditions' title presented on the top-left of the screen.
 2. The 'Add Archive Condition' dialog will be displayed.
 3. Enter the 'Title\*' and 'Description' for the archive condition.
-4. Clicking the 'Save' button.
+4. Click the 'Save' button.
 5. Wait till the red loading bar on the top of the screen gets finished.
 6. The success message will be displayed on the top-right of the screen.
 7. The created new archive condition will be displayed on the Archive Conditions list.
@@ -103,10 +103,19 @@ Duplicate archive conditions won't be allowed while adding.
 
 > Using this, the name of the archive condition can be revised.
 
-1. On the LHS of the screen, click the up arrow next that you wish to edit.
+1. On the LHS of the screen, click the up arrow next to the archive condition name that you wish to edit.
 2. The horizontal three dots button will be displayed.
-3. Click the three dots button displays a menu with the options: "Edit, Reset, Copy, Delete".
-4. Click the 'Reset' option.
+3. Clicking the three dots button displays a menu with the options: "Edit, Reset, Copy, Delete".
+4. Click the 'Edit' option.
+5. The 'Edit Archive Condition' dialog will be displayed.
+6. Enter the revised Title or Description.
+7. Click the 'Save' button.
+8. Wait till the red loading bar on the top of the screen gets finished.
+9. The success message will be displayed on the top-right of the screen.
+
+{% hint style="warning" %}
+Duplicate archive conditions won't be allowed while editing.
+{% endhint %}
 
 ## 
 
