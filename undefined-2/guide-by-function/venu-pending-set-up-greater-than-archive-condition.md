@@ -156,7 +156,7 @@ The name of 'Default Archive Condition' cannot be updated, so the 'Edit' option 
 9. The duplicate version of the archive condition with the exact archive preconditions will be created.
 
 {% hint style="warning" %}
-The duplicate archive condition name is suffix with '-1'. The number is auto-incremented for the next duplication.
+The duplicate version of archive condition name is suffixed with '-1'. The number is auto-incremented for the next duplication.
 {% endhint %}
 
 ## 7. Delete Archive Condition
