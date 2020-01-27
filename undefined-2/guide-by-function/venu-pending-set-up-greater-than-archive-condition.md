@@ -1,7 +1,8 @@
 ---
 description: >-
   This module lets the Archive Manager configure the Archive Policy based on
-  Engagement Types. This policy gets validated while archiving the project.
+  Engagement Types. And the configured policy gets validated while archiving the
+  project.
 ---
 
 # \(Venu/Done\) Set Up &gt; Archive Condition
