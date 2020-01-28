@@ -4,7 +4,7 @@ description: How to register / edit / delete users on Audit LOBBY
 
 # \(ENG\)2. User Registration / Edit / Delete
 
-## Summary 
+## [Summary](../guide-by-function/organization-access-right.md) 
 
 You can register a user by clicking Set Up &gt; Users in the Organization Menu and clicking the 'Add User' button in the lower right corner of the screen.
 
