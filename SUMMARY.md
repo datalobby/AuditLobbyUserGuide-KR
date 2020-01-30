@@ -61,7 +61,7 @@
     * [\(ENG\)6. Engagement Type Registration / Edit / Delete](undefined-2/setup/x.-engagement-type.md)
     * [\(ENG\)7. Cabinet Creation](undefined-2/setup/1-2..md)
     * [\(Venu/Done\)8. Templates Creation](undefined-2/setup/x.-2/README.md)
-      * [\(Venu/Pending\)8-1. Project Templates](undefined-2/setup/x.-2/x-1..md)
+      * [\(Venu/Done\)8-1. Project Templates](undefined-2/setup/x.-2/x-1..md)
       * [\(ENG\)8-2. Workpaper Library](undefined-2/setup/x.-2/x-2..md)
     * [\(ENG\)9. Project Creation](undefined-2/setup/1-3..md)
     * [\(ENG\)10. Project Team Administration and Client Access](undefined-2/setup/2./README.md)
