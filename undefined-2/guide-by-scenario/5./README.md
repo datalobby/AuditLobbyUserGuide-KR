@@ -66,6 +66,8 @@ description: >-
    * Export Permission can be selected as Yes or No.
    * Expired Date can be selected as current or above date.
 6. Click the 'Assign' button.
+7. You can view the assign success message at the top-right of the screen.
+8. The assigned user will be displayed on the 'Assigned User' section.
 
 Using this section, Archive Manager can ‘Assign’ Internal or External users of an organization to Archived project with Export permission & Expired Date..
 
