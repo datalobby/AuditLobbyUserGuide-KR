@@ -175,3 +175,23 @@ The duplicated template subfolder will be suffixed with '-1' and the number gets
 2. Find the template folder in which you wish to sort the subfolders.
 3. Click the 'Sort' icon next to the copy icon for sorting the subfolders in descending \(Z-A\)/ ascending \(A-Z\) order.
 
+## 3. Files
+
+### 3.1. Add files to Workpaper Template
+
+1. Find and select the Workpaper Template you wish to add files.
+2. On the RHS side, you can add the files in two ways.
+   1. Using the Browse button.
+   2. Using the Drag & Drop feature
+3. Using the Browse button.
+   1. Clicking the 'Browse' button opens the file section window.
+   2. Select one or more files of any extension.
+   3. Click the 'Open' button.
+   4. You can view the upload progress of files.
+   5. You can view the newly added files after the upload gets done.
+4. Using the Drag & Drop feature.
+   1. Select the intended files from your computer.
+   2. Drag & drop on to the file upload zone of the RHS of the screen.
+   3. You can view the upload progress of files.
+   4. You can view the newly added files after the upload gets done.
+
