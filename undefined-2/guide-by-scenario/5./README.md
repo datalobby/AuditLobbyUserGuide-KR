@@ -70,8 +70,11 @@ description: >-
 8. The assigned user will be displayed on the 'Assigned User' section.
 
 {% hint style="info" %}
-* Only users who are set to Export permission as ‘Yes’ can download the archived Zip file.
-* Once the Expired Date gets expired, the assigned users can’t access the archived project.
+In the User dropdown, the Suspended user record is grayed-out and the Removed user record will not be displayed.
+
+Only users who are set to Export permission as ‘Yes’ can download the archived Zip file.
+
+Once the Expired Date gets expired, the assigned users can’t access the archived project.
 {% endhint %}
 
 ### 2-2.  **Assigned User List**
@@ -81,15 +84,16 @@ description: >-
 > This section displays all assigned user records to the Archived project and their total count.
 
 * The assigned users only can access the archived projects from the ‘Projects &gt; Archived’ screen of Organization View.
-* At any time, the AM can change the 'Export Permission' and 'Expired Date' of the user record and save by hitting 'Save' button.
+* At any time, the AM can change the 'Export Permission' and 'Expired Date' of the user record and save by hitting the 'Save' button.
 * When the Current Date exceeds the Expired Date, then the user record will be grayed-out and the respective user can’t access the project.
-* The AM can remove archived project’s access to any assigned users using the ‘Unassign’ button and such users cannot access the project.
+* To remove archived project's access to the user, click the 'Unassign' button.
 
 {% hint style="info" %}
-* The assigned user record who is Suspended/Removed in the Organization will be grayed-out automatically. Updating the Expired Date won’t work for these user records due to Suspend or Remove, but the user record can be unassigned.
-* The last modified details such as who and when the ‘Read Only Access Management’ screen is modified gets recorded.
-* Note-1: These assigned user records will not be displayed under the ‘Administration &gt; Users’ screen of the archived project in the Project View.
-* Note-2: While assigning users to the project, in the User dropdown, the Suspended user record is grayed-out and the Removed user record will not be displayed.
+The assigned user who is Suspended/Removed in the Organization will be grayed-out automatically. Updating the Expired Date won’t work for these user records due to Suspend or Remove, but the user record can be unassigned.
+
+These assigned user records will not be displayed under the ‘Administration &gt; Users’ screen of the archived project in the Project View.
+
+The last modified details such as who and when the ‘Read Only Access Management’ screen is modified gets recorded.
 {% endhint %}
 
 ## 3. Download ZIP file of archived project
