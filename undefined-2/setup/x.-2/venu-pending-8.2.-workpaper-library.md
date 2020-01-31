@@ -114,12 +114,6 @@ The duplicated template folder will be suffixed with '-1' and the number gets au
 7. You can view the created template subfolder under the template folder.
 8. This way, ‘n’ number of template subfolders can be created under a template folder.
 
-![](../../../.gitbook/assets/a_7-1_4.jpg)
-
-![](../../../.gitbook/assets/a_7-1_5.jpg)
-
-![](../../../.gitbook/assets/a_7-1_6.jpg)
-
 ### 2.2. Edit template subfolder
 
 > Using this, name for existing template subfolders can be updated.
