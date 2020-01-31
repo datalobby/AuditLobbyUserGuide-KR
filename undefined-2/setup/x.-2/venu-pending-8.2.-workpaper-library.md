@@ -17,7 +17,7 @@ description: >-
 ### Major components of Workpaper Library
 
 1. Template folders
-2. Template subfolders
+2. Workpaper/ Audit Program Template subfolders
 3. Files
 
 ## 1. Template Folder
@@ -99,11 +99,14 @@ The duplicated template folder will be suffixed with '-1' and the number gets au
 1. By default, the template folders will be displayed in alphabetical order \(A-Z\).
 2. Click the 'Sort' icon at the top-left of the screen for sorting the folders in descending \(Z-A\)/ ascending \(A-Z\) order.
 
-## 2. Template subfolder
+## 2. Workpaper/ Audit Program Template subfolder
 
 ### 2.1. Create Workpaper/ Audit Program template subfolder 
 
 > Using this, you can create Workpaper Templates and Audit Program Templates.
+>
+> > * Workpaper Template stores files of any extension.
+> > * Audit Program Template stores the audit steps.
 
 1. Find the template folder to which you wish to add a subfolder.
 2. Click on it to view the action items of it.
@@ -112,18 +115,16 @@ The duplicated template folder will be suffixed with '-1' and the number gets au
 5. Select the intended radio button.
 6. Enter the template subfolder name and click the 'Create' button.
 7. You can view the created template subfolder under the template folder.
-8. This way, ‘n’ number of template subfolders can be created under a template folder.
+8. This way, ‘n’ number of Workpaper/ Audit Program template subfolders can be created under a template folder.
 
 ### 2.2. Edit template subfolder
 
 > Using this, name for existing template subfolders can be updated.
 
 1. Find the template subfolder that you wish to revise the name.
-2. Click the 'Edit' icon located next to the subfolder.
-3. The 'Edit Template' dialog will be displayed.
-4. Enter the revised name.
-5. Click the 'Update' button.
-6. You can view the success message and the updated name.
+2. Clicking the 'Edit' icon displays the 'Edit Template' dialog.
+3. Enter the revised name and click the 'Update' button.
+4. You can view the success message and the updated name.
 
 {% hint style="warning" %}
 Within a template folder, duplicate names are not allowed for template subfolders while update.
@@ -134,13 +135,13 @@ Within a template folder, duplicate names are not allowed for template subfolder
 > Using this, existing template subfolders can be deleted.
 
 1. Find the template subfolder that you wish to delete.
-2. Click the 'Delete' icon presented next to the subfolder name.
-3. The delete confirmation alert will be displayed.
-4. Click the 'OK' button in the confirmation alert.
-5. You can view the delete success message and the subfolder will be disappeared from the screen.
+2. Click the 'Delete' icon displays the delete confirmation alert.
+3. Click the 'OK' button in the confirmation alert.
+4. You can view the delete success message.
+5. The subfolder will be disappeared from the screen.
 
 {% hint style="warning" %}
-With this delete, the entire template subfolder structure \(Template subfolders, folders & files\) will get deleted.
+With this delete, the entire template subfolder structure \(Template subfolders, Files/ Audit Steps\) will get deleted.
 {% endhint %}
 
 {% hint style="info" %}
@@ -152,7 +153,7 @@ Deleted Template subfolder can be restored from the ‘Trash’ screen by super 
 > Using this, template subfolders can be duplicated.
 
 1. Find the template subfolder that you wish to duplicate.
-2. Click the 'Copy this folder' icon presented next to the subfolder name.
+2. Click the 'Copy this folder' icon.
 3. The confirmation alert for duplication will be displayed.
 4. Clicking 'YES' begins the duplication process.
 5. You can view the below message on the top right of the screen.
@@ -161,7 +162,7 @@ Deleted Template subfolder can be restored from the ‘Trash’ screen by super 
 7. Refresh the screen to view the duplicated template subfolder.
 
 {% hint style="info" %}
-With this copy, the entire template subfolder structure \(Template subfolders, Folders & Files\) will be duplicated.
+With this copy, the entire template subfolder structure \(Template subfolders, Files\) will be duplicated.
 
 The duplicated template subfolder will be suffixed with '-1' and the number gets auto-increment for the next iteration.
 {% endhint %}
