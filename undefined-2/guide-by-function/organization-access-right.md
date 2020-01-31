@@ -152,11 +152,11 @@ If you are an Archive Manager, then only you can provide 'Archive Manager' permi
 2. The 'Archive Manager' field with the 'Yes/ No' options gets displayed upon choosing the 'Super Admin' value in the 'Org. Access Right' drop-down.
 3. Archive Manager is the person who can control the Archived and Unarchived projects from the 'Archive Management' screen.
 
-{% hint style="danger" %}
+{% hint style="warning" %}
 Duplicate Email and User Id won't be allowed while adding a user.
 {% endhint %}
 
-{% hint style="info" %}
+{% hint style="warning" %}
 At least one Archive Manager should exist in the Organization.
 {% endhint %}
 
