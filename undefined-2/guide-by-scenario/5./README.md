@@ -6,13 +6,17 @@ description: >-
 
 # \(Venu/Done\)5. \(For Managers\) Managing Archived and Unarchived Projects
 
+## Summary
+
 ![Organization View &amp;gt; Archive Management &amp;gt; Archived/ Unarchived tabs](../../../.gitbook/assets/list-of-archived-project.png)
 
 * The ‘Archive Management’ is visible only to the Super Admin who is an Archive Manager \(AM\) of the organization.
-* Clicking it displays the ‘Archive Management’ screen which contains ​two tabs​ named ‘Archived’ and ​’UnArchived’.
+* Click the 'Archive Management' option from the left navigation menu of the Organization View.
+* The ‘Archive Management’ screen will be opened.
+* It contains ​two tabs​ named ‘Archived’ and ​’UnArchived’.
 * Archived tab shows all archived projects and UnArchived tab shows all unarchived projects.
 
-## Summary of Archived projects
+## Major components of Archived projects
 
 1. View Archived projects from ‘Archive Management’ screen.
 2. Assign users to the Archived projects.
@@ -30,7 +34,7 @@ description: >-
 
 ![Archive Management &amp;gt; Archived &amp;gt; Find project &amp;gt; Three dots button](../../../.gitbook/assets/am-context-menu.png)
 
-* The **Details** option displays the ‘Project Details’ popup that shows archived project's information and the users who worked on it.
+* The **Details** option displays the ‘Project Details’ dialog that shows archived project's information and the users who worked on it.
 * The options **Open** and **Export Archived Zip File** are enabled only when you are assigned to the archived project.
   * 'Open' is used to visit the project.
   * 'Export Archived Zip File' is used to download the archived zip file.
@@ -44,15 +48,24 @@ description: >-
 
 ## **2**. Assign users to the archived project
 
-> * Access to the archived project is given to the user when s\(he\) requests to Visit or Export an archived project.
-> * Clicking the ‘Read Only Access Management’ option of intended archived project displays the ‘Read Only Access Management’ screen.
-> * From there AM can assign, unassign or update intended users to Archived project.
+> Access to the archived project is given to the user when s\(he\) requests to Visit or Export an archived project.
 
 ![Archived &amp;gt; Find project &amp;gt; Three dots button &amp;gt; Read Only Access Management option](../../../.gitbook/assets/read-only-access-management.png)
 
 ### **2-1. Assign Readonly User**
 
 ![Assign user in the Read Only Access Management screen](../../../.gitbook/assets/current-year%20%281%29.png)
+
+1. Find the archived project that you wish to assign users.
+2. Click three dots button under Actions column.
+3. Click the ‘Read Only Access Management’ option.
+4. The ‘Read Only Access Management’ screen will be displayed.
+5. Enter the following details.
+   * 'Type' is a drop-down contains two values: Internal, External.
+   * 'User' is an search & selected field. Based on the Type selection user records get displayed.
+   * Export Permission can be selected as Yes or No.
+   * Expired Date can be selected as current or above date.
+6. Click the 'Assign' button.
 
 Using this section, Archive Manager can ‘Assign’ Internal or External users of an organization to Archived project with Export permission & Expired Date..
 
