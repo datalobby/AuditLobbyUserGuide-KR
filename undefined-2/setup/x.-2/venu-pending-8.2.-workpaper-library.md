@@ -180,7 +180,7 @@ The duplicated template subfolder will be suffixed with '-1' and the number gets
 ### 3.1. Add files to Workpaper Template
 
 1. Find and select the Workpaper Template you wish to add files.
-2. On the RHS side, you can add the files in two ways.
+2. On the RHS side, you can add files in two ways.
    1. Using the Browse button.
    2. Using the Drag & Drop feature
 3. Using the Browse button.
@@ -191,7 +191,26 @@ The duplicated template subfolder will be suffixed with '-1' and the number gets
    5. You can view the newly added files after the upload gets done.
 4. Using the Drag & Drop feature.
    1. Select the intended files from your computer.
-   2. Drag & drop on to the file upload zone of the RHS of the screen.
+   2. Drag & drop on to the file upload zone \(RHS of screen\).
    3. You can view the upload progress of files.
    4. You can view the newly added files after the upload gets done.
+
+### 3.2. Add audit steps to Audit Program Template
+
+1. Find and select the Audit Program Template you wish to add steps.
+2. On the RHS side, you can add steps in two ways.
+   1. Bulk import using the Import feature
+   2. Add steps manually
+3. Bulk import using the Import feature.
+   1. Clicking the 'Template' button on RHS side of the screen downloads a sample excel file.
+   2. Open the file and fill with audit steps.
+   3. Clicking the 'Browse' button opens the file section window.
+   4. Select the file to be imported.
+   5. Click the 'Open' button.
+   6. You can view the steps get imported.
+4. Add steps manually
+   1. Click the 'Add New' button on the RHS of the screen.
+   2. An empty row get added to the grid.
+   3. Enter the details.
+   4. Click the 'Save changes' link at the bottom of the grid.
 
