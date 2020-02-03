@@ -4,7 +4,14 @@ description: >-
   team member
 ---
 
-# \(ENG\)10-1. Organizing a Project Team
+# \(Venu/Pending\)10-1. Organizing a Project Team
+
+## Summary
+
+* The 'Administration &gt; Users' feature allows admin users to manage the project users.
+* By default, the project creator, and the user who keeps as an ‘Engagement Partner’ during the project creation will be auto-assigned to the project with admin privileges.
+* The users who all are assigned on this screen can access the respective project and others cannot access.
+* Whereas this restriction is not applicable to Super Admin, i.e., Super Admins can visit any project irrespective of their assignment on the ‘Administration &gt; Users’ screen.
 
 {% hint style="info" %}
 You cannot find the users who are not assigned to the group on the 'Assign User' window for the project. Check if the user is assigned to the group on the Organization View &gt; 'Set Up' page.  
@@ -12,26 +19,27 @@ You cannot find the users who are not assigned to the group on the 'Assign User'
 
 ## 1. Assign a New User
 
-1. Click the 'Administration' button from the left menu column of the Project View
-2. Click the 'Users' button under 'Administration'
-3. Click the 'Assign User' button at the bottom right of the page
+1. Click the 'Administration' option on the left navigation menu of the Project View.
+2. Click the 'Users' option under 'Administration'.
+3. The 'Users' screen will be opened.
+4. Click the 'Assign User' button at the bottom-right of the screen.
 
 ![](../../../.gitbook/assets/a_9_2-1_2.jpg)
 
 ## 2. Select the User Email  
 
-1.  Select whether the user is an 'Internal User' or an 'External User'
+1.  Select whether the user is an 'Internal User' or an 'External User'.
 
-   > Accountants who work for the firm are internal users. The people from client companies who are in charge of PBC or inspection are external users.
+   > Internal users are the primary users of the application who do an audit for the firm. External users are the secondary users of accounting who are In charge of PBC or inspects the auditing.
 
-2. Click 'Email' field and click the email address of the user that you want to assign
+2. Click 'Email' field, search and select the user that you wish to assign.
 
-   > If the user's email address is not on the list, please check the followings.
+   > If the user's email address is not on the list, please check the following.
    >
-   > 1. Is the user assigned to the firm?
-   > 2. Is the user assigned to the same group?
+   > 1. Does the user assigned to the firm?
+   > 2. Does the user assigned to the current group?
    >
-   > You can check that on the Organization View &gt; 'Set Up' page
+   > You can check the above on the 'Organization View &gt; Set Up' screen.
 
 3. The name, user ID, and the title would be entered automatically according to the email address
 
