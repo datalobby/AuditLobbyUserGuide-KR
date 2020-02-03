@@ -39,9 +39,9 @@ You cannot find the users who are not assigned to the group on the 'Assign User'
    > 1. Does the user assigned to the firm?
    > 2. Does the user assigned to the current group?
    >
-   > You can check the above on the 'Organization View &gt; Set Up' screen.
+   > You can verify the above two on the 'Organization View &gt; Set Up' screen.
 
-3. The name, user ID, and the title would be entered automatically according to the email address
+3. The Name, User Id and the Title would be entered automatically according to the Email selected.
 
 ![](../../../.gitbook/assets/a_9_2-1_3.jpg)
 
@@ -49,7 +49,7 @@ You cannot find the users who are not assigned to the group on the 'Assign User'
 
 ![](../../../.gitbook/assets/a_9_2-1_4.jpg)
 
-Project Role field is about selecting the role\(position\) of the user in the project. There are 8 different options.
+The 'Project Role' is about selecting the role\(position\) of the user in the project. A project contains 8 different roles.
 
 * Staff
 * Senior
