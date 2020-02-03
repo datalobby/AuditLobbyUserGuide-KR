@@ -64,7 +64,7 @@
       * [\(Venu/Done\)8-1. Project Templates](undefined-2/setup/x.-2/x-1..md)
       * [\(Venu/Done\)8.2. Workpaper Library](undefined-2/setup/x.-2/venu-pending-8.2.-workpaper-library.md)
       * [\(ENG\)8-2. Workpaper Library](undefined-2/setup/x.-2/x-2..md)
-    * [\(Venu/Pending\)9. Project Creation](undefined-2/setup/1-3..md)
+    * [\(Venu/Done\)9. Project Creation](undefined-2/setup/1-3..md)
     * [\(ENG\)10. Project Team Administration and Client Access](undefined-2/setup/2./README.md)
       * [\(ENG\)10-1. Organizing a Project Team](undefined-2/setup/2./organize-audit-team.md)
       * [\(ENG\)10-2. Managing a Team \(Edit / Unassign\)](undefined-2/setup/2./2-2.-1.md)
