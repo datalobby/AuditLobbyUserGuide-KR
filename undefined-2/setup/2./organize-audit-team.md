@@ -130,11 +130,13 @@ The Project Access Type is a drop-down field, where you set the level of authori
 
 
 
-Roll Forward Permission field is about giving the permission to copy the project and paste it when creating a new project. When users with Roll Forward Permission set to Yes create a new project, this project will show up in the list of projects that they can roll forward.
+The 'Roll Forward Permission' field is about giving permission to replicate the current project when creating a new project.
 
-Users with Roll Forward Permission set to No cannot see this project on the list of projects that they can roll forward.
+* The ‘Roll Forward Permission’ can be set with ‘Yes’ or ‘No’.
+* The users who are set to 'Yes' option only can view & select the current project in the ‘Roll Forward’ drop-down on the ‘Step 2 of Create Project dialog’ for the replication.
+* The users who are set to 'No' option cannot see the current project in the ‘Roll Forward’ drop-down on the ‘Step 2 of Create Project dialog’.
 
 {% hint style="info" %}
-Since users with only User Access right cannot create a project, though you set their Foll Forward Permission to Yes, they still cannot create a new project nor forward this project.
+Users with 'User Access' organization access right cannot create a project, though you set their Roll Forward Permission to Yes, they still cannot create a new project nor forward this project.
 {% endhint %}
 
