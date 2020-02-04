@@ -69,7 +69,7 @@
       * [\(Venu/Done\)10-1. Organizing a Project Team](undefined-2/setup/2./organize-audit-team.md)
       * [\(Venu/Done\)10-2. Managing a Team \(Edit / Unassign\)](undefined-2/setup/2./2-2.-1.md)
       * [\(Venu/Done\)10-3. Assigning a QC Manager](undefined-2/setup/2./2-2.-qc.md)
-      * [\(ENG\)10-4. Assigning an External User to a Project](undefined-2/setup/2./2-4..md)
+      * [\(Venu/Done\)10-4. Assigning an External User to a Project](undefined-2/setup/2./2-4..md)
       * [\(ENG\)10-5. Editing an Engagement Partner](undefined-2/setup/2./2-5..md)
   * [\(Razia\)B. Guides by Audit Process Steps](undefined-2/guide-by-scenario/README.md)
     * [1. Financial Statement Preparation](undefined-2/guide-by-scenario/3.-.../README.md)
