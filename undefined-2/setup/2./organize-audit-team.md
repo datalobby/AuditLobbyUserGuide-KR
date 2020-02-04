@@ -49,7 +49,7 @@ You cannot find the users who are not assigned to the group on the 'Assign User'
 
 ![](../../../.gitbook/assets/a_9_2-1_4.jpg)
 
-The 'Project Role' is about selecting the role\(position\) of the user in the project. A project contains 8 different roles.
+The 'Project Role' is about selecting the role\(position\) of the user in the project. There are 8 different roles in a project.
 
 * Staff
 * Senior
@@ -60,17 +60,17 @@ The 'Project Role' is about selecting the role\(position\) of the user in the pr
 * Concurring Partner
 * Quality Control
 
-Staff, Senior, Manager, Director, and Partner are just names of different positions. The actual differences in level of authority in the project on Audit LOBBY would be assigned in the Project Access Type field. 
+Staff, Senior, Manager, Director, and Partner are just names of different positions. The actual differences in the level of authority in the project on Audit LOBBY would be designated in the 'Project Access Type' field.
 
-By assigning someone as Engagement Partner, Concurring Partner, or Quality Control can affect the permissions or archive conditions. Please be aware when selecting them.
+By assigning someone as Engagement Partner, Concurring Partner or Quality Control can affect project access type permissions or archive conditions. Please be attentive when selecting them.
 
 ## 4. Select the Read Only Option
 
 ![](../../../.gitbook/assets/a_9_2-1_4_assign-user-readonly.jpg)
 
-* The users with Read Only option set to Yes cannot edit any document in the project
-* For general members of the team please set Read Only option to No
-* If you want to let a user to see the contents in the project but do not want the user to edit, set the Read Only option to Yes
+* The users with Read Only option set to 'Yes' cannot edit any document in the project.
+* For the regular accountant of the project, please set the 'Read Only' option to 'No'.
+* If you wish to let a user view the content in the project, but do not want him/her to edit, set the Read-Only option to 'Yes'.
 
 ## 5. Select the Project Access Type
 
