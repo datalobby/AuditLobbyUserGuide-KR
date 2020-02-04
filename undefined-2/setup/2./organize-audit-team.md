@@ -4,7 +4,7 @@ description: >-
   team member
 ---
 
-# \(Venu/Pending\)10-1. Organizing a Project Team
+# \(Venu/Done\)10-1. Organizing a Project Team
 
 ## Summary
 
@@ -24,7 +24,7 @@ You cannot find the users who are not assigned to the group on the 'Assign User'
 3. The 'Users' screen will be opened.
 4. Click the 'Assign User' button at the bottom-right of the screen.
 
-![](../../../.gitbook/assets/a_9_2-1_2.jpg)
+![](../../../.gitbook/assets/admin-assign-user.png)
 
 ## 2. Select the User Email  
 
@@ -43,7 +43,7 @@ You cannot find the users who are not assigned to the group on the 'Assign User'
 
 3. The Name, User Id and the Title would be entered automatically according to the Email selected.
 
-![](../../../.gitbook/assets/a_9_2-1_3.jpg)
+![](../../../.gitbook/assets/assign-user-email.png)
 
 ## 3. Select the Role in the Project
 
@@ -84,7 +84,7 @@ Engagement Partner Role can be set to only Super Admin and Group Admin users.
 
 ## 5. Select the Project Access Type
 
-![](../../../.gitbook/assets/a_9_2-1_4_assign-user-access.jpg)
+![](../../../.gitbook/assets/assign-user-project-access-type.png)
 
 
 
