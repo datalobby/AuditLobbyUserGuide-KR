@@ -2,7 +2,7 @@
 description: How to organize a project team and setting the PBC access.
 ---
 
-# \(Venu/Pending\)10. Project Team Administration and Client Access
+# \(Venu/Done\)10. Project Team Administration and Client Access
 
 ## Organize a project team \([10-1. How to Organize an Inspection Team](organize-audit-team.md)\)
 
