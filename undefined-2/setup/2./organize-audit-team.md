@@ -64,6 +64,16 @@ Staff, Senior, Manager, Director, and Partner are just names of different positi
 
 By assigning someone as Engagement Partner, Concurring Partner or Quality Control can affect project access type permissions or archive conditions. Please be attentive when selecting them.
 
+When a user is assigned to the 'Engagement Partner' role, then by default, the higher permissions like below set to the user and cannot be changed at all.
+
+* Read Only = No
+* Project Access Type = Project & Archive Admin
+* Roll Forward Permission = Yes
+
+{% hint style="info" %}
+Engagement Partner Role can be set to only Super Admin and Group Admin users.
+{% endhint %}
+
 ## 4. Select the Read Only Option
 
 ![](../../../.gitbook/assets/a_9_2-1_4_assign-user-readonly.jpg)
@@ -78,28 +88,41 @@ By assigning someone as Engagement Partner, Concurring Partner or Quality Contro
 
 
 
-The Project Access Type field is where you set the level of authority in the project.
+The Project Access Type is a drop-down field, where you set the level of authority in the project.
 
 #### 5-1. Project & Archive Admin 
 
-* The user becomes a project manager and gets authority to archive
+* The user who is set with the 'Project & Archive Admin' will have complete control over the project.
 * The user gets the project manager authority
-* The user can archive and unarchive
+* The user gets the authority to archive the project.
+* The user has more crucial permissions within the project and can do anything within the project. The major permissions are:
+  * Archive the project.
+  * Assign, Edit, Deactivate/ Activate, Unassign the user.
+  * Edit the Project Information.
+  * Lock/ Unlock the project.
+  * Permanent delete the trashed items.
+  * Force close the opened workpaper or permanent files.
+  * Delete the Review Comments on behalf of other users.
 
 #### 5-2. Project Admin
 
-* The user gets the project manager authority
-  * The user can assign and unassign users to the project
-* The user cannot archive the project
+* The user gets the project manager authority.
+* The user cannot archive the project.
+* The major permissions are:
+  * Archive the project.
+  * Assign, Edit, Deactivate/ Activate, Unassign the user.
+  * Edit the Project Information.
+  * Lock/ Unlock the project.
+  * Permanent delete the trashed items.
+  * Force close the opened workpaper or permanent files.
+  * Delete the Review Comments on behalf of other users.
 
 #### 5-3. Project User 
 
-* The user becomes a project user
-  * The user can create and edit a workpaper
-  * The user can sign off a workpaper
-* The user cannot archive the project
-
-  
+* The Project User doesn’t have access to any of the above permissions.
+* The user can create and edit a workpaper.
+* The user can sign off a workpaper.
+* The user cannot archive the project.
 
 ## 6. Select the Project Roll Forward Permission Option
 
