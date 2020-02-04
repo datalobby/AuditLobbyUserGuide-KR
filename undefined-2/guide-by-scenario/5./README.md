@@ -71,9 +71,13 @@ description: >-
 
 {% hint style="info" %}
 In the User dropdown, the Suspended user record is grayed-out and the Removed user record will not be displayed.
+{% endhint %}
 
+{% hint style="info" %}
 Only users who are set to Export permission as ‘Yes’ can download the archived Zip file.
+{% endhint %}
 
+{% hint style="info" %}
 Once the Expired Date gets expired, the assigned users can’t access the archived project.
 {% endhint %}
 
