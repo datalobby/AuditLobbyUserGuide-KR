@@ -81,7 +81,7 @@
     * [\(Razia-Done\)2. Working on Workpapers / Uploading Workpapers](undefined-2/guide-by-scenario/4./README.md)
       * [\(Venu/Pending\)2-1 Workpaper Documentation](undefined-2/guide-by-scenario/4./2-1/README.md)
         * [\(Venu/Done\)2-1-1. Documenting Workpaper Files](undefined-2/guide-by-scenario/4./2-1/4-1..md)
-        * [\(Venu/Pending\)2-1-2. Open files using Sync LOBBY](undefined-2/guide-by-scenario/4./2-1/4-2..md)
+        * [\(Venu/Done\)2-1-2. Open files using Sync LOBBY](undefined-2/guide-by-scenario/4./2-1/4-2..md)
         * [\(ENG\)2-1-3. Documenting Workpapers Using WorkPaper\(Template\) Library](undefined-2/guide-by-scenario/4./2-1/4-3..md)
       * [\(ENG\)2-2 Upload Workpaper](undefined-2/guide-by-scenario/4./2-2/README.md)
         * [\(ENG\)2-2-1. Uploading Workpaper File](undefined-2/guide-by-scenario/4./2-2/4-4..md)
