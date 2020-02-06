@@ -86,7 +86,7 @@
       * [\(ENG\)2-2 Upload Workpaper](undefined-2/guide-by-scenario/4./2-2/README.md)
         * [\(Venu/Pending\)2-2-1. Different ways of uploading workpaper files](undefined-2/guide-by-scenario/4./2-2/4-4..md)
         * [\(Venu/Done\)2-2-2. Upload Multiple Files](undefined-2/guide-by-scenario/4./2-2/2-2-4..md)
-        * [\(ENG\)2-2-3. Uploading Workpaper File Using Drag and Drop](undefined-2/guide-by-scenario/4./2-2/2-2-2..md)
+        * [\(ENG\)2-2-3. Upload workpaper using Drag & Drop facility](undefined-2/guide-by-scenario/4./2-2/2-2-2..md)
         * [\(ENG\)2-2-4. Replacing a File \(Replace\)](undefined-2/guide-by-scenario/4./2-2/2-2-5.-replace.md)
         * [\(ENG\)2-2-5. Uploading Attachment File](undefined-2/guide-by-scenario/4./2-2/2-2-3..md)
       * [\(ENG\)2-3 Download the document](undefined-2/guide-by-scenario/4./2-3.md)
