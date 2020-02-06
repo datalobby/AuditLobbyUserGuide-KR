@@ -87,7 +87,7 @@
         * [\(Venu/Pending\)2-2-1. Different ways of uploading workpaper files](undefined-2/guide-by-scenario/4./2-2/4-4..md)
         * [\(Venu/Done\)2-2-2. Upload Multiple Files](undefined-2/guide-by-scenario/4./2-2/2-2-4..md)
         * [\(Venu/Done\)2-2-3. Upload workpaper using Drag & Drop facility](undefined-2/guide-by-scenario/4./2-2/2-2-2..md)
-        * [\(Venu/Pending\)2-2-4. Replace a File](undefined-2/guide-by-scenario/4./2-2/2-2-5.-replace.md)
+        * [\(Venu/Done\)2-2-4. Replace a File](undefined-2/guide-by-scenario/4./2-2/2-2-5.-replace.md)
         * [\(ENG\)2-2-5. Uploading Attachment File](undefined-2/guide-by-scenario/4./2-2/2-2-3..md)
       * [\(ENG\)2-3 Download the document](undefined-2/guide-by-scenario/4./2-3.md)
     * [\(Razia-Done\)3. Prepare and/or Review the workpaper](undefined-2/guide-by-scenario/5.-review/README.md)
