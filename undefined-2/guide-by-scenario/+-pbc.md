@@ -43,6 +43,8 @@ After visiting the project, they directly view the PBC List screen only. The 'Pr
 
 ### 1.1. Add records manually
 
+![Click &apos;PBC List&apos; menu &amp;gt; Click &apos;Add&apos; button &amp;gt; Fill details &amp;gt; Click &apos;Save changes&apos; link](../../.gitbook/assets/pbc-list-add-record.png)
+
 1. Click the 'PBC List' in the left navigation menu of the 'Project View'.
 2. Click the 'Add' button at the top of the screen.
 3. An empty record will be displayed in the grid to input the details.
