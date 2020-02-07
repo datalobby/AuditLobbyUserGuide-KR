@@ -89,7 +89,7 @@
         * [\(Venu/Done\)2-2-3. Add file using 'Drag & Drop' facility](undefined-2/guide-by-scenario/4./2-2/2-2-2..md)
         * [\(Venu/Done\)2-2-4. Replace a File](undefined-2/guide-by-scenario/4./2-2/2-2-5.-replace.md)
         * [\(Venu/Done\)2-2-5. Add multiple files as a single file](undefined-2/guide-by-scenario/4./2-2/2-2-3..md)
-      * [\(Venu/Pending\)2-3 Download the document](undefined-2/guide-by-scenario/4./2-3.md)
+      * [\(Venu/Done\)2-3 Download the document](undefined-2/guide-by-scenario/4./2-3.md)
     * [\(Razia-Done\)3. Prepare and/or Review the workpaper](undefined-2/guide-by-scenario/5.-review/README.md)
       * [\(Razia-Done\)3-1. How to prepare workpapers \(Prepare Sign-off\)](undefined-2/guide-by-scenario/5.-review/5-1.-prepare.md)
       * [\(Razia-Done\)3-2. Review Workpaper \(Review Sign-off\)](undefined-2/guide-by-scenario/5.-review/5-2.-review.md)
