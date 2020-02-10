@@ -118,7 +118,7 @@ PBC Upload users \(Client users\) can view & download the above uploaded files, 
 > This is the place where the clients \(External PBC users\) can upload their requested documents.
 
 {% hint style="danger" %}
-Only PBC users \(External Users\) can add \(upload\) documents to the screen and Internal Users cannot.
+Only PBC users \(External Users\) can add \(upload\) documents on the screen and Internal Users cannot.
 {% endhint %}
 
 1. Client users who are PBC Upload users can log in to the application.
@@ -138,4 +138,10 @@ Only PBC users \(External Users\) can add \(upload\) documents to the screen and
 ![Add one or more files using the &apos;Browse&apos; button \(or\) Drag &amp; Drop facility.](../../.gitbook/assets/client-upload-documents-3.png)
 
 ![The red-colored file icon changed to blue color if the PBC record contains at least one file in it.](../../.gitbook/assets/client-upload-documents-4.png)
+
+### 5.1. Send file\(s\) upload status to auditors
+
+After uploading of requested files, PBC users can send the instant email reminder notification about the supporting documents upload status to the 'Request To' users \(auditors\) by clicking the 'Send' button.
+
+![Click the &apos;Send&apos; button &amp;gt; Click &apos;OK&apos; in the confirmation alert.](../../.gitbook/assets/send-notification-to-auditors.png)
 
