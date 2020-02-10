@@ -103,15 +103,15 @@ You cannot select the past date in the 'Requested Date' and 'Due Date' fields.
    2. Drag & drop of the files from your computer.
 6. You can also perform the operations like update the content of the file, edit the file name and delete the file.
 
+{% hint style="danger" %}
+In the auditor uploaded documents screen, PBC Upload users \(Clients\) can view & download, but cannot perform operations like add, edit, delete documents.
+{% endhint %}
+
 ![Find the PBC record that you wish to add documents for the client users reference.](../../.gitbook/assets/auditor-upload-documents.png)
 
 ![You will be navigated to the detail page.](../../.gitbook/assets/auditor-upload-documents-2.png)
 
 ![Add one or more files using the &apos;Browse&apos; button \(or\) Drag &amp; Drop facility.](../../.gitbook/assets/auditor-upload-documents-3.png)
-
-{% hint style="danger" %}
-PBC Upload users \(Client users\) can view & download the above uploaded files, but cannot perform operations like add, edit, delete documents.
-{% endhint %}
 
 ![The red-colored file icon changed to blue color if the PBC record contains at least one file in it.](../../.gitbook/assets/auditor-upload-documents-4.png)
 
