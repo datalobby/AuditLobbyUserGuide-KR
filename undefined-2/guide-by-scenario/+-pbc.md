@@ -88,5 +88,9 @@ You cannot select the past date in the 'Requested Date' and 'Due Date' fields.
 
 ![You can view the imported records on the screen](../../.gitbook/assets/pbc-list-import-3.png)
 
+## 4. Auditor uploaded documents section
+
+> This is the place where the general auditors \(internal users\) can upload the reference documents for the client users to request the supporting documents in the suggested format.
+
 ## 
 
