@@ -11,7 +11,7 @@ description: Replace audit files via the right-click menu
 * Select the audit file that you want to replace, it gets highlighted in yellow.
 * Right-clicking the file presents the list of options where you can see the 'Replace' option.
 
-![](../.gitbook/assets/replace-file-1%20%281%29.png)
+![](../.gitbook/assets/replace-file-1.png)
 
 ### 2. The file selection window appears.
 
@@ -30,7 +30,7 @@ description: Replace audit files via the right-click menu
 
 > Note: You can replace a file with any other file type.
 
-![](../.gitbook/assets/replace-file-3%20%281%29.png)
+![](../.gitbook/assets/replace-file-3.png)
 
 ### 4. Verify the file, and Prepare/ Review the file
 

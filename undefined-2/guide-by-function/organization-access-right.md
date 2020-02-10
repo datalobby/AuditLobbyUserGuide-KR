@@ -22,7 +22,7 @@ The CPA \(Certified Public Accountant\) Firm must control who can create project
 **NOTE:** 'Set Up &gt; Users' module can be accessed only by Super Admin and Group Admin users, but the operations like add, update, suspend, remove operations can be done by the Super Admin user only.
 {% endhint %}
 
-### Major components of Users feature
+### Major components of Users module
 
 1. Two types of users.
    1. Internal Users
