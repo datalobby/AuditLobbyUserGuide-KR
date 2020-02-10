@@ -32,7 +32,9 @@ After visiting the project, they directly view the PBC List screen only. The 'Pr
 3. **B** stands for ‘Before’, so the first email reminder notification would be sent ‘**\#B**’ days before the 'Due Date'.
 4. **A** stands for ‘After’, so the next email reminder notification would be sent ‘**\#A**’ days after the 'Due Date'.
 5. **R** stands for ‘Recur’, so the recursive email reminder notification would be sent for every ‘**\#R**’ days after the ‘\#A’.
-6. The email reminder notifications will be recursively sent to the client users until the status is changed to 'Completed' for the pbc records.
+6. The email reminder notifications will be recursively sent to the client users until the 'Status' column of the PBC record is changed to 'Completed'.
+
+![Email reminder notification to the External PBC users \(Clients\)](../../.gitbook/assets/email-notification-to-client-users.png)
 
 ## 3. Add PBC records
 
