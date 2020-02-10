@@ -92,7 +92,7 @@ You cannot select the past date in the 'Requested Date' and 'Due Date' fields.
 
 > This is the place where the general auditors \(internal users\) can upload the reference documents for the client users to share the supporting documents in the suggested format.
 
-1. It’s an optional field and has the file icon.
+1. It’s an optional field.
 2. Find the PBC record that you wish to add documents for the client users reference.
 3. Click the red colored file icon under the 'Auditor Upload Documents' column.
 4. You will be navigated to the detail section.
@@ -101,11 +101,41 @@ You cannot select the past date in the 'Requested Date' and 'Due Date' fields.
    2. Drag & drop of the files from your computer.
 6. You can also perform the operations like update the content of the file, edit the file name and delete the file.
 
-![Find the PBC record that you wish to add the reference documents and click the red-colored file icon](../../.gitbook/assets/auditor-upload-documents.png)
+![Find the PBC record that you wish to add documents for the client users reference.](../../.gitbook/assets/auditor-upload-documents.png)
 
-![You will be navigates to the detail page](../../.gitbook/assets/auditor-upload-documents-2.png)
+![You will be navigated to the detail page.](../../.gitbook/assets/auditor-upload-documents-2.png)
 
-![Add one or more files using the &apos;Browse&apos; button \(or\) Drag &amp; Drop facility](../../.gitbook/assets/auditor-upload-documents-3.png)
+![Add one or more files using the &apos;Browse&apos; button \(or\) Drag &amp; Drop facility.](../../.gitbook/assets/auditor-upload-documents-3.png)
 
+{% hint style="danger" %}
+PBC Upload users \(Client users\) can view & download the above uploaded files, but cannot perform operations like add, edit, delete documents.
+{% endhint %}
 
+![The red-colored file icon changed to blue color if the PBC record contains at least one file in it.](../../.gitbook/assets/auditor-upload-documents-4.png)
+
+## 5. Client Upload Documents section
+
+> This is the place where the clients \(External PBC users\) can upload their requested documents.
+
+1. Client users who are PBC Upload users can log in to the application.
+2. Go to 'My Page &gt; Assigned Projects' screen in the left navigation menu of the Organization View.
+3. Find and visit the project to which you \(Client user\) wish to upload the supporting documents.
+4. Only the 'PBC List' screen visible you.
+5. Find the PBC record that you wish to add documents.
+6. Click the red colored file icon under the 'Client Upload Documents' column.
+7. You will be navigated to the detail section.
+8. You can add files in two ways.
+   1. Using the 'Browse' button.
+   2. Drag & drop of the files from your computer.
+9. You can also perform the operations like update the content of the file, edit the file name and delete the file.
+
+![Click the red-colored file icon in the &apos;Client Upload Document&apos; column &amp;gt; You will be navigated to detail page](../../.gitbook/assets/client-upload-documents-1.png)
+
+![Add one or more files using the &apos;Browse&apos; button \(or\) Drag &amp; Drop facility.](../../.gitbook/assets/client-upload-documents-3.png)
+
+![The red-colored file icon changed to blue color if the PBC record contains at least one file in it.](../../.gitbook/assets/client-upload-documents-4.png)
+
+{% hint style="danger" %}
+Only PBC users \(External Users\) can upload documents in the screen and Internal Users cannot.
+{% endhint %}
 
