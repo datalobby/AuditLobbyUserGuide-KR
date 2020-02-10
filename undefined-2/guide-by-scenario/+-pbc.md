@@ -5,7 +5,7 @@ description: >-
   requests.
 ---
 
-# \(Venu/Pending\) PBC List - Request audit supported documents from your client
+# \(Venu/Done\) PBC List - Request audit supported documents from your client
 
 PBC stands for ‘Provided By Customer/ Client’. PBC is a list of items that users request from their audit clients when they perform audits. This is typically done by compiling the list in Excel and emailing them to the client and then they send their request by email manually.
 

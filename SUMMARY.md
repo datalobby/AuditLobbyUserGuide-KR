@@ -109,7 +109,7 @@
       * [\(Razia-Done\)4-6. Find Archived Projects](undefined-2/guide-by-scenario/6./4-6.search-archive.md)
     * [\(Venu/Done\)5. \(For Managers\) Managing Archived and Unarchived Projects](undefined-2/guide-by-scenario/5./README.md)
       * [\(Venu/Done\)5-1. Unarchive](undefined-2/guide-by-scenario/5./4-3..md)
-    * [\(Venu/Pending\) PBC List - Request audit supported documents from your client](undefined-2/guide-by-scenario/+-pbc.md)
+    * [\(Venu/Done\) PBC List - Request audit supported documents from your client](undefined-2/guide-by-scenario/+-pbc.md)
   * [C. \(Venu/Done\)Set Up](undefined-2/guide-by-function/README.md)
     * [\(Venu/Done\) Organization Users \(Set UP &gt; Users\)](undefined-2/guide-by-function/organization-access-right.md)
     * [\(Venu/Done\) Groups \(Set Up &gt; Groups\)](undefined-2/guide-by-function/groups-set-up-greater-than-groups.md)
