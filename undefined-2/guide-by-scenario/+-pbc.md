@@ -71,7 +71,20 @@ You cannot select the past date in the 'Requested Date' and 'Due Date' fields.
 
 
 
+### 3.2. Using the 'Import' facility
 
+> Using this, you can add the bundle of PBC records at once.
+
+1. Click the ‘Template’ button at the top of the screen.
+2. A template excel file will be downloaded for the import into your computer.
+3. Fill the excel file with as many records as you required \(Area, Description, Due Date, Before, After, Recur\).
+4. Save the file.
+5. Click the 'Browse' button to view the file explorer window for the file selection.
+6. Select the saved file in \#5.
+7. Click the 'Open' button or hit the ENTER key.
+8. Click the 'Import Data' button.
+9. Wait till all excel file data get inserted into the application.
+10. On the screen, you can view the success message and the records that are imported.
 
 ## 
 
