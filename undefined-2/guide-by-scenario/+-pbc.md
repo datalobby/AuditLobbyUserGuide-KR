@@ -88,9 +88,24 @@ You cannot select the past date in the 'Requested Date' and 'Due Date' fields.
 
 ![You can view the imported records on the screen](../../.gitbook/assets/pbc-list-import-3.png)
 
-## 4. Auditor uploaded documents section
+## 4. Auditor upload documents section
 
-> This is the place where the general auditors \(internal users\) can upload the reference documents for the client users to request the supporting documents in the suggested format.
+> This is the place where the general auditors \(internal users\) can upload the reference documents for the client users to share the supporting documents in the suggested format.
 
-## 
+1. It’s an optional field and has the file icon.
+2. Find the PBC record that you wish to add documents for the client users reference.
+3. Click the red colored file icon under the 'Auditor Upload Documents' column.
+4. You will be navigated to the detail section.
+5. You can add files in two ways.
+   1. Using the 'Browse' button.
+   2. Drag & drop of the files from your computer.
+6. You can also perform the operations like update the content of the file, edit the file name and delete the file.
+
+![Find the PBC record that you wish to add the reference documents and click the red-colored file icon](../../.gitbook/assets/auditor-upload-documents.png)
+
+![You will be navigates to the detail page](../../.gitbook/assets/auditor-upload-documents-2.png)
+
+![Add one or more files using the &apos;Browse&apos; button \(or\) Drag &amp; Drop facility](../../.gitbook/assets/auditor-upload-documents-3.png)
+
+
 
