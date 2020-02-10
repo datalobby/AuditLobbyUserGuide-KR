@@ -69,10 +69,6 @@ You cannot select the past date in the 'Requested Date' and 'Due Date' fields.
 
 ### 3.2. Using the 'Import' facility
 
-
-
-### 3.2. Using the 'Import' facility
-
 > Using this, you can add the bundle of PBC records at once.
 
 1. Click the ‘Template’ button at the top of the screen.
