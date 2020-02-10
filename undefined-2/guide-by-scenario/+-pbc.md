@@ -147,3 +147,26 @@ After uploading of requested files, PBC users can send the instant email reminde
 
 ![Click the &apos;Send&apos; button &amp;gt; Click &apos;OK&apos; in the confirmation alert.](../../.gitbook/assets/send-notification-to-auditors.png)
 
+## 6. Change the status of PBC record to 'Completed'
+
+> If you believe that you have received all the requested documents from clients for the respective PBC record, then you can change the status to 'Completed'.
+
+1. Find the PBC record\(s\) that you wish to change the status to 'Completed'.
+2. Click the 'Status' cell.
+3. Select the 'Completed' value.
+4. Click the 'Save changes' link at the bottom-right of the screen.
+
+{% hint style="info" %}
+Both general auditors and clients can change the status to 'Completed'.
+{% endhint %}
+
+{% hint style="info" %}
+The 'Completed' PBC records would be excluded in the email reminder notification.
+{% endhint %}
+
+{% hint style="danger" %}
+Once the status is changed to 'Completed' and saved, you cannot roll back and update any of its information. Hence, be cautious while changing the status.
+{% endhint %}
+
+
+
