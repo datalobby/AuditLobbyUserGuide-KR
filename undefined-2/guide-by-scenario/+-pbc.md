@@ -136,6 +136,6 @@ PBC Upload users \(Client users\) can view & download the above uploaded files, 
 ![The red-colored file icon changed to blue color if the PBC record contains at least one file in it.](../../.gitbook/assets/client-upload-documents-4.png)
 
 {% hint style="danger" %}
-Only PBC users \(External Users\) can upload documents in the screen and Internal Users cannot.
+Only PBC users \(External Users\) can add \(upload\) documents to the screen and Internal Users cannot.
 {% endhint %}
 
