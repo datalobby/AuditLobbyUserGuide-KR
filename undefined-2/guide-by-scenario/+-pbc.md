@@ -117,6 +117,10 @@ PBC Upload users \(Client users\) can view & download the above uploaded files, 
 
 > This is the place where the clients \(External PBC users\) can upload their requested documents.
 
+{% hint style="danger" %}
+Only PBC users \(External Users\) can add \(upload\) documents to the screen and Internal Users cannot.
+{% endhint %}
+
 1. Client users who are PBC Upload users can log in to the application.
 2. Go to 'My Page &gt; Assigned Projects' screen in the left navigation menu of the Organization View.
 3. Find and visit the project to which you \(Client user\) wish to upload the supporting documents.
@@ -134,8 +138,4 @@ PBC Upload users \(Client users\) can view & download the above uploaded files, 
 ![Add one or more files using the &apos;Browse&apos; button \(or\) Drag &amp; Drop facility.](../../.gitbook/assets/client-upload-documents-3.png)
 
 ![The red-colored file icon changed to blue color if the PBC record contains at least one file in it.](../../.gitbook/assets/client-upload-documents-4.png)
-
-{% hint style="danger" %}
-Only PBC users \(External Users\) can add \(upload\) documents to the screen and Internal Users cannot.
-{% endhint %}
 
