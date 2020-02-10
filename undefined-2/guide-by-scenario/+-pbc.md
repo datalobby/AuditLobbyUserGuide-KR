@@ -82,5 +82,11 @@ You cannot select the past date in the 'Requested Date' and 'Due Date' fields.
 9. Wait till all excel file data get inserted into the application.
 10. On the screen, you can view the success message and the records that are imported.
 
+![Click the &apos;Template&apos; button to download the template file for the bulk import](../../.gitbook/assets/pbc-list-import-1.png)
+
+![Fill the template file &amp;gt; Browse the file using &apos;Browse&apos; button &amp;gt; Click the &apos;Import Date&apos; button](../../.gitbook/assets/pbc-list-import-2.png)
+
+![You can view the imported records on the screen](../../.gitbook/assets/pbc-list-import-3.png)
+
 ## 
 
