@@ -41,7 +41,7 @@ After visiting the project, they directly view the PBC List screen only. The 'Pr
 > 1. Add records manually.
 > 2. Using the 'Import' facility.
 
-### 1.1. Add records manually
+### 3.1. Add records manually
 
 ![Click &apos;PBC List&apos; menu &amp;gt; Click &apos;Add&apos; button &amp;gt; Fill details &amp;gt; Click &apos;Save changes&apos; link](../../.gitbook/assets/pbc-list-add-record.png)
 
@@ -57,6 +57,7 @@ After visiting the project, they directly view the PBC List screen only. The 'Pr
    * **Requested By:** Select the user.
    * **Requested To:** Select the 'External PBC upload' user whom you wish to request the documents to be shared.
 5. Click the 'Save changes' link at the right-bottom of the screen, to save the records.
+6. This way, you can add as many records as you required.
 
 {% hint style="danger" %}
 You cannot select the past date in the 'Requested Date' and 'Due Date' fields.
@@ -65,6 +66,10 @@ You cannot select the past date in the 'Requested Date' and 'Due Date' fields.
 {% hint style="danger" %}
 'Due Date' should be greater than or equal to the ‘Requested Date’.
 {% endhint %}
+
+### 3.2. Using the 'Import' facility
+
+
 
 
 
