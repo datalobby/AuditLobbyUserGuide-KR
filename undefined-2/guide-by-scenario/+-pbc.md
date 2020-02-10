@@ -149,6 +149,8 @@ After uploading of requested files, PBC users can send the instant email reminde
 
 ## 6. Change the status of PBC record to 'Completed'
 
+![Click the &apos;Status&apos; cell &amp;gt; Select &apos;Completed&apos; &amp;gt; Click the &apos;Save changes&apos; link](../../.gitbook/assets/status-change-to-completed.png)
+
 > If you believe that you have received all the requested documents from clients for the respective PBC record, then you can change the status to 'Completed'.
 
 1. Find the PBC record\(s\) that you wish to change the status to 'Completed'.
@@ -165,7 +167,7 @@ The 'Completed' PBC records would be excluded in the email reminder notification
 {% endhint %}
 
 {% hint style="danger" %}
-Once the status is changed to 'Completed' and saved, you cannot roll back and update any of its information. Hence, be cautious while changing the status.
+Once the status is changed to 'Completed' and saved, you cannot roll back and update any of its information. Hence, please be cautious while changing the status.
 {% endhint %}
 
 
