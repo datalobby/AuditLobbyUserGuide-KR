@@ -1,16 +1,33 @@
 ---
-description: 프로젝트 잠금 방법을 알려드립니다.
+description: >-
+  Using this feature, we can restrict the users NOT to perform operations like
+  create, update, delete on the screens of the 'Project View' except for the
+  ‘Administration > Users’ screen.
 ---
 
-# \(ENG\)"How can I lock the project"
+# \(Venu/Pending\)"How can I lock the project?"
 
-* Prepare the archive When all of the diagnostic requirements are met, the 'Archive' button appears.
-* The project must be locked to archive the project.
-* Ready to archive Click the 'Archive' button at the bottom of the Diagnostics page.
+{% hint style="info" %}
+Only the user who is a 'Project & Archive Admin' and 'Project Admin' can lock the project.
+{% endhint %}
 
-![Project Home &amp;gt; Archive &amp;gt; Archive Diagnosis &amp;gt; Archive](../.gitbook/assets/4-2-01.jpg)
+## Project can be locked in two ways
 
-![Archive &amp;gt; Lock the project](../.gitbook/assets/23.jpg)
+1. Using the 'Lock this project' button.
+2. While archiving the project.
+
+### 1. Using the 'Lock this project' button
+
+![Project View &amp;gt; Archive menu &amp;gt; Archive Diagnosis menu &amp;gt; Lock this project button](../.gitbook/assets/lock-this-project.png)
+
+![Project Lock icon is displayed next to the project name and all screens gets frozen](../.gitbook/assets/lock-this-project-1.png)
+
+1. Visit the project that you wish the lock.
+2. Visit the 'Archive &gt; Archive Diagnosis' screen on the left navigation menu of the 'Project View'.
+3. Click the 'Lock this project' button.
+4. Click the 'OK' button in the confirmation alert.
+5. Success message will be displayed on the screen.
+6. You can view the lock icon next to the project name at the top of the screen.
 
 * When you click the archive button, an email address input window appears to confirm your identity.
 * Enter your email address and click the 'Archive' button. 
