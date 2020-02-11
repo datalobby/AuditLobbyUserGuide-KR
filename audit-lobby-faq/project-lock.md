@@ -5,7 +5,7 @@ description: >-
   ‘Administration > Users’ screen.
 ---
 
-# \(Venu/Pending\)"How can I lock the project?"
+# \(Venu/Done\)"How can I lock the project?"
 
 ![Admin users only can lock or unlock the project.](../.gitbook/assets/admin-users-can-lock-the-project.png)
 
@@ -66,6 +66,18 @@ Please be cautious while force closing the files that are opened by others, as t
 6. You can view the orange colored lock icon next to the project name at the top of the screen.
 
 {% hint style="info" %}
-Once the project lock is locked, all screens will be displayed in the read-only mode except the 'Administration &gt; Users' screen.
+Once the project lock is locked:
+
+1. The '‘Lock this project’ button get replaced by ‘Unlock this project’ button. Using this, the project can be unlcoked.
+2. All screens will be displayed in the read-only mode except the 'Administration &gt; Users' screen.
+{% endhint %}
+
+{% hint style="info" %}
+In the locked project, users can perform the activities below.
+
+1. Unlocking of the project.
+2. Exporting of files \(all kinds of export\).
+3. Assign, Edit, Unassign operations on the 'Administration -&gt; Users' screen.
+4. Archiving of the project.
 {% endhint %}
 

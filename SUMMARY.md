@@ -21,7 +21,7 @@
   * [\(Venu/Done\)"How can I replace a file?"](audit-lobby-faq/file-replace.md)
   * [\(Venu/Done\)"How can I edit the project information?"](audit-lobby-faq/project-info-update.md)
   * [\(Venu/Done\)"How can I change the Final Issuance Date?"](audit-lobby-faq/undefined-4.md)
-  * [\(Venu/Pending\)"How can I lock the project?"](audit-lobby-faq/project-lock.md)
+  * [\(Venu/Done\)"How can I lock the project?"](audit-lobby-faq/project-lock.md)
   * [\(ENG\)"How can I assign users to archive admin in my project?"](audit-lobby-faq/undefined-5.md)
   * [\(ENG\)I received "Email is invalid." message.](audit-lobby-faq/.-..md)
   * [\(ENG\)"How can I suspend or remove a user?" - Suspend / Remove User](audit-lobby-faq/suspend-or-remove-user.md)
