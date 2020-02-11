@@ -9,10 +9,8 @@ description: >-
 
 ![Admin users only can lock or unlock the project.](../.gitbook/assets/admin-users-can-lock-the-project.png)
 
-
-
 {% hint style="info" %}
-Only the user who is a 'Project & Archive Admin' and 'Project Admin' can lock or unlcok the project.
+Only the user who is a 'Project & Archive Admin' and 'Project Admin' can lock or unlock the project.
 
 Once the project lock is locked, all screens will be displayed in the read-only mode except the 'Administration &gt; Users' screen.
 {% endhint %}
