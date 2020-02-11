@@ -27,6 +27,10 @@ After visiting the project, they directly view the PBC List screen only. The 'Pr
 
 ## 2. How does the reminder feature work on the PBC List?
 
+![Configure the days for email reminder notifications ](../../.gitbook/assets/reminder-days.png)
+
+![Email reminder notification to the External PBC users \(Clients\)](../../.gitbook/assets/email-notification-to-client-users.png)
+
 1. The 'Reminder \(days\)' is a numeric field and has the sub-columns “B, A, R”.
 2. User can input the zero or bigger values in the "B, A, R" columns. \(Ex: 0, 1, 2, 3, 4...etc\).
 3. **B** stands for ‘Before’, so the first email reminder notification would be sent ‘**\#B**’ days before the 'Due Date'.
@@ -34,7 +38,11 @@ After visiting the project, they directly view the PBC List screen only. The 'Pr
 5. **R** stands for ‘Recur’, so the recursive email reminder notification would be sent for every ‘**\#R**’ days after the ‘\#A’.
 6. The email reminder notifications will be recursively sent to the client users until the 'Status' column of the PBC record is changed to 'Completed'.
 
-![Email reminder notification to the External PBC users \(Clients\)](../../.gitbook/assets/email-notification-to-client-users.png)
+{% hint style="info" %}
+The 'Completed' PBC records will be excluded in the email reminder notifications.
+
+The PBC records that contains 'Notes' will be excluded in the email reminder notifications.
+{% endhint %}
 
 ## 3. Add PBC records
 
