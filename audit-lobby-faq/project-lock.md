@@ -7,8 +7,14 @@ description: >-
 
 # \(Venu/Pending\)"How can I lock the project?"
 
+![Admin users only can lock or unlock the project.](../.gitbook/assets/admin-users-can-lock-the-project.png)
+
+
+
 {% hint style="info" %}
-Only the user who is a 'Project & Archive Admin' and 'Project Admin' can lock the project.
+Only the user who is a 'Project & Archive Admin' and 'Project Admin' can lock or unlcok the project.
+
+Once the project lock is locked, all screens will be displayed in the read-only mode except the 'Administration &gt; Users' screen.
 {% endhint %}
 
 ## 1. Precondition for locking the project
@@ -19,7 +25,7 @@ Only the user who is a 'Project & Archive Admin' and 'Project Admin' can lock th
 2. Without closing the opened files clicking the 'Lock this project’ button displays the alert below.
    * **Alert:** Please close all opened workpapers and permanent files to Lock the Project.
 
-### 1.1. How can I close the opened files?
+### How can I close the opened files?
 
 ![Click &apos;Workpaper File&apos; &amp;gt; Click &apos;Actions&apos; &amp;gt; Select &apos;Opened Workpaper List&apos;](../.gitbook/assets/prerequisites-for-locking-the-project-2.png)
 
@@ -62,25 +68,4 @@ Please be cautious while force closing the files that are opened by others, as t
 4. Click the 'OK' button in the confirmation alert.
 5. Success message will be displayed on the screen.
 6. You can view the lock icon next to the project name at the top of the screen.
-
-### 2.2. While archiving the project.
-
-1. Visit the project that you wish the lock.
-2. Visit the 'Archive &gt; Archive Diagnosis' screen on the left navigation menu of the 'Project View'.
-3. Click the 'Lock this project' button.
-4. Click the 'OK' button in the confirmation alert.
-5. Success message will be displayed on the screen.
-6. You can view the lock icon next to the project name at the top of the screen.
-
-* When you click the archive button, an email address input window appears to confirm your identity.
-* Enter your email address and click the 'Archive' button. 
-* If you click the 'Archive' button project lock window will appear.
-* Click the Lock this Project button.
-
-![Project Home &amp;gt; Archive &amp;gt; Archive Diagnosis &amp;gt; Lock this project](../.gitbook/assets/12.png)
-
-* You can lock the project with the Lock this project button on the Archive Diagnosis screen. This button appears if you are a project administrator \(project admin\) or project & archive admin. 
-* If you lock the project, you cannot change the contents of the workpaper file. 
-* When you lock the project, an orange lock icon appears next to the project title. 
-* If the archive is successful, screen will be switched to the My Page screen and a success notification message will appear.
 
