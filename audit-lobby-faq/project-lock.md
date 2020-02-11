@@ -37,11 +37,13 @@ Only the user who is a 'Project & Archive Admin' and 'Project Admin' can lock th
 8. Choose the 'Select All' checkbox.
 9. Click the 'Force Close' button at the bottom-right of the dialog.
 10. Close the dialog.
-11. Click the 'Permanent File' on the left navigation menu of the 'Project View'.
-12. Click the 'Actions &gt; Opened Permanent File List' at the top of the screen.
 
 {% hint style="info" %}
-Repeat the steps \#3~9 to close the opened permanent files.
+To close the files of 'Permanent File' screen:
+
+1. Click the 'Permanent File' on the left navigation menu of the 'Project View'.
+2. Click the 'Actions &gt; Opened Permanent File List' at the top of the screen.
+3. Repeat the steps \#2~9 to close the opened permanent files.
 {% endhint %}
 
 {% hint style="warning" %}
