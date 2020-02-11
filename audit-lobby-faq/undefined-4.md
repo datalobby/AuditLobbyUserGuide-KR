@@ -1,20 +1,22 @@
 ---
-description: How to change the final issuance date in Project Information.
+description: How to change the Final Issuance Date in the Project Information.
 ---
 
-# \(ENG\)"How can I change the final issuance date?"
+# \(Venu/Done\)"How can I change the Final Issuance Date?"
 
 {% hint style="info" %}
-Only the user who has admin authority can edit the project information.
+Only the user who is a 'Project & Archive Admin' and 'Project Admin' can edit the project information.
 {% endhint %}
 
-![Project view &amp;gt; Project Information &amp;gt; Edit](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LDejfksYfvxJMnGL0LS%2F-Ljt9fdhqtoKFr4P41eB%2F-LjtBNgSYxBr1JFTwjoS%2F2%20copy%206.jpg?alt=media&token=1742b64e-1944-48d6-84ef-942ae3ff1442)
+![Only admin users of the project are allowed to edit the project information](../.gitbook/assets/admin-users.png)
 
-1. Go to Project Information.
-2. Click Edit on the right side of the  project information screen.
+![Visit the &apos;Project Information and click the &apos;Edit&apos; button.](../.gitbook/assets/final-issuance-date.png)
 
-![](../.gitbook/assets/2-copy-26-2.jpg)
+![Input/revise the &apos;Final Issuance Date&apos; and click the &apos;Update&apos; button to save the information.](../.gitbook/assets/final-issuance-date-update.png)
 
-1. You can change the information of final issuance date
-2. Click update button to save the edited information
+1. Visit the project that you wish to update the 'Final Issuance Date'.
+2. Click the 'Project Information' left navigation menu of the 'Project View'.
+3. Click the 'Edit' button on the right side of the screen.
+4. Input/Revise the information for the 'Final Issuance Date'.
+5. Click the 'Update' button to save the edited information.
 
