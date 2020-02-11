@@ -147,6 +147,24 @@ After uploading of requested files, PBC users can send the instant email reminde
 
 ![Click the &apos;Send&apos; button &amp;gt; Click &apos;OK&apos; in the confirmation alert.](../../.gitbook/assets/send-notification-to-auditors.png)
 
+## 6. Edit PBC records
+
+![Find the PBC record &amp;gt; Click the respective cell &amp;gt; Revise the information &amp;gt; Click the &apos;Save changes&apos; link](../../.gitbook/assets/pbc-record-save.png)
+
+1. Find PBC record\(s\) you wish to update.
+2. Click the respective cell, it will be turned to edit mode.
+3. Revise the information as required.
+4. Click the 'Save changes' link at the bottom-right of the screen.
+5. This way, you can revise the information for the required ones and can save all at once.
+
+{% hint style="danger" %}
+You cannot update PBC records information which are 'Completed' state.
+{% endhint %}
+
+{% hint style="info" %}
+Both general auditors and client users can update the information.
+{% endhint %}
+
 ## 6. Change the status of PBC record to 'Completed'
 
 ![Click the &apos;Status&apos; cell &amp;gt; Select &apos;Completed&apos; &amp;gt; Click the &apos;Save changes&apos; link](../../.gitbook/assets/status-change-to-completed.png)
