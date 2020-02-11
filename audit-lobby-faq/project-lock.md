@@ -11,12 +11,42 @@ description: >-
 Only the user who is a 'Project & Archive Admin' and 'Project Admin' can lock the project.
 {% endhint %}
 
-## Project can be locked in two ways
+## 1. Preconditions for locking the project
+
+![All opened files should be closed to lock the project.](../.gitbook/assets/prerequisites-for-locking-the-project-1.png)
+
+1. The prerequisite for the project lock is "All opened files should be closed”.
+2. Without closing the opened files clicking the 'Lock this project’ button displays the alert below.
+   * **Alert:** Please close all opened workpapers and permanent files to Lock the Project.
+
+### 1.1. How can I close the opened files?
+
+![Click &apos;Workpaper File&apos; &amp;gt; Click &apos;Actions&apos; &amp;gt; Select &apos;Opened Workpaper List&apos;](../.gitbook/assets/prerequisites-for-locking-the-project-2.png)
+
+![Click &apos;Opened By Me&apos; &amp;gt; Select all check-box &amp;gt; Click &apos;Close All&apos;](../.gitbook/assets/prerequisites-for-locking-the-project-3.png)
+
+![Click &apos;Opened By Others&apos; &amp;gt; Select all check-box &amp;gt; Click &apos;Force Close&apos;](../.gitbook/assets/prerequisites-for-locking-the-project-4.png)
+
+1. Click the 'Workpaper File' on the left navigation menu of the 'Project View'.
+2. Click the 'Actions &gt; Opened Workpaper List' at the top of the screen.
+3. Check if there any opened files existed on 'Opened By Me' tab.
+4. Choose the 'Select All' checkbox.
+5. Click the 'Close All' button at the bottom-right of the dialog.
+6. Click the 'Opened By Others' tabs.
+7. Check if there any opened files existed.
+8. Choose the 'Select All' checkbox.
+9. Click the 'Force Close' button at the bottom-right of the dialog.
+10. Close the dialog.
+11. Click the 'Permanent File' on the left navigation menu of the 'Project View'.
+12. Click the 'Actions &gt; Opened Permanent File List' at the top of the screen.
+13. Repeat the steps \#3~9 to close the opened permanent files.
+
+## 2. Project can be locked in two ways
 
 1. Using the 'Lock this project' button.
 2. While archiving the project.
 
-### 1. Using the 'Lock this project' button
+### 2.1. Using the 'Lock this project' button
 
 ![Project View &amp;gt; Archive menu &amp;gt; Archive Diagnosis menu &amp;gt; Lock this project button](../.gitbook/assets/lock-this-project.png)
 
