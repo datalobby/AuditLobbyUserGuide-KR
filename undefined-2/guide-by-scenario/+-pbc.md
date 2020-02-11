@@ -165,7 +165,7 @@ You cannot update PBC records information which are 'Completed' state.
 Both general auditors and client users can update the information.
 {% endhint %}
 
-## 6. Change the status of PBC record to 'Completed'
+## 7. Change the status of PBC record to 'Completed'
 
 ![Click the &apos;Status&apos; cell &amp;gt; Select &apos;Completed&apos; &amp;gt; Click the &apos;Save changes&apos; link](../../.gitbook/assets/status-change-to-completed.png)
 
@@ -188,5 +188,16 @@ The 'Completed' PBC records would be excluded in the email reminder notification
 Once the status is changed to 'Completed' and saved, you cannot roll back and update any of its information. Hence, please be cautious while changing the status.
 {% endhint %}
 
+## 8. Delete PBC records
 
+![Find the PBC record &amp;gt; Click the &apos;Delete&apos; icon in the Actions column &amp;gt; Click &apos;OK&apos; in the delete confirmation alert](../../.gitbook/assets/delete-pbc-records.png)
+
+1. Find the PBC record that you wish to delete.
+2. Click the 'Delete' icon under the 'Actions; column.
+3. Click the 'OK' button in the confirmation alert.
+4. You can observe that the corresponding record will be disappeared from the screen.
+
+{% hint style="info" %}
+Admin users can restore the deleted PBC records from the 'Trash' screen of the 'Project View'.
+{% endhint %}
 
