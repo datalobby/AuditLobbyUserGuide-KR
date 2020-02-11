@@ -11,8 +11,6 @@ description: >-
 
 {% hint style="info" %}
 Only the user who is a 'Project & Archive Admin' and 'Project Admin' can lock or unlock the project.
-
-Once the project lock is locked, all screens will be displayed in the read-only mode except the 'Administration &gt; Users' screen.
 {% endhint %}
 
 ## 1. Precondition for locking the project
@@ -65,5 +63,9 @@ Please be cautious while force closing the files that are opened by others, as t
 3. Click the 'Lock this project' button.
 4. Click the 'OK' button in the confirmation alert.
 5. Success message will be displayed on the screen.
-6. You can view the lock icon next to the project name at the top of the screen.
+6. You can view the orange colored lock icon next to the project name at the top of the screen.
+
+{% hint style="info" %}
+Once the project lock is locked, all screens will be displayed in the read-only mode except the 'Administration &gt; Users' screen.
+{% endhint %}
 
