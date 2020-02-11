@@ -39,7 +39,14 @@ Only the user who is a 'Project & Archive Admin' and 'Project Admin' can lock th
 10. Close the dialog.
 11. Click the 'Permanent File' on the left navigation menu of the 'Project View'.
 12. Click the 'Actions &gt; Opened Permanent File List' at the top of the screen.
-13. Repeat the steps \#3~9 to close the opened permanent files.
+
+{% hint style="info" %}
+Repeat the steps \#3~9 to close the opened permanent files.
+{% endhint %}
+
+{% hint style="warning" %}
+Please be cautious while force closing the files that are opened by others, as they may lose their changes.
+{% endhint %}
 
 ## 2. Project can be locked in two ways
 
