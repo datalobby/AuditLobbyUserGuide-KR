@@ -1,35 +1,51 @@
 ---
-description: How to give the archive admin role to a project team member.
+description: How to give the archive admin permission to a project team member.
 ---
 
-# \(ENG\)"How can I assign users to archive admin in my project?"
+# \(Venu/Done\)"How can I assign the archive admin to a project?"
 
-1. Click the 'Administration' button from the left menu column of the Project View.
+1. Click the 'Administration' on the left menu menu of the 'Project View'.
 2. Click the 'Users' button under 'Administration'.
 3. Click the 'Assign User' button at the bottom right of the page.
 
-![Project Home &amp;gt; Administration &amp;gt; Users &amp;gt; Assign User](../.gitbook/assets/5-1-05.jpg)
+![Project View &amp;gt; Administration &amp;gt; Users &amp;gt; Assign User](../.gitbook/assets/admin-assign-user.png)
 
-![Select Project Access Type &amp;gt; Click Assign Button](../.gitbook/assets/2-copy-27.jpg)
+![Select &apos;Project Access Type&apos; &amp;gt; Click &apos;Assign&apos; Button](../.gitbook/assets/assign-user-project-access-type%20%281%29.png)
 
-The Project Access Type field is where you set the level of authority in the project.
+The 'Project Access Type' is a field where you set the level of authority in the project.
 
-## 1. Project & Archive Admin
+## 1. Project & Archive Admin 
 
-* The user becomes a project manager and gets authority to archive.
-* The user gets the project manager authority.
-* The user can archive a project.
+* The user who is set with the 'Project & Archive Admin' will have complete control over the project.
+* The user gets the project manager authority
+* The user gets the authority to archive the project.
+* The user has more crucial permissions within the project and can do anything within the project.
+* The major permissions are:
+  * Archive the project.
+  * Assign, Edit, Deactivate/ Activate, Unassign the user.
+  * Edit the Project Information.
+  * Lock/ Unlock the project.
+  * Permanent delete the trashed items.
+  * Force close the opened workpaper or permanent files.
+  * Delete the Review Comments on behalf of other users.
 
 ## 2. Project Admin
 
 * The user gets the project manager authority.
-  * The user can assign and unassign users to the project.
-* The user cannot archive the project.
+* The user **cannot** archive the project.
+* The major permissions are:
+  * Archive the project.
+  * Assign, Edit, Deactivate/ Activate, Unassign the user.
+  * Edit the Project Information.
+  * Lock/ Unlock the project.
+  * Permanent delete the trashed items.
+  * Force close the opened workpaper or permanent files.
+  * Delete the Review Comments on behalf of other users.
 
-## 3. Project User
+## 3. Project User 
 
-* The user becomes a project user.
-  * The user can create and edit a workpaper. 
-  * The user can sign off a workpaper.
-* The user cannot archive the project.
+* The 'Project User' doesn’t have access to any of the above permissions.
+* The user can create and edit a workpaper.
+* The user can sign off a workpaper.
+* The user **cannot** archive the project.
 

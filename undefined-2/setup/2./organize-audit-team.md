@@ -24,7 +24,7 @@ You cannot find the users who are not assigned to the group on the 'Assign User'
 3. The 'Users' screen will be opened.
 4. Click the 'Assign User' button at the bottom-right of the screen.
 
-![](../../../.gitbook/assets/admin-assign-user.png)
+![](../../../.gitbook/assets/admin-assign-user%20%281%29.png)
 
 ## 2. Select the User Email  
 
