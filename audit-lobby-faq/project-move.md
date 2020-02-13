@@ -2,7 +2,7 @@
 description: How to move the project to another location in the cabinet.
 ---
 
-# \(ENG\)"I want to move the project.."
+# \(ENG\)"I want to move the project."
 
 ## 1. Select the project you want to move.
 
