@@ -71,7 +71,7 @@ When you try to add an user with the email of deleted user, then an alert will b
 * Change the email id and click the 'Add User' button.
 {% endhint %}
 
-![Add User button &amp;gt; Input the removed user&apos;s email id &amp;gt; Add User button &amp;gt; See the warning message &amp;gt; RESTORE USER button](../.gitbook/assets/assets_-ly-haiseotwo-cbgz7e_-lzgnn4wpsaqkisgvzzj_-lzgr5bcy-gog9i18r1u_remove-and-add-user.png)
+![Add User button &amp;gt; Input the removed user&apos;s email id &amp;gt; Add User button &amp;gt; See the warning message &amp;gt; RESTORE USER button](../.gitbook/assets/assets_-ly-haiseotwo-cbgz7e_-lzgnn4wpsaqkisgvzzj_-lzgr5bcy-gog9i18r1u_remove-and-add-user%20%281%29.png)
 
 ## 3. Restore suspended user account.
 
@@ -103,5 +103,5 @@ Deleted user can not be restored. But they can be re-added again.
 5. Click the 'Restore User' button if you want to re-add \(activate\) the user.
 {% endhint %}
 
-![](../.gitbook/assets/assets_-ly-haiseotwo-cbgz7e_-lzgnn4wpsaqkisgvzzj_-lzgr5bcy-gog9i18r1u_remove-and-add-user%20%281%29.png)
+![](../.gitbook/assets/assets_-ly-haiseotwo-cbgz7e_-lzgnn4wpsaqkisgvzzj_-lzgr5bcy-gog9i18r1u_remove-and-add-user%20%282%29.png)
 
