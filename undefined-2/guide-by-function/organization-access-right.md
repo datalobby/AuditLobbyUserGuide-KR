@@ -272,7 +272,7 @@ Deleted user can not be restored. But they can be re-added again.
 
 ## 7. Remove \(Delete\) User
 
-> Using this, you can delete the user your the user permanently. Only Super Admin has access to delete the user.
+> Using this, you can delete the user from your organization permanently. Only Super Admin has access to delete the user.
 >
 > * The sign-off and activity history of the deleted user will be preserved in the Audit Lobby.
 > * If a project with a deleted user is archived, the user is recorded as deleted.
