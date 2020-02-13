@@ -8,7 +8,7 @@ description: >-
 
 ## Summary
 
-![Organization View &amp;gt; Set Up &amp;gt; Users](../../.gitbook/assets/set-up-users.png)
+![Organization View &amp;gt; Set Up &amp;gt; Users](../../.gitbook/assets/set-up-users%20%282%29.png)
 
 The CPA \(Certified Public Accountant\) Firm must control who can create projects and who can access projects. Therefore, before a project can be created, the CPA firm must first designate users that can access ALL projects or Group level only.
 

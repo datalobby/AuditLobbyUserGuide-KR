@@ -24,7 +24,7 @@
   * [\(Venu/Done\)"How can I lock the project?"](audit-lobby-faq/project-lock.md)
   * [\(Venu/Done\)"How can I assign the archive admin to a project?"](audit-lobby-faq/undefined-5.md)
   * [\(Venu/Done\)I received "Email is invalid." message.](audit-lobby-faq/.-..md)
-  * [\(ENG\)"How can I suspend or remove a user?" - Suspend / Remove User](audit-lobby-faq/suspend-or-remove-user.md)
+  * [\(Venu/Pending\)"How can I suspend or remove a user?" - Suspend / Remove User](audit-lobby-faq/suspend-or-remove-user.md)
   * [\(ENG\)"I want to move the project.."](audit-lobby-faq/project-move.md)
   * [\(ENG\*\)"I want to attach multiple files to one audit workpaper."](audit-lobby-faq/.-2.md)
   * [\(ENG\)"How do I edit the text in the Online Editor \(DevExpress\)?"](audit-lobby-faq/dev-express.md)

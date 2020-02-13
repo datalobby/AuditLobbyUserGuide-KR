@@ -1,10 +1,10 @@
 ---
-description: How to Suspend or remove users from the Audit lobby.
+description: How to Suspend or Remove users from the Audit lobby.
 ---
 
-# \(ENG\)"How can I suspend or remove a user?" - Suspend / Remove User
+# \(Venu/Pending\)"How can I suspend or remove a user?" - Suspend / Remove User
 
-If the user has left the company or needs to restrict access to the app for other reasons, you can block the user or delete the account. However, if you delete an account, you will not be able to re-enroll with the same email.
+If the user has left the company or needs to restrict access to the app for other reasons, you can block the user or delete the account.
 
 ## Summary 
 
@@ -29,36 +29,37 @@ If the user has left the company or needs to restrict access to the app for othe
 
 ## 2. Suspend the user.
 
-{% hint style="info" %}
-* Blocked users will not be able to log in to the audit lobby
-* Blocked users are deactivated within the project
-* The sign-off and activity of the blocked user is preserved
-* Blocked users can be recovered again
-{% endhint %}
+> Using this, you can disable \(block\) the user temporarily. Only Super Admin has access to disable the user information.
+>
+> * Blocked users will not be able to log in to the Audit Lobby.
+> * Blocked users are deactivated inside the project.
+> * The sign-off and activity of the blocked user are preserved.
+> * Blocked users can be restored again.
 
+![&apos;Set Up&apos; menu &amp;gt; &apos;Users&apos; tab &amp;gt; Find user &amp; Click the three dots button &amp;gt; Select &apos;Suspend&apos;](../.gitbook/assets/set-up-users.png)
 
+![Click the &apos;SUSPEND&apos; button to block the user](../.gitbook/assets/set-up-users-2.png)
 
-![1. Organization Menu &amp;gt; Set Up &amp;gt; User ](../.gitbook/assets/remove_user_01.jpg)
+1. Click the 'Set Up' in the left navigation menu of the 'Organization View'.
+2. Select the 'Users' tab at the top of the screen.
+3. Click the three dots button of the user that you wish to Suspend.
+4. A list of action items will be displayed.
+5. Select the 'Suspend' option.
+6. The 'Suspend User' confirmation dialog will be displayed.
+7. Click the 'SUSPEND' button in the confirmation to disable the user.
+8. After suspending the user, you can witness the changes below:
+   * The user record will be displayed in a grayed-out color.
+   * The status of the user gets changed to 'Disabled' from the 'Enabled'.
+   * The user will be deactivated inside all assigned projects.
+9. Suspended users cannot log in to the application.
 
-1. From the menu of corporation screen, select 'Setup'
-2. At the top of the screen, select the "Users" tab
-3. Click the button with the three dots at the right end of the user you want to block
+> If a user is assigned to at least one project, then one more additional confirmation alert gets displayed that shows the list of assigned projects to the user.
+>
+> * Click the 'SUSPEND' button in the confirmation to disable \(block\) the user.
+> * Blocked users will be auto-deactivated inside all assigned projects.
+> * Signed-off and activity history of blocked users will be preserved in Audit Lobby.
 
-![2. Click Right Side of the User and select Suspend button. ](../.gitbook/assets/remove_user_02.jpg)
-
-* When you click the button, 'Edit' and 'Suspend' will be displayed
-* 'Select 'Suspend'
-
-![3. List of projects that the user is assigned in the warning message](../.gitbook/assets/remove_user_03.jpg)
-
-1. When the 'Are you sure you want to block this user?' warning appears, press 'Suspend'
-2. If the user is assigned to a project, a list of assigned projects appears. Press 'Suspend' to continue
-
-   > * You can block users even if they have an assigned project. Blocked users are deactivated inside assigned projects
-   > * Signed-offs and activity history for blocked users remain in Audit Lobby
-   > * If a project with blocked users is archived, the user is logged as blocked
-
-![Grayed-Out User with the success message \(Green\) ](../.gitbook/assets/remove_user_04.jpg)
+![An additional alert will be displayed if the user assigned to at least one project &amp;gt; Click the &apos;SUSPEND&apos; button](../.gitbook/assets/set-up-users-3.png)
 
 ## 3. Remove the user.
 
