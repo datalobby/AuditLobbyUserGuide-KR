@@ -93,15 +93,33 @@ When you try to add an user with the email of deleted user, then an alert will b
 
 ## Restore suspended user account.
 
-{% hint style="danger" %}
-* Deleted user can not be restored
-{% endhint %}
+> Using this, you can restore the user who got suspended, so that the user will be an active user in your firm.
+>
+> Restored users can log in to the Audit Lobby, but are still disabled inside projects. After restoring the user, activate the user within the project that you want to grant access to.
+
+![Find user you wish to Restore &amp;gt; Three dots button &amp;gt; Restore option &amp;gt; RESTORE USER button](../.gitbook/assets/assets_-ly-haiseotwo-cbgz7e_-lzg6sl85tqq__fduumm_-lzgarxhrqvifyqlm-py_restore-1.png)
+
+![Click the &apos;RESTORE USER&apos; button in the confirmation alert to restore the user](../.gitbook/assets/assets_-ly-haiseotwo-cbgz7e_-lzg6sl85tqq__fduumm_-lzgafxunik9qxhsko7y_restore-2.png)
+
+1. Click the three dots button of the user that you wish to 'Restore'.
+2. A list of action items will be displayed.
+3. Click the 'Restore' option.
+4. The 'Restore User!' confirmation dialog will be displayed.
+5. Clicking the 'RESTORE USER' button in the confirmation alert restores the user.
+6. After the restoring the user, you can witness the following changes:
+   * The status of the user changes to 'Enabled' from the 'Disabled'.
+   * The user record turns to normal color from the gray color.
+   * Still, the status of the user is 'Inactive' if in case he was assigned to any project\(s\) during the Suspend time.
 
 {% hint style="info" %}
-* Recovered users can log in to the Idlo lobby, but are still disabled within individual projects. After restoring the user, activate the user within the project that you want to grant access to
+Deleted user can not be restored. But they can be re-added again.
+
+1. Click the 'Add User' button.
+2. Enter the deleted user's email id and other details.
+3. Click the 'Add User' button.
+4. The 'Restore User!' alert will be displayed.
+5. Click the 'Restore User' button if you want to re-add \(activate\) the user.
 {% endhint %}
 
-![Click Restore of the deactivated user. ](../.gitbook/assets/restore_user_01.jpg)
-
-![Click Restore the user. ](../.gitbook/assets/restore_user_02.jpg)
+![](../.gitbook/assets/assets_-ly-haiseotwo-cbgz7e_-lzgnn4wpsaqkisgvzzj_-lzgr5bcy-gog9i18r1u_remove-and-add-user%20%281%29.png)
 
