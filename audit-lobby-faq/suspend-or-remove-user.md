@@ -48,7 +48,7 @@ If the user has left the company or needs to restrict access to the app for othe
 
 ## 2. Remove \(delete\) the user.
 
-> Using this, you can delete the user your the user permanently. Only Super Admin has access to delete the user.
+> Using this, you can delete the user from your organization permanently. Only Super Admin has access to delete the user.
 >
 > * The sign-off and activity history of the deleted user will be preserved in the Audit Lobby.
 > * If a project with a deleted user is archived, the user is recorded as deleted.
