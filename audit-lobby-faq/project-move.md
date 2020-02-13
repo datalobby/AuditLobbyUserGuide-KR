@@ -1,22 +1,29 @@
 ---
-description: How to move the project to another location in the cabinet.
+description: This article illustrates moving a project from one location to another.
 ---
 
-# \(ENG\)"I want to move the project."
+# \(Venu/Pending\)"How can I move the project."
 
-## 1. Select the project you want to move.
+## 1. Navigate to the projects screen from the 'Groups' the left navigation menu.
 
-## 2. Click the "Move" button at the top of the screen.
+## 2. Select the project that you wish to move.
+
+## 3. Click the "Move" button at the top of the screen.
 
 ![](../.gitbook/assets/image-42.png)
 
-## 3. Confirm the warning and press OK.
+## 4. Read the warning message and click the 'OK button.
 
 ![](../.gitbook/assets/image-162.png)
 
-## 4. Double-click the folder to move the project.
+## 5. Double-click the folder to move the project.
 
-If you select a folder according to the folder structure, nothing may appear on the screen. Project movement works normally.
+1. A dialog will be opened that shows groups.
+2. Double-click the intended group.
+3. A list of cabinets belongs the the group will be displayed.
+4. This way, navigate to the intended cabinet and select it.
+5. Click the 'Move' button the left-bottom of the dialog.
+6. If you select a folder according to the folder structure, nothing may appear on the screen. Project movement works normally.
 
 
 
