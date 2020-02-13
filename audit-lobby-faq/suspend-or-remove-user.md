@@ -61,23 +61,35 @@ If the user has left the company or needs to restrict access to the app for othe
 
 ![An additional alert will be displayed if the user assigned to at least one project &amp;gt; Click the &apos;SUSPEND&apos; button](../.gitbook/assets/set-up-users-3.png)
 
-## 3. Remove the user.
+## 3. Remove \(delete\) the user.
 
-{% hint style="danger" %}
-* You must "block" users before you can "delete" them. Please first "block" the user to be deleted
-* Deleted users can not be recovered. Be careful when erasing
-* If a project with a deleted user is archived, the user is recorded as deleted
-{% endhint %}
+> Using this, you can delete the user your the user permanently. Only Super Admin has access to delete the user.
+
+![Find the user you wish to Remove &amp;gt; Three dots button &amp;gt; Remove option](../.gitbook/assets/assets_-ly-haiseotwo-cbgz7e_-lzgjxagwtbaufg-owfg_-lzgmmjuw_cqanxd7rbn_remove-1.png)
+
+![Clicking the &apos;REMOVE USER&apos; button removes the user from the Users screen](../.gitbook/assets/assets_-ly-haiseotwo-cbgz7e_-lzgjxagwtbaufg-owfg_-lzgmswdqzbwvdf2bqbv_remove-2.png)
+
+1. In order to remove a user from the Organization, first the user needs to be 'Suspended'.
+2. Click the three dots button of the user that you wish to remove.
+3. A list of action items will be displayed.
+4. Click the 'Remove' option.
+5. The 'Remove User' confirmation dialog will be displayed.
+6. Clicking the 'REMOVE' button in the confirmation alert removes \(disappears\) the user from the 'Users' screen.
 
 {% hint style="info" %}
-* The sign-off and activity history of the deleted user is retained
+The sign-off and activity history of the deleted user will be preserved in the Audit Lobby.
+
+If a project with a deleted user is archived, the user is recorded as deleted.
 {% endhint %}
 
-![1. Select the user to remove and Click Remove button. ](../.gitbook/assets/remove_user_05.jpg)
+{% hint style="warning" %}
+When you try to add an user with the email of deleted user, then an alert will be prompted to you saying that "A user with the same Email already existed in the Deleted status. Please click on Restore User to enable the user or try with different Email".
 
-![2. Click Remove User to proceed. ](../.gitbook/assets/remove_user_06.jpg)
+* Click the 'Restore User' button if you want to activate the user. \[OR\]
+* Change the email id and click the 'Add User' button.
+{% endhint %}
 
-![3. The user will be removed with the success message \(Green\). ](../.gitbook/assets/remove_user_07.jpg)
+![Add User button &amp;gt; Input the removed user&apos;s email id &amp;gt; Add User button &amp;gt; See the warning message &amp;gt; RESTORE USER button](../.gitbook/assets/assets_-ly-haiseotwo-cbgz7e_-lzgnn4wpsaqkisgvzzj_-lzgr5bcy-gog9i18r1u_remove-and-add-user.png)
 
 ## Restore suspended user account.
 
