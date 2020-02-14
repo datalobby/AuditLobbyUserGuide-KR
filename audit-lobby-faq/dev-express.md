@@ -8,6 +8,8 @@ description: Online text editor for Excel
 
 ## 1. File, Home
 
+## 2. Double-click the file that you wish to edit, it will be opened in a new tab.
+
 ![Microsoft Office Excel &#xB9C8;&#xC774;&#xD06C;&#xB85C;&#xC18C;&#xD504;&#xD2B8; &#xC624;&#xD53C;&#xC2A4; &#xC5D1;&#xC140; &#xBA54;&#xB274; 1: &#xD648; ](../.gitbook/assets/excel-menu_home.png)
 
 ![Dev Express &#xC628;&#xB77C;&#xC778; &#xC5D1;&#xC140; &#xBA54;&#xB274; 1: &#xD30C;&#xC77C; ](../.gitbook/assets/devexpress-menu_file.png)
