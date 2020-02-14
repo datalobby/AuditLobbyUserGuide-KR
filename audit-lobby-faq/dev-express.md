@@ -2,7 +2,9 @@
 description: Online text editor for Excel
 ---
 
-# \(ENG\)"How do I edit the text in the Online Editor \(DevExpress\)?"
+# \(Venu/Pending\)"How do I edit the text in the Online Editor \(DevExpress\)?"
+
+## 1. Only Excel & Word files can be edited in the Online Editor.
 
 ## 1. File, Home
 
