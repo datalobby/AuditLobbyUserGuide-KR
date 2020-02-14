@@ -42,5 +42,7 @@ If you move a project from Group-A to Group-B, then automatically all assigned u
 
 {% hint style="warning" %}
 You can move only the project of type 'Normal'. The Replica, Archived, Unarchived projects cannot be moved to another cabinet or group.
+
+As we have been receiving the feedback to provide the move feature for Replica, Archived, Unarchived projects, will provide move for these projects types to a different cabinet but within the same group itself. 
 {% endhint %}
 
