@@ -2,7 +2,7 @@
 description: This article illustrates moving a project from one location to another.
 ---
 
-# \(Venu/Done\)"How can I move the project."
+# \(Venu/Pending\)"How can I move the project."
 
 ## 1. Navigate to the projects screen from the 'Groups' the left navigation menu.
 
@@ -15,10 +15,6 @@ description: This article illustrates moving a project from one location to anot
 ![](../.gitbook/assets/move-project-2.png)
 
 ## 4. Read the warning message and click the 'OK button.
-
-{% hint style="info" %}
-If you move a project from Group-A to Group-B, then automatically all assigned users of the project will be mapped to the Group-B.
-{% endhint %}
 
 ![](../.gitbook/assets/move-project-3.png)
 
@@ -38,17 +34,5 @@ If you move a project from Group-A to Group-B, then automatically all assigned u
 1. Click the 'Move' button at the left-bottom of the dialog.
 2. Please wait until the red loading bar is finished at the top of the screen.
 3. A success message will be displayed at the top right of the screen.
-4. The project will be moved to the respective cabinet you selected.
-
-{% hint style="warning" %}
-You can move only the project of type 'Normal'. The Replica, Archived, Unarchived projects cannot be moved to another cabinet or group.
-{% endhint %}
-
-{% hint style="info" %}
-The project can be moved only by the Super Admin, and Group Admin who is the creator of the project.
-{% endhint %}
-
-{% hint style="info" %}
-We have been getting the feedback for enabling the move for Replica, Archived, Unarchived projects. Hence, moving of these project types will be considered in the future release, but the move can be done to another cabinet of the same group only.
-{% endhint %}
+4. The project will be moved to the respective cabinet you selected
 

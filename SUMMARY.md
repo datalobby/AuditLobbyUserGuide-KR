@@ -26,7 +26,7 @@
   * [\(Venu/Done\)I received "Email is invalid." message.](audit-lobby-faq/.-..md)
   * [\(Venu/Done\)"How can I suspend or remove a user?" - Suspend / Remove User](audit-lobby-faq/suspend-or-remove-user.md)
   * [\(Venu/Done\)"How can I move the project."](audit-lobby-faq/project-move.md)
-  * [\(ENG\*\)"I want to attach multiple files to one audit workpaper."](audit-lobby-faq/.-2.md)
+  * [\(Venu/Pending\*\)"I want to attach multiple files to one audit workpaper."](audit-lobby-faq/.-2.md)
   * [\(ENG\)"How do I edit the text in the Online Editor \(DevExpress\)?"](audit-lobby-faq/dev-express.md)
   * [\(ENG\)"What should I do when my verification code expires?"](audit-lobby-faq/undefined-1.md)
   * [\(ENG\)"I have deleted 'Verification Code' or 'Temporary Password' e-mail."](audit-lobby-faq/.-1.md)
