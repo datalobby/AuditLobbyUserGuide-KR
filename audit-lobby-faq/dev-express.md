@@ -4,9 +4,9 @@ description: Online text editor for Excel
 
 # \(Venu/Done\)"How do I edit the text in the Online Editor \(DevExpress\)?"
 
-## 1. Only Excel & Word files can be edited in the Online Editor.
-
-## 2. Double-click the file that you wish to edit, it will be opened in a new tab.
+> * Only Excel & Word files can be edited in the Online Editor.
+> * Pdf file cannot be edited, but replaced with a new pdf file.
+> * Double-click the file that you wish to edit, it will be opened in a new tab.
 
 ## 1. File, Home
 
