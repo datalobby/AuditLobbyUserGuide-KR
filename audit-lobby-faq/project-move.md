@@ -2,7 +2,7 @@
 description: This article illustrates moving a project from one location to another.
 ---
 
-# \(Venu/Pending\)"How can I move the project."
+# \(Venu/Done\)"How can I move the project."
 
 ## 1. Navigate to the projects screen from the 'Groups' the left navigation menu.
 
