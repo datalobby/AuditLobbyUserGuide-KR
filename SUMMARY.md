@@ -29,7 +29,7 @@
   * [\(Venu/Done\)"I want to attach multiple files to one audit workpaper."](audit-lobby-faq/.-2.md)
   * [\(Venu/Done\)"How do I edit the text in the Online Editor \(DevExpress\)?"](audit-lobby-faq/dev-express.md)
   * [\(Venu/Done\)"What should I do when my verification code expires?"](audit-lobby-faq/undefined-1.md)
-  * [\(ENG\)"I have deleted 'Verification Code' or 'Temporary Password' e-mail."](audit-lobby-faq/.-1.md)
+  * [\(Venu/Done\)"I have deleted the 'Verification Code' or 'Temporary Password' e-mail."](audit-lobby-faq/.-1.md)
   * [\(ENG\)"If you forgot your password"](audit-lobby-faq/.-4.md)
   * [\(ENG\)"Favorites does not work."](audit-lobby-faq/undefined.md)
   * [\(ENG\)"The screen does not appear."](audit-lobby-faq/untitled.md)
