@@ -33,7 +33,7 @@
   * [\(Venu/Pending\)"If you forgot your password"](audit-lobby-faq/.-4.md)
   * [\(ENG\)"Favorites does not work."](audit-lobby-faq/undefined.md)
   * [\(Venu/Done\)"The screen does not appear."](audit-lobby-faq/untitled.md)
-  * [\(Venu/Pending\)"I cannot log in to the Sync Lobby."](audit-lobby-faq/synclobby.md)
+  * [\(Venu/Done\)"I cannot log in to the Sync Lobby."](audit-lobby-faq/synclobby.md)
   * [\(ENG\)"Web browser is abruptly closed when uploading the file."](audit-lobby-faq/undefined-2.md)
   * [\(Venu/Done\)"I can't find the project while trying to Roll Forward"](audit-lobby-faq/undefined-6.md)
   * [\(Venu/Done\)All information is entered on the Create Project, but it does not go to the next step.](audit-lobby-faq/1..md)

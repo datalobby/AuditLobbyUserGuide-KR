@@ -4,7 +4,7 @@ description: >-
   password then, please follow the steps below.
 ---
 
-# \(Venu/Pending\)"I cannot log in to the Sync Lobby."
+# \(Venu/Done\)"I cannot log in to the Sync Lobby."
 
 ## I can't log in to Sync Lobby after the version is updated.
 
