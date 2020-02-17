@@ -2,31 +2,31 @@
 description: How to resolve the situation where the screen does not appear.
 ---
 
-# \(ENG\)"The screen does not appear."
+# \(Venu/Done\)"The screen does not appear."
 
 There are two major situations where the Lobby screen does not appear. 
 
-1. If you are using an Internet Explorer browser and not a Chrome browser
+1. If you are using a browser other than Chrome.
 2. If the cache update requires a system update
 
-## 1.  You are accessing Audit Lobby using a web browser other than Chrome, such as Internet Explorer
+## 1.  You are accessing Audit Lobby using a web browser other than Chrome, such as Internet Explorer.
 
-It is optimized for the 'Chrome' web browser provided by Google. Please access the Donation Lobby via the Chrome browser.
+Audit Lobby is optimized for the 'Chrome' web browser provided by Google. Please access it using the Chrome browser only.
 
 [Guidance of Install Google Chrome](../undefined-2/setup/0.-2/)
 
 ## 2. The screen does not appear after system update
 
-We are constantly working to reflect user feedback in Audit Lobby. It seems that sometimes the screen does not appear depending on your computer environment since the update was applied.
+When new features of Audit Lobby will be released, it seems that sometimes the screen might not appear, if the new updates are not reflected in your browser.
 
 In this case, please take the following measures. 
 
-1. Log out and log back in
-2. If you try to sign in again after signing out and the problem persists
-   1. **Windows** OS users: Press **control + shift + r** on your keyboard. The Chrome Web site will be **"Strongly Refreshed"** and the update will be reflected normally
-   2. **Mac** OS users: Press **Command + Shift + r** on your keyboard. The Chrome Web site will be **"Strongly Refreshed"** and the update will be reflected normally
+1. Log out from the application.
+2. Please do the following based on your computer OS.
+   1. **Windows** OS users: Press **control + shift + r** on your keyboard. The Chrome Web site will be **"Hardly Refreshed"** and the updates will be reflected automatically.
+   2. **Mac** OS users: Press **Command + Shift + r** on your keyboard. The Chrome Web site will be **"Hardly Refreshed"** and the updates will be reflected automatically.
 
-We are working on ways to apply the update without any action.
+We are working on the ways to apply updates without any action.
 
 ## 3. Screen does not appear in other situations
 

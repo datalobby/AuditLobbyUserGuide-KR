@@ -32,7 +32,7 @@
   * [\(Venu/Done\)"I have deleted the 'Verification Code' or 'Temporary Password' e-mail."](audit-lobby-faq/.-1.md)
   * [\(Venu/Pending\)"If you forgot your password"](audit-lobby-faq/.-4.md)
   * [\(ENG\)"Favorites does not work."](audit-lobby-faq/undefined.md)
-  * [\(ENG\)"The screen does not appear."](audit-lobby-faq/untitled.md)
+  * [\(Venu/Done\)"The screen does not appear."](audit-lobby-faq/untitled.md)
   * [\(ENG\)"I cannot log into the Sync Lobby."](audit-lobby-faq/synclobby.md)
   * [\(ENG\)"Web browser is abruptly closed when uploading the file."](audit-lobby-faq/undefined-2.md)
   * [\(Venu/Done\)"I can't find the project while trying to Roll Forward"](audit-lobby-faq/undefined-6.md)
