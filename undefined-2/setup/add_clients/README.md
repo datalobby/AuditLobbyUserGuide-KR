@@ -22,7 +22,7 @@ description: >-
 2. Click the 'Clients' tab at the top of the 'Set Up' page.
 3. Click the 'Create Client' button at the top right of the page.
 
-![](../../../.gitbook/assets/add_client_1.jpg)
+![](../../../.gitbook/assets/set-up-clients%20%281%29.png)
 
 1. Enter the 'Client Name'.
 2. Enter the 'Client ID'.
@@ -30,9 +30,9 @@ description: >-
 
 > Enter a Client ID that follows the naming rules of your firm, but if there is no rule just enter a random ID.
 
-![](../../../.gitbook/assets/add_client_2.jpg)
+![](../../../.gitbook/assets/set-up-create-client.png)
 
-![You will see a success message in the upper right corner of the screen.](../../../.gitbook/assets/a_3_3.jpg)
+![](../../../.gitbook/assets/set-up-create-client-success-message.png)
 
 ## 2. Edit / Delete Client 
 
