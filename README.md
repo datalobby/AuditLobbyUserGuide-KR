@@ -2,7 +2,7 @@
 description: Audit LOBBY User Guide
 ---
 
-# Audit LOBBY \(BO/To Update\)
+# Audit LOBBY
 
 ## 8월 어딧로비 업데이트
 

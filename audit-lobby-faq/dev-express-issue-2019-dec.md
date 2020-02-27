@@ -55,8 +55,6 @@ In Workpapers Screen, click Opened Workpaper List \(Actions &gt; Opened Workpape
 
 ![](../.gitbook/assets/image-119.png)
 
-아래와 같이 열려있는 조서 항목이 나타나 '닫기' 또는 '모두 닫기' 버튼을 눌러 열려있는 문서를 닫습니다.
-
 An open file list\(By me/By others\) will appear as shown below and **click the Close or Close All button** to close the open document.
 
 ![](../.gitbook/assets/image-73.png)
