@@ -101,7 +101,11 @@ Users who are not assigned to the group will not appear in the list of users who
 {% endhint %}
 
 {% hint style="info" %}
-Users who are not assigned to the group will not be able to view the list and contents of projects of the group. 
+Users who are not assigned to the group will not appear in the 'Email' field of the 'Administration &gt; Users' screen of the Project View.
+{% endhint %}
+
+{% hint style="info" %}
+Users who are not assigned to the group will not be able to view the list and contents of the projects of the group.
 {% endhint %}
 
 
