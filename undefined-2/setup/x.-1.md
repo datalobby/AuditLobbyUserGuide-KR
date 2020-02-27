@@ -44,9 +44,9 @@ The Audit LOBBY system is divided into two parts: Organization and Project funct
 
 Enter the name, user ID, email address. Later, the User ID will be used to distinguish users more easily. It is recommended to use Alphabets for the User ID.
 
-![Only the Super Admin who is an Archive Manager can provide Archive Manager permission to other Super Admins](../../.gitbook/assets/set-up-am.png)
-
 ### 1-2. Select the Access Right as 'Super Admin'.
+
+![Only the Super Admin who is an Archive Manager can provide Archive Manager permission to other Super Admins](../../.gitbook/assets/set-up-am.png)
 
 ### 1-3. Select whether the user has the right to be an Archive Manager or not.
 
@@ -62,35 +62,35 @@ If you are an Archive Manager, then only you can provide 'Archive Manager' permi
 
 ## 2. Group Admin User Registration
 
-> Notice: only the Super Admin users can add users. Group Admin users and User Access users cannot add users.
+> Note: Only the Super Admin users can add users. Group Admin users and User Access users cannot add users.
 
 ### 2-1. Enter the basic personal information.  
 
-Enter the name, user ID, email address. User ID will later be used to distinguish users more easily. Alphabet initials are recommended.
+Enter the name, user ID, email address. Later, the User ID will be used to distinguish users more easily. It is recommended to use Alphabets for the User ID.
 
-![](../../.gitbook/assets/add_user_ga.jpg)
+### 2-2. Select the 'Org. Access Right' as 'Group Admin'.
 
-### 2-2. Select the Access Right as 'Group Admin'.
+![](../../.gitbook/assets/set-up-ga.png)
 
 ### 2-3. Click the 'Add User' button and wait for the red progress bar at the top of the screen to be done.  
 
-> You can make changes by clicking the pencil-shaped button at the far right of each item.
+> You can make changes by clicking the pencil-shaped button at the far right of each user.
 
 ## 3. User Access User Registration
 
-> Notice: only the Super Admin users can add users. Group Admin users and User Access users cannot add users.
+> Notice: Only the Super Admin users can add users. Group Admin users and User Access users cannot add users.
 
 ### 3-1.  Enter the basic personal information.  
 
-![](../../.gitbook/assets/add_user_ua.jpg)
+Enter the name, user ID, email address. Later, the User ID will be used to distinguish users more easily. It is recommended to use Alphabets for the User ID.
 
-Enter the name, user ID, email address. User ID will later be used to distinguish users more easily. Alphabet initials are recommended.
+### 3-2. Select the 'Org. Access Right' as 'User Access'.
 
-### 3-2. Select the Access Right as 'User Access'.
+![](../../.gitbook/assets/set-up-ua.png)
 
 ### 3-3. Click the 'Add User' button and wait for the red progress bar at the top of the screen to be done.  
 
-> You can make changes by clicking the pencil-shaped button at the far right of each item.
+> You can make changes by clicking the pencil-shaped button at the far right of each user.
 
 ## + Users must be assigned to the group after the registration.  
 
