@@ -1,8 +1,8 @@
 ---
-description: 재무제표 작성 관련 FAQ 목록입니다. (답변을 연결하는 중입니다.)
+description: Our team is preparing explanations for FAQ on Financial Statements
 ---
 
-# \(DO NOT WORK\)재무제표 관련 FAQ
+# \(Bo/ To Update\) FAQs on Financial Statements \(In Progress\)
 
 1. 기업\(Entity\)은 어떻게 등록하나요? 모회사\(Head Quarter\)와 자회사는 어떻게 구분하나요?
 2. 기업\(Entity\)의 이름은 어떻게 수정하나요?

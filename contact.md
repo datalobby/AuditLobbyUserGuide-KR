@@ -1,4 +1,4 @@
-# Contact
+# \(Bo/To update\)Contact
 
 > 직접 문의를 원하시는 경우
 >
