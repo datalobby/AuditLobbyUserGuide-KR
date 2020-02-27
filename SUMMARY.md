@@ -37,7 +37,7 @@
   * [\(ENG/Updated\)"Web browser is unexpectedly closed when uploading the file." \[.hwp file extension issu](audit-lobby-faq/undefined-2.md)
   * [\(Venu/Done\)"I can't find the project while trying to Roll Forward"](audit-lobby-faq/undefined-6.md)
   * [\(Venu/Done\)All information is entered on the Create Project, but it does not go to the next step.](audit-lobby-faq/1..md)
-  * [\(ENG\) FAQ - Workpaper](audit-lobby-faq/faq-1.md)
+  * [\(ENG\) FAQ - Workpaper \(In Progress\)](audit-lobby-faq/faq-1.md)
   * [\(DO NOT WORK\)재무제표 관련 FAQ](audit-lobby-faq/faq.md)
   * [\(DO NOT WORK\)고객준비자료\(PBC\) 관련 FAQ](audit-lobby-faq/pbc-faq.md)
 * [Contact](contact.md)

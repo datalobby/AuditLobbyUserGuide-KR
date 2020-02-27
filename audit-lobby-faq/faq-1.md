@@ -1,8 +1,8 @@
 ---
-description: 조서 (Workpaper) 관련 자주 묻는 질문 (답변을 연결하는 중입니다.)
+description: Our team is preparing explanations for FAQ on Workpapers
 ---
 
-# \(ENG\) FAQ - Workpaper
+# \(ENG\) FAQ - Workpaper \(In Progress\)
 
 1. Workpaper는 어디에서 볼 수 있나요? 
 2. 프로젝트 대시보드에서 Workpaper는 어떻게 확인할 수 있나요? 
