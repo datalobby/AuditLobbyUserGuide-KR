@@ -32,15 +32,13 @@ The Audit LOBBY system is divided into two parts: Organization and Project funct
 2. Group Admin
 3. User Access
 
-
-
 {% page-ref page="../guide-by-function/organization-access-right.md" %}
 
 ## View Details  
 
 ## 1. Super Admin User Registration
 
-> Notice:  Only Super Admin users can add users. Group Admin users and User Access users can not add users.
+> Note:  Only Super Admin users can add users. Group Admin and User Access users can not add users.
 
 ### 1-1. Enter the basic personal information.  
 
