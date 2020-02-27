@@ -43,7 +43,7 @@ You can revise the Client ID and Client Name of the registered client or delete 
 3. Click the pencil icon on the right side of the client and edit the ID and name.
 4. Click the trash bin icon on the right side of the client to delete the client.
 
-![](../../../.gitbook/assets/add_client_9.jpg)
+![](../../../.gitbook/assets/set-up-create-client-success-message%20%281%29.png)
 
 ## 3. Assign the client to the group
 
