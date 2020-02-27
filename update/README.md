@@ -2,7 +2,7 @@
 description: '2019년 10월 업데이트되는 기간(Period) 정보 추가, 역할 지정(Assign Roles) 기능 등에 대해 안내드립니다.'
 ---
 
-# 10월 업데이트
+# 2019 October Update
 
 ## 10월 업데이트 항목
 

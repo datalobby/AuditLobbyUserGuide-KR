@@ -1,7 +1,7 @@
 # Table of contents
 
-* [Audit LOBBY](README.md)
-* [10월 업데이트](update/README.md)
+* [Audit LOBBY \(BO/To Update\)](README.md)
+* [2019 October Update](update/README.md)
   * [2019년 8월 업데이트](update/2019-8.md)
   * [2019년 6월 업데이트](update/2019-6.md)
   * [2019년 5월 업데이트 안내](update/2019-5.md)
