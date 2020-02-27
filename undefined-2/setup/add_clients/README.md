@@ -1,5 +1,7 @@
 ---
-description: Instruction on how to register your client with adobe
+description: >-
+  This illustrates how the client master data can be managed that can be used
+  while creating a project and updating the project Information.
 ---
 
 # \(Venu/Pending\)3. Client Registration / Edit / Delete
