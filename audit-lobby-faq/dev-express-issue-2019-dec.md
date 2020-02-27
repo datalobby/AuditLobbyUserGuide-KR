@@ -25,7 +25,7 @@ In addition, please check the list of opened files when editing online documents
 
 ### 1-1. Download a workpaper
 
-1-1-1. Please **"Righ-click"** on the file you want to edit and select **"Download"**.
+1-1-1. Please **"Right-click"** on the file you want to edit and select **"Download"**.
 
 ![](../.gitbook/assets/image-43.png)
 
