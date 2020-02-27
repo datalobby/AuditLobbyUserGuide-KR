@@ -2,19 +2,19 @@
 description: When you try to upload a file and the web browser is forcibly terminated
 ---
 
-# \(ENG\)"Web browser is abruptly closed when uploading the file."
+# \(ENG/Updated\)"Web browser is unexpectedly closed when uploading the file." \[.hwp file extension issu
 
-## "I want to upload a file, but when I click the Upload button, the Internet window suddenly goes out."
+## "I want to upload a file, but when I click the "Upload" button, the Internet window suddenly goes out."
 
 > * This is for Windows computer users
 > * This is what happens throughout the Chrome browser
 
-## The web browser is forcibly terminated while uploading a HWP \(2010~2014 version\) file from the Chrome browser.
+## The web browser is forcibly terminated while uploading a .hwp file extension \(2010~2014 version\) file from the Chrome browser.
 
 Please take the following guidance. 
 
 1. Run Window Explorer
-2. Enter drive C
+2. Enter C drive
 3. Enter the Program Files \(x86\) folder
 4. Enter the Hnc folder
 5. Enter Hwp80 \(or HOffice9\) folder

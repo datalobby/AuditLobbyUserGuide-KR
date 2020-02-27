@@ -1,28 +1,30 @@
 ---
-description: How to register / edit / delete users on Audit LOBBY
+description: >-
+  This article illustrates the different User types, Organization access rights
+  and how to add, edit, suspend, remove the users of an organization.
 ---
 
 # \(Venu/Pending\)2. User Registration / Edit / Delete
 
 ## [Summary](../guide-by-function/organization-access-right.md) 
 
-You can register a user by clicking Set Up &gt; Users in the Organization Menu and clicking the 'Add User' button in the lower right corner of the screen.
+You can register a user by clicking 'Set Up &gt; Users' in the left navigation menu of the Organization View and clicking the 'Add User' button in the bottom-right corner of the screen.
 
-![Organization Menu &amp;gt; Set Up &amp;gt; Users &amp;gt; Add User](../../.gitbook/assets/add_user.jpg)
+![Organization View &amp;gt; Set Up &amp;gt; Users &amp;gt; Add User](../../.gitbook/assets/set-up-users%20%281%29.png)
 
-![](../../.gitbook/assets/add_user_basic_dialog.jpg)
+![](../../.gitbook/assets/set-up-add-user.png)
 
-1. Select Internal User or External User
-2. Enter the email address of the new user
-3. Enter the name of the new user
-4. Enter the user ID of the new user
-5. Select the access right of the new user
-6. Enter additional information about the new user in the Title field \(Optional\) 
-7. Click 'Add User'' and wait until the red progress bar at the top of the screen is done
+1. Select Internal User or External User.
+2. Enter the Email address of the new user.
+3. Enter the 'Name' of the new user.
+4. Enter the 'User ID' of the new user.
+5. Select the 'Org. Access Right' of the new user.
+6. Enter designation of the new user in the 'Title' field \(Optional\).
+7. Click the 'Add User' button and wait until the red progress bar at the top of the screen is done.
 
 ### What is 'Access Right'?
 
-The Audit LOBBY system can be divided into two parts: Organization and Project functions. The menu associated with the overall management of a firm is called the Organization Menu or Organization View, and here the Audit LOBBY users are classified into three types. 
+The Audit LOBBY system is divided into two parts: Organization and Project functions. The menu associated with the overall management of a firm is called the Organization Menu or Organization View, and here the Audit LOBBY users are classified into three types. 
 
 > These three types apply to the Audit LOBBY system for the firm but differ from the roles within each project.
 
