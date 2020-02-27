@@ -4,7 +4,7 @@ description: >-
   and how to add, edit, suspend, remove the users of an organization.
 ---
 
-# \(Venu/Pending\)2. User Registration / Edit / Delete
+# \(Venu/Done\)2. User Registration / Edit / Delete
 
 ## [Summary](../guide-by-function/organization-access-right.md) 
 
