@@ -1,6 +1,6 @@
 ---
 description: >-
-  Using this module, the client master data can be managed those can be used
+  Using this module, the client master data can be managed that can be used
   while creating a project and updating the project Information.
 ---
 
