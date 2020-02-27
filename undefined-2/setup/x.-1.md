@@ -2,7 +2,7 @@
 description: How to register / edit / delete users on Audit LOBBY
 ---
 
-# \(ENG\)2. User Registration / Edit / Delete
+# \(Venu/Pending\)2. User Registration / Edit / Delete
 
 ## [Summary](../guide-by-function/organization-access-right.md) 
 
