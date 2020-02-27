@@ -2,7 +2,7 @@
 description: Instruction on how to register your client with adobe
 ---
 
-# \(ENG\)3. Client Registration / Edit / Delete
+# \(Venu/Pending\)3. Client Registration / Edit / Delete
 
 ## Client Registration / Edit / Delete in the Organization View
 
