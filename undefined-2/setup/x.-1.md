@@ -42,21 +42,23 @@ The Audit LOBBY system is divided into two parts: Organization and Project funct
 
 ### 1-1. Enter the basic personal information.  
 
-Enter the name, user ID, email address. User ID will later be used to distinguish users more easily. Alphabet initials are recommended.
+Enter the name, user ID, email address. Later, the User ID will be used to distinguish users more easily. It is recommended to use Alphabets for the User ID.
 
-![](../../.gitbook/assets/add_user_sa.jpg)
+![Only the Super Admin who is an Archive Manager can provide Archive Manager permission to other Super Admins](../../.gitbook/assets/set-up-am.png)
 
 ### 1-2. Select the Access Right as 'Super Admin'.
 
 ### 1-3. Select whether the user has the right to be an Archive Manager or not.
 
-* Only the Super Admin users with Archive Manager permission set to Yes can set the archive conditions for the firm or manage archived projects
-* Super Admin users with Archive Manager permission set to No cannot set the archive conditions nor manage archived projects
-* You cannot assign Archive Manager permission to Group Admin users or User Access users
+If you are an Archive Manager, then only you can provide 'Archive Manager' permissions to others.
+
+1. The 'Archive Manager' permission is given only to the Super Admin users.
+2. The 'Archive Manager' field with the 'Yes/ No' options gets displayed upon choosing the 'Super Admin' value in the 'Org. Access Right' drop-down.
+3. Archive Manager is the person who can control the Archived and Unarchived projects from the 'Archive Management' screen.
 
 ### 1-4. Click the 'Add User' button and wait for the red progress bar at the top of the screen to be done. 
 
-> You can make changes by clicking the pencil-shaped button at the far right of each item.
+> You can make changes by clicking the pencil-shaped button at the far right of each user.
 
 ## 2. Group Admin User Registration
 
