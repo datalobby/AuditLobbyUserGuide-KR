@@ -6,5 +6,5 @@ description: How to assign / unassign users or clients to a group.
 
 Assigning and unassigning users or clients to Groups can be done in the 'Set Up' page from the Organization View menu. 
 
-![](../../../.gitbook/assets/groups%20%285%29.png)
+![](../../../.gitbook/assets/groups%20%286%29.png)
 

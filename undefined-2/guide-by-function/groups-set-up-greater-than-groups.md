@@ -9,7 +9,7 @@ description: >-
 
 ## Summary
 
-![Organization View &amp;gt; Set Up &amp;gt; Groups tab](../../.gitbook/assets/groups%20%282%29.png)
+![Organization View &amp;gt; Set Up &amp;gt; Groups tab](../../.gitbook/assets/groups%20%283%29.png)
 
 1. The Groups screen can be accessed by both Super Admin and Group Admin users only.
 2. The actions like create, edit, delete can be performed only by the Super Admin.
