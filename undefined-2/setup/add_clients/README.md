@@ -4,7 +4,7 @@ description: >-
   while creating a project and updating the project Information.
 ---
 
-# \(Venu/Pending\)3. Client Registration / Edit / Delete
+# \(Venu/Done\)3. Client Registration / Edit / Delete
 
 ## Client Registration / Edit / Delete in the Organization View
 
@@ -47,7 +47,7 @@ You can revise the Client ID and Client Name of the registered client or delete 
 
 ## 3. Assign the client to the group
 
-![Organization View &amp;gt; &apos;Set up&apos; &amp;gt; &apos;Groups&apos; tab ](../../../.gitbook/assets/add_client_3.jpg)
+![Organization View &amp;gt; Set Up &amp;gt; &apos;Groups&apos; tab ](../../../.gitbook/assets/set-up-groups.png)
 
 When you create a project, only clients that are assigned to the group appear in the 'Client Name' list. Therefore, clients must be assigned to the appropriate groups.
 
@@ -55,24 +55,20 @@ When you create a project, only clients that are assigned to the group appear in
 2. Click the 'Groups' tab at the top of the 'Set Up' page
 3. Find the group that you wish to assign the client to and click the '+' icon on the right.
 
-![Assign Users / Clients window shows up. ](../../../.gitbook/assets/add_client_4.jpg)
+![Assign Users / Clients to Group shows up. ](../../../.gitbook/assets/set-up-groups-to-clients.png)
 
 1. In the above dialog, click the 'Assign Clients to Group' at the top.
 
-![Search for the name of the client you registered in the search box and assign it to the group.t](../../../.gitbook/assets/add_client_7.jpg)
+![Search for the name of the client you registered in the search box and assign it to the group.](../../../.gitbook/assets/set-up-groups-to-clients-assign.png)
 
 1. Search for the name of the registered client in the search box under the client list of LHS section.
 2. Click the name of the client in the search results.
 3. Click the right arrow.
 
-![You can see that the client is assigned to the group. ](../../../.gitbook/assets/add_client_8.jpg)
+![You can see that the client is assigned to the group.](../../../.gitbook/assets/set-up-groups-to-clients-assign%20%281%29.png)
 
 1. When the client is assigned, you will see the name of the client on the right side of the dialog.
 2. You will see a success message in the top-right corner of the screen.
-
-
-
-![](../../../.gitbook/assets/add_client_9.jpg)
 
 
 
