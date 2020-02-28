@@ -57,7 +57,7 @@
     * [\(Venu/Done\)4. Group Registration / Edit / Delete](undefined-2/setup/x.-group-1.md)
     * [\(Venu/Done\)5. Assigning / Unassigning User or Client to a Group](undefined-2/setup/5.-group/README.md)
       * [\(Venu/Done\)5-1. Assigning / Unassigning User to/from a Group](undefined-2/setup/5.-group/5-1..md)
-      * [\(ENG\)5-2. Assigning / Unassigning Client to/from a Group](undefined-2/setup/5.-group/5-2..md)
+      * [\(Venu/Done\)5-2. Assigning / Unassigning Client to/from a Group](undefined-2/setup/5.-group/5-2..md)
     * [\(ENG\)6. Engagement Type Registration / Edit / Delete](undefined-2/setup/x.-engagement-type.md)
     * [\(Venu/Done\)8. Templates Creation](undefined-2/setup/x.-2/README.md)
       * [\(Venu/Done\)8-1. Project Templates](undefined-2/setup/x.-2/x-1..md)
