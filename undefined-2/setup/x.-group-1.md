@@ -43,7 +43,7 @@ You can **create a group in the 'Set Up' menu** from the left navigation menu of
 6. Enter a new group name.
 7. Click the 'Update' to reflect changes.
 
-![](../../.gitbook/assets/groups%20%286%29.png)
+![](../../.gitbook/assets/groups%20%287%29.png)
 
 ![](../../.gitbook/assets/groups%20%281%29.png)
 
@@ -58,7 +58,7 @@ You can **create a group in the 'Set Up' menu** from the left navigation menu of
 
 ![](../../.gitbook/assets/groups%20%284%29.png)
 
-![](../../.gitbook/assets/groups%20%285%29.png)
+![](../../.gitbook/assets/groups%20%286%29.png)
 
 
 
