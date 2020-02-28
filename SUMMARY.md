@@ -53,7 +53,7 @@
       * [\(ENG\)1-2. Reissue a new verification code](undefined-2/setup/0./1-2.-2.md)
     * [\(Venu/Done\)2. User Registration / Edit / Delete](undefined-2/setup/x.-1.md)
     * [\(Venu/Done\)3. Client Registration / Edit / Delete](undefined-2/setup/add_clients/README.md)
-      * [\(Razia\)3-1. Editing Client ID/ Client Name](undefined-2/setup/add_clients/3-1.-id.md)
+      * [\(Venu/Done\)3-1. Editing Client ID/ Client Name](undefined-2/setup/add_clients/3-1.-id.md)
     * [\(ENG\)4. Group Registration / Edit / Delete](undefined-2/setup/x.-group-1.md)
     * [\(ENG\)5. Assigning / Unassigning User or Client to a Group](undefined-2/setup/5.-group/README.md)
       * [\(ENG\)5-1. Assigning / Unassigning User to/from a Group](undefined-2/setup/5.-group/5-1..md)
