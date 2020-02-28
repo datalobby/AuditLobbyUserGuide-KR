@@ -75,7 +75,7 @@ NOTE: A group cannot be deleted when it has at least one project.
 
 ### 4.1. Assign Users to Group
 
-![Assign users to Group](../../.gitbook/assets/assign-users-to-group%20%281%29.png)
+![Assign users to Group](../../.gitbook/assets/assign-users-to-group%20%285%29.png)
 
 1. Super Admin & Group Admin have access to assign/unassign users to Group.
 2. Locate the group that you wish to assign users to it.
