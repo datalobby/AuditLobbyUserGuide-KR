@@ -31,7 +31,7 @@
   * [\(Venu/Done\)"What should I do when my verification code expires?"](audit-lobby-faq/undefined-1.md)
   * [\(Venu/Done\)"I have deleted the 'Verification Code' or 'Temporary Password' e-mail."](audit-lobby-faq/.-1.md)
   * [\(Venu/Pending\)"If you forgot your password"](audit-lobby-faq/.-4.md)
-  * [\(ENG\)"Favorites does not work."](audit-lobby-faq/undefined.md)
+  * [\(Venu/Done\)"Favorites does not work."](audit-lobby-faq/undefined.md)
   * [\(Venu/Done\)"The screen does not appear."](audit-lobby-faq/untitled.md)
   * [\(Venu/Done\)"I cannot log in to the Sync Lobby."](audit-lobby-faq/synclobby.md)
   * [\(ENG/Updated\)"Web browser is unexpectedly closed when uploading the file." \[.hwp file extension issu](audit-lobby-faq/undefined-2.md)
