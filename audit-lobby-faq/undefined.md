@@ -12,7 +12,8 @@ description: I have trouble to access the Audit Lobby from bookmarks.
    2. For Indian users, in.auditlobby.com
    3. For Korean users, kr.auditlobby.com
 3. If your organization has a dedicated instance, then bookmark your organization's audit lobby base URL directly.
-   1. Ex: {organizationName}.auditlobby.com
+   1. {organizationName}.auditlobby.com
+   2. Ex: abhrallp.auditlobby.com
 
 ## How to register Audit lobby as a favorite on your web browser  
 
