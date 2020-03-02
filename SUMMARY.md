@@ -39,7 +39,7 @@
   * [\(Venu/Done\)All information is entered on the Create Project, but it does not go to the next step.](audit-lobby-faq/1..md)
   * [\(ENG\) FAQs - Workpaper \(In Progress\)](audit-lobby-faq/faq-1.md)
   * [\(Bo/ To Update\) FAQs on Financial Statements \(In Progress\)](audit-lobby-faq/faq.md)
-  * [\(Venu/To Update\) FAQs on PBC \(In Progress\)](audit-lobby-faq/pbc-faq.md)
+  * [\(Venu/Pending\) FAQs on PBC \(In Progress\)](audit-lobby-faq/pbc-faq.md)
 * [\(Bo/To update\)Contact](contact.md)
 * [\(Razia/Bo Review\) Audit LOBBY User Guide](undefined-2/README.md)
   * [\(Razia-Done\)How to use the User Guide](undefined-2/contents.md)
